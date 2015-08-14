@@ -1,0 +1,486 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          8.337648063898087,
+          45.051617877780856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8280",
+        "title": "WC pubblici",
+        "percorso": "1969",
+        "nome_comune": "Ottiglio",
+        "id_comune": "6114",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.367565423250198,
+          45.03693905624982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8259",
+        "title": "WC pubblici",
+        "percorso": "1969",
+        "nome_comune": "Olivola",
+        "id_comune": "6136",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.386379778385162,
+          45.03201273851789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8211",
+        "title": "WC pubblici",
+        "percorso": "1969",
+        "nome_comune": "Frassinello Monferrato",
+        "id_comune": "6106",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.443327099084854,
+          45.08340828102688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8159",
+        "title": "WC pubblici",
+        "percorso": "1969",
+        "nome_comune": "Terruggia",
+        "id_comune": "6127",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.456412255764008,
+          44.99102484968931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8138",
+        "title": "WC pubblici",
+        "percorso": "1997",
+        "nome_comune": "Cuccaro Monferrato",
+        "id_comune": "6134",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.45554992556572,
+          44.99079247832444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8126",
+        "title": "WC pubblici",
+        "percorso": "1997",
+        "nome_comune": "Cuccaro Monferrato",
+        "id_comune": "6134",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.45573365688324,
+          45.02049422877917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8029",
+        "title": "WC pubblici",
+        "percorso": "1997",
+        "nome_comune": "Conzano",
+        "id_comune": "6085",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.430543690919876,
+          45.017944146599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8010",
+        "title": "WC pubblici",
+        "percorso": "1997",
+        "nome_comune": "Camagna Monferrato",
+        "id_comune": "6075",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.398952633142471,
+          45.010288477948535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7941",
+        "title": "WC pubblici",
+        "percorso": "1997",
+        "nome_comune": "Vignale Monferrato",
+        "id_comune": "6131",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.337135761976242,
+          45.021675380774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7814",
+        "title": "WC pubblici",
+        "percorso": "1997",
+        "nome_comune": "Casorzo",
+        "id_comune": "6079",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.312946259975433,
+          45.03965413088985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7789",
+        "title": "WC pubblici",
+        "percorso": "1997",
+        "nome_comune": "Grazzano Badoglio",
+        "id_comune": "6087",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.267048299312592,
+          45.052015805135206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7701",
+        "title": "WC pubblico",
+        "percorso": "1997",
+        "nome_comune": "Moncalvo",
+        "id_comune": "5941",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.240770697593689,
+          45.07510979570885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7491",
+        "title": "WC pubblici",
+        "percorso": "1971",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.412335515022278,
+          45.107892344305355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7438",
+        "title": "WC pubblici",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.414693176746368,
+          45.107881932620906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7430",
+        "title": "WC pubblico",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.38783085346222,
+          45.07837516574749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7381",
+        "title": "WC pubblico",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.365083038806915,
+          45.07616291687235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7268",
+        "title": "WC pubblico",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.375975489616394,
+          45.10204067826302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7110",
+        "title": "WC pubblico",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.209477365016937,
+          45.071901065899546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7047",
+        "title": "WC pubblico",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.137183785438538,
+          45.08389026259413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6695",
+        "title": "WC pubblico",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.135150671005249,
+          45.081473685411716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6690",
+        "title": "WC pubblico",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.367290496826172,
+          45.14796703428586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6431",
+        "title": "WC pubblico",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.374256193637848,
+          45.147587746401925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6422",
+        "title": "WC pubblico",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.166858061342282,
+          45.10945476581296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5440",
+        "title": "WC pubblico",
+        "percorso": "1987",
+        "nome_comune": "Odalengo Grande",
+        "id_comune": "6110",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.099285209821687,
+          45.10204363030734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5407",
+        "title": "WC pubblico",
+        "percorso": "1987",
+        "nome_comune": "Robella",
+        "id_comune": "6118",
+        "nome_manuale": "",
+        "categories": "Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    }
+  ]
+}
