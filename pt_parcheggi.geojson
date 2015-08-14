@@ -1,0 +1,1303 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          8.20006012916565,
+          45.04114760393322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8619",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Alfiano Natta",
+        "id_comune": "6077",
+        "nome_manuale": "0",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.317856043577194,
+          45.08529546658599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8306",
+        "title": "Parcheggio",
+        "percorso": "1969",
+        "nome_comune": "Cereseto",
+        "id_comune": "2201",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.338714241981506,
+          45.05551176215966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8302",
+        "title": "Parcheggio",
+        "percorso": "1969",
+        "nome_comune": "Ottiglio",
+        "id_comune": "6114",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.338041007518768,
+          45.05241183484847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8287",
+        "title": "Parcheggio",
+        "percorso": "1969",
+        "nome_comune": "Ottiglio",
+        "id_comune": "6114",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.367287814617157,
+          45.03730486439138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8267",
+        "title": "Parcheggio",
+        "percorso": "1969",
+        "nome_comune": "Olivola",
+        "id_comune": "6136",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.368645012378693,
+          45.05304377131923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8247",
+        "title": "Parcheggio",
+        "percorso": "1969",
+        "nome_comune": "Ottiglio",
+        "id_comune": "6114",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.386649340391159,
+          45.03134265830671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8205",
+        "title": "Parcheggio",
+        "percorso": "1969",
+        "nome_comune": "Frassinello Monferrato",
+        "id_comune": "6106",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.388577848672867,
+          45.03179759339289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8196",
+        "title": "Parcheggio",
+        "percorso": "1969",
+        "nome_comune": "Frassinello Monferrato",
+        "id_comune": "6106",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.392648100852966,
+          45.03106400878065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8186",
+        "title": "Parcheggio",
+        "percorso": "1969",
+        "nome_comune": "Frassinello Monferrato",
+        "id_comune": "6106",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.442450016736984,
+          45.08353990311585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8165",
+        "title": "Parcheggio",
+        "percorso": "1969",
+        "nome_comune": "Terruggia",
+        "id_comune": "6127",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.456330448389053,
+          44.992520539966726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8117",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Cuccaro Monferrato",
+        "id_comune": "6134",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.48695993423462,
+          45.00290203948338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8097",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Lu",
+        "id_comune": "6089",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.45499336719513,
+          45.02059566092617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8027",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Conzano",
+        "id_comune": "6085",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.43043103814125,
+          45.01773084461526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "8006",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Camagna Monferrato",
+        "id_comune": "6075",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.428615182638168,
+          45.01740188399823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7976",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Camagna Monferrato",
+        "id_comune": "6075",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.399135023355484,
+          45.01025244885314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7944",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Vignale Monferrato",
+        "id_comune": "6131",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.399002254009247,
+          45.01190976378422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7894",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Vignale Monferrato",
+        "id_comune": "6131",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.329102545976639,
+          45.020779565482066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7861",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Casorzo",
+        "id_comune": "6079",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.339199721813202,
+          45.022756028187274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7850",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Casorzo",
+        "id_comune": "6079",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.334092795848846,
+          45.02385561338941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7831",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Casorzo",
+        "id_comune": "6079",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.337480425834656,
+          45.02164599446298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7812",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Casorzo",
+        "id_comune": "6079",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.313088417053223,
+          45.03933856338623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7785",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Grazzano Badoglio",
+        "id_comune": "6087",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.266580253839493,
+          45.0516415640104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7697",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Moncalvo",
+        "id_comune": "5941",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.206489384174347,
+          45.049393223376626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7646",
+        "title": "Parcheggio",
+        "percorso": "1997",
+        "nome_comune": "Alfiano Natta",
+        "id_comune": "6077",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.249738663434982,
+          45.132086806533955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7619",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "Mombello Monferrato",
+        "id_comune": "6091",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.28098639845848,
+          45.13099497891046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7613",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "Solonghello",
+        "id_comune": "6126",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.281725347042084,
+          45.10055068884064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7571",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "Serralunga di Crea",
+        "id_comune": "6124",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.283602893352509,
+          45.09994673033773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7563",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "Serralunga di Crea",
+        "id_comune": "6124",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.273830264806747,
+          45.09365401150467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7543",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "Serralunga di Crea",
+        "id_comune": "6124",
+        "nome_manuale": "0",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.262558281421661,
+          45.085670434315475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7516",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.241250813007355,
+          45.07576326346408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7499",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.24062317609787,
+          45.07511547806937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7487",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.188900798559189,
+          45.13235361045295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7470",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.412440121173859,
+          45.10836560068441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7446",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.414690494537354,
+          45.107482501110724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7422",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.42389851808548,
+          45.10572194029193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7412",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.398211002349854,
+          45.081344899432814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7404",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.387722223997116,
+          45.077982156899665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7379",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.391832709312439,
+          45.07476317064905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7300",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.358692675828934,
+          45.074765064780784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7255",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.361271619796753,
+          45.0975166321102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7223",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.37612971663475,
+          45.10212871327021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7121",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.169673383235931,
+          45.07284627716511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7086",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.164775669574738,
+          45.070696325073705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "7070",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.166618347167969,
+          45.109488149123386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6976",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.167271465063095,
+          45.13343878941677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6859",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.100866675376892,
+          45.102062450374206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6852",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.169745802879333,
+          45.1345674671638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6774",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.119634091854095,
+          45.100217471146316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6704",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "Murisengo",
+        "id_comune": "6108",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.120021671056747,
+          45.09731214698091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6700",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.13860535621643,
+          45.084511435198195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6613",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "Murisengo",
+        "id_comune": "6108",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.13724547624588,
+          45.08374633139285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6610",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.135169446468353,
+          45.081557017361014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6606",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.135968744754791,
+          45.07977103556323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6567",
+        "title": "Parcheggio",
+        "percorso": "1987",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.158743381500244,
+          45.155040621876374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6480",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.194859325885773,
+          45.15857945064236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6451",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.215823471546173,
+          45.12075121773613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6333",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.455730974674225,
+          45.13612657621121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "6250",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.446727,
+          45.136738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5810",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "Casale Monferrato",
+        "id_comune": "6101",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.372561,
+          45.14764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5787",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.333173,
+          45.143929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5798",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.368048,
+          45.147926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5802",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.249602,
+          45.169041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5762",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.290599,
+          45.16161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5764",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.291682,
+          45.15995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5756",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.287393,
+          45.162201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5758",
+        "title": "Parcheggio",
+        "percorso": "1993",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.354201,
+          45.127647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5672",
+        "title": "Parcheggio",
+        "percorso": "1989",
+        "nome_comune": "",
+        "id_comune": "",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.230907,
+          45.10688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "postid": "5300",
+        "title": "Parcheggio",
+        "percorso": "1971",
+        "nome_comune": "Cerrina Monferrato",
+        "id_comune": "6083",
+        "nome_manuale": "",
+        "categories": "parcheggio,Punti dinteresse (POI)"
+      },
+      "type": "Feature"
+    }
+  ]
+}
