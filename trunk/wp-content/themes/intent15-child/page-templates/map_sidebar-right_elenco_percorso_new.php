@@ -63,7 +63,7 @@ echo"
 ?>
 
 
-<script src='http://www.monferratopaesaggi.org/js/mappa_tutti_percorsi_percorso.js'></script>
+<script src='http://www.monferratopaesaggi.it/js/mappa_tutti_percorsi_percorso.js'></script>
 
 
 <?php
@@ -95,7 +95,7 @@ while ( $the_query->have_posts() ) : $the_query->the_post();
 ?>
 
                       <div class="col-sm-4">
-                          <a style="margin:5px;width:100%;" class="btn btn-warning" href="http://www.monferratopaesaggi.org/?page_id=<?php echo $id?>">
+                          <a style="margin:5px;width:100%;" class="btn btn-warning" href="http://www.monferratopaesaggi.it/?page_id=<?php echo $id?>">
                               <?php the_title(); ?>
                           </a>
                       </div>
@@ -141,7 +141,7 @@ wp_reset_postdata();
     // l'elenco delle colonne Ã¨ generato tramite un array di acf
     var popupContent = '<table style="width:300px;">'
                     + '<tr>'
-                    + '<a href="http://www.monferratopaesaggi.org/?page_id='
+                    + '<a href="http://www.monferratopaesaggi.it/?page_id='
                     + feature.properties['idm']
                     + '">'
                     + getNomeP(feature.properties['idm'])
@@ -234,7 +234,7 @@ wp_reset_postdata();
 
   // geometria POI
   //var poi = new L.featureGroup();
-  $.getJSON("http://www.monferratopaesaggi.org/geodata/poi_monferrato.geojson", function(data) {
+  $.getJSON("http://www.monferratopaesaggi.it/geodata/poi_monferrato.geojson", function(data) {
     var exp_regJSON = new L.geoJson(data,{
         onEachFeature: pop_reg,
         pointToLayer: function (feature, latlng) {

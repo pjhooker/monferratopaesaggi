@@ -22,7 +22,7 @@
 					<div class="jumbotron">
 						<h1><?php the_title(); ?></h1>
 						<p><?php the_content(); ?></p>
-						<a href="http://www.monferratopaesaggi.org/?page_id=10380" class="btn btn-primary btn-lg" role="button">Inserisci »</a>
+						<a href="http://www.monferratopaesaggi.it/?page_id=10380" class="btn btn-primary btn-lg" role="button">Inserisci »</a>
 					</div>					
 				</div>
 			</article>

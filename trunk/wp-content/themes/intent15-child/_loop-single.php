@@ -127,6 +127,6 @@
     'OSM Standard': basemap_0,
   };
 
-  L.control.layers(baseMaps,{"GeoJson <a href='http://www.monferratopaesaggi.org/geodata/textfile.json' target='_blank'><i class='fa fa-download'></i></a>": cluster_groupexp_regJSON},{collapsed:false}).addTo(map);
+  L.control.layers(baseMaps,{"GeoJson <a href='http://www.monferratopaesaggi.it/geodata/textfile.json' target='_blank'><i class='fa fa-download'></i></a>": cluster_groupexp_regJSON},{collapsed:false}).addTo(map);
 
 </script>

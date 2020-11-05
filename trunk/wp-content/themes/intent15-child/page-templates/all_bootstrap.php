@@ -82,7 +82,7 @@ $nord_it_extent=$bounds_plus;
             var color1969 = <?php colore_percorso('1969') ?> ;
 </script>
 
-<script src='http://www.monferratopaesaggi.org/js/mappa_tutti_percorsi_light.js'></script> 
+<script src='http://www.monferratopaesaggi.it/js/mappa_tutti_percorsi_light.js'></script> 
 
 <div class='row' style='padding-top:80px;'>
     <div class="col-md-4">       

@@ -153,8 +153,8 @@ fclose($fh_com);
 
 	<div id="map"></div> <!-- this is the initial look of the map. in most cases it is done externally using something like a map.css stylesheet were you can specify the look of map elements, like background color tables and so on.-->
 
-	<?php $filegeojson='http://www.monferratopaesaggi.org/geodata/geojsonperasscomuni.geojson'; ?>
-	<?php $filegeojson_js='http://www.monferratopaesaggi.org/geodata/geojsonperasscomuni.js'; ?>
+	<?php $filegeojson='http://www.monferratopaesaggi.it/geodata/geojsonperasscomuni.geojson'; ?>
+	<?php $filegeojson_js='http://www.monferratopaesaggi.it/geodata/geojsonperasscomuni.js'; ?>
 	<script src='<?php echo $filegeojson_js; ?>'></script>
 
 <script>

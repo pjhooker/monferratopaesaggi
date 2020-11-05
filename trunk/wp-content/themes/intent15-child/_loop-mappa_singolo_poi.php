@@ -90,7 +90,7 @@ else{esegui_menu_poi($menu,$postid);}
   else {
 
     $image_esiste=0;
-    //$nullimg='http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
+    //$nullimg='http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
     if ($img1==NULL) {
     	//$img1=$nullimg;
     	if ($img1ext==NULL){$image_esiste=0;}
@@ -378,11 +378,11 @@ visualizza_galleria($postid);
     		var lon = <?php echo $lng; ?>,
     		lat = <?php echo $lat; ?>
     	</script>
-    	<script src='http://www.monferratopaesaggi.org/js/mappa_scheda_poi_leaflet.js'></script>
-    	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_0.js'></script>
-    	<script src='http://www.monferratopaesaggi.org/geodata/poi_monferrato.js'></script>
+    	<script src='http://www.monferratopaesaggi.it/js/mappa_scheda_poi_leaflet.js'></script>
+    	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_0.js'></script>
+    	<script src='http://www.monferratopaesaggi.it/geodata/poi_monferrato.js'></script>
 
-    	<script src='http://www.monferratopaesaggi.org/geodata/poi_monferrato.js'></script>
+    	<script src='http://www.monferratopaesaggi.it/geodata/poi_monferrato.js'></script>
     </div>
     <div class="col-sm-6 blog-main">
   <?php
@@ -522,6 +522,6 @@ visualizza_galleria($postid);
     'OSM Standard': basemap_0,
   };
 
-  L.control.layers(baseMaps,{"GeoJson <a href='http://www.monferratopaesaggi.org/geodata/textfile.json' target='_blank'><i class='fa fa-download'></i></a>": cluster_groupexp_regJSON,"Parcheggi, fontane, WC": poi_extra},{collapsed:false}).addTo(map);
+  L.control.layers(baseMaps,{"GeoJson <a href='http://www.monferratopaesaggi.it/geodata/textfile.json' target='_blank'><i class='fa fa-download'></i></a>": cluster_groupexp_regJSON,"Parcheggi, fontane, WC": poi_extra},{collapsed:false}).addTo(map);
 
 </script>

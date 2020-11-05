@@ -47,12 +47,12 @@ require ( $portfolio_functions );
 
 <?php
 echo"
-	<li><a $active_crea href='http://www.monferratopaesaggi.org/?page_id=5934'>Crea</a></li>
-	<li><a $active_bosco href='http://www.monferratopaesaggi.org/?page_id=5983'>Bric</a></li>
-	<li><a $active_po href='http://www.monferratopaesaggi.org/?page_id=5986'>Po</a></li>
-	<li><a $active_miniera href='http://www.monferratopaesaggi.org/?page_id=5987'>Miniere</a></li>
-	<li><a $active_grignolino href='http://www.monferratopaesaggi.org/?page_id=5989'>Vigne</a></li>
-	<li><a $active_sud href='http://www.monferratopaesaggi.org/?page_id=5988'>Profili</a></li>
+	<li><a $active_crea href='http://www.monferratopaesaggi.it/?page_id=5934'>Crea</a></li>
+	<li><a $active_bosco href='http://www.monferratopaesaggi.it/?page_id=5983'>Bric</a></li>
+	<li><a $active_po href='http://www.monferratopaesaggi.it/?page_id=5986'>Po</a></li>
+	<li><a $active_miniera href='http://www.monferratopaesaggi.it/?page_id=5987'>Miniere</a></li>
+	<li><a $active_grignolino href='http://www.monferratopaesaggi.it/?page_id=5989'>Vigne</a></li>
+	<li><a $active_sud href='http://www.monferratopaesaggi.it/?page_id=5988'>Profili</a></li>
 ";
 $tags="'percorso_".$tag."'";
 ?>

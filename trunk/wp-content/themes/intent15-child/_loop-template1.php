@@ -61,8 +61,8 @@ echo"</ul><hr>";
 //$lat=45.122112;
 //$lon=8.406231 ;
 
-$kml1='http://www.monferratopaesaggi.org/pt_punti_wp_percorso.kml';
-$kml2='http://www.monferratopaesaggi.org/pl_linee_percorso.kml';
+$kml1='http://www.monferratopaesaggi.it/pt_punti_wp_percorso.kml';
+$kml2='http://www.monferratopaesaggi.it/pl_linee_percorso.kml';
 
 ?>
 <div class="clear"></div>

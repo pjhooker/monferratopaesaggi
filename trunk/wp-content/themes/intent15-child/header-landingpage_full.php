@@ -53,20 +53,20 @@ get_metaimage_full($postid);
                 s.parentNode.insertBefore(ga, s);
             })();
             //]]></script>
-      <link rel="alternate" type="application/rss+xml" title="Monferrato Paesaggi &raquo; Palazzo Gozzani di Treville Feed dei commenti" href="http://www.monferratopaesaggi.org/?feed=rss2&#038;p=6241" />
+      <link rel="alternate" type="application/rss+xml" title="Monferrato Paesaggi &raquo; Palazzo Gozzani di Treville Feed dei commenti" href="http://www.monferratopaesaggi.it/?feed=rss2&#038;p=6241" />
 <link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=3.8.4'  media='all' />
-<link rel='stylesheet' id='dashicons-css'  href='http://www.monferratopaesaggi.org/wp-includes/css/dashicons.min.css?ver=3.8.4'  media='all' />
-<link rel='stylesheet' id='admin-bar-css'  href='http://www.monferratopaesaggi.org/wp-includes/css/admin-bar.min.css?ver=3.8.4'  media='all' />
-<link rel='stylesheet' id='boxes-css'  href='http://www.monferratopaesaggi.org/wp-content/plugins/wordpress-seo/css/adminbar.min.css?ver=1.6.2'  media='all' />
-<link rel='stylesheet' id='style-responsive-css'  href='http://www.monferratopaesaggi.org/wp-content/themes/intent15/style-responsive.css?ver=1.0'  media='all' />
-<link rel='stylesheet' id='wpbandit-style-advanced-css'  href='http://www.monferratopaesaggi.org/wp-content/themes/intent15/style-advanced.css?ver=3.8.4'  media='all' />
-<link rel='stylesheet' id='wpbandit-custom-css'  href='http://www.monferratopaesaggi.org/wp-content/themes/intent15/custom.css?ver=1.0'  media='all' />
-<script type='text/javascript' src='http://www.monferratopaesaggi.org/wp-includes/js/comment-reply.min.js?ver=3.8.4'></script>
-<script type='text/javascript' src='http://www.monferratopaesaggi.org/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
-<script type='text/javascript' src='http://www.monferratopaesaggi.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.monferratopaesaggi.org/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.monferratopaesaggi.org/wp-includes/wlwmanifest.xml" /> 
-<link rel='shortlink' href='http://www.monferratopaesaggi.org/?p=6241' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.monferratopaesaggi.it/wp-includes/css/dashicons.min.css?ver=3.8.4'  media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://www.monferratopaesaggi.it/wp-includes/css/admin-bar.min.css?ver=3.8.4'  media='all' />
+<link rel='stylesheet' id='boxes-css'  href='http://www.monferratopaesaggi.it/wp-content/plugins/wordpress-seo/css/adminbar.min.css?ver=1.6.2'  media='all' />
+<link rel='stylesheet' id='style-responsive-css'  href='http://www.monferratopaesaggi.it/wp-content/themes/intent15/style-responsive.css?ver=1.0'  media='all' />
+<link rel='stylesheet' id='wpbandit-style-advanced-css'  href='http://www.monferratopaesaggi.it/wp-content/themes/intent15/style-advanced.css?ver=3.8.4'  media='all' />
+<link rel='stylesheet' id='wpbandit-custom-css'  href='http://www.monferratopaesaggi.it/wp-content/themes/intent15/custom.css?ver=1.0'  media='all' />
+<script type='text/javascript' src='http://www.monferratopaesaggi.it/wp-includes/js/comment-reply.min.js?ver=3.8.4'></script>
+<script type='text/javascript' src='http://www.monferratopaesaggi.it/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.monferratopaesaggi.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.monferratopaesaggi.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.monferratopaesaggi.it/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://www.monferratopaesaggi.it/?p=6241' />
 <script>
 window.onload=function(){
     var combo=document.getElementById('buffercode_option');
@@ -75,7 +75,7 @@ window.onload=function(){
     };
 }; 
 </script>
-<link rel="shortcut icon" href="http://www.monferratopaesaggi.org/wp-content/uploads/favicon-150x150.png">
+<link rel="shortcut icon" href="http://www.monferratopaesaggi.it/wp-content/uploads/favicon-150x150.png">
 <meta name="robots" content="noodp,noydir">
 <style type="text/css" media="print">#wpadminbar { display:none; }</style>
 
@@ -94,7 +94,7 @@ window.onload=function(){
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="http://www.monferratopaesaggi.org">Monferrato Paesaggi</a>
+                <a class="navbar-brand" href="http://www.monferratopaesaggi.it">Monferrato Paesaggi</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <!-- /.navbar-collapse -->

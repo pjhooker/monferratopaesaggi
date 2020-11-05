@@ -10,8 +10,8 @@
 
 <title>Form per aggiungere foto, pubblica1 - Monferrato Paesaggi</title>
 
-<link rel="stylesheet" href="http://www.monferratopaesaggi.org/wp-content/themes/intent15-child/style.css">
-<link rel="pingback" href="http://www.monferratopaesaggi.org/xmlrpc.php">
+<link rel="stylesheet" href="http://www.monferratopaesaggi.it/wp-content/themes/intent15-child/style.css">
+<link rel="pingback" href="http://www.monferratopaesaggi.it/xmlrpc.php">
 
 <script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
 
@@ -29,7 +29,7 @@
 <!-- EXTRA END -->
 <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <script src="http://www.monferratopaesaggi.org/wp-content/themes/intent15/js/ie/selectivizr.js"></script>
+  <script src="http://www.monferratopaesaggi.it/wp-content/themes/intent15/js/ie/selectivizr.js"></script>
 <![endif]-->
 
 
@@ -100,12 +100,12 @@ if ((($_FILES["file"]["type"] == "image/gif")
     echo "
     <meta http-equiv='refresh' content='0;url=?page_id=10406&new_postid=$post_id'>
     ";
-    //echo "<meta http-equiv='refresh' content='0;url=http://www.monferratopaesaggi.org/?page_id=10405&new_postid=$post_id&filename=".$name."'>";
+    //echo "<meta http-equiv='refresh' content='0;url=http://www.monferratopaesaggi.it/?page_id=10405&new_postid=$post_id&filename=".$name."'>";
   }
 }
 else {
   echo "Invalid file";
-  echo "<meta http-equiv='refresh' content='4;url=http://www.monferratopaesaggi.org/?page_id=10405&new_postid=$post_id'>";
+  echo "<meta http-equiv='refresh' content='4;url=http://www.monferratopaesaggi.it/?page_id=10405&new_postid=$post_id'>";
 }
 
 ?> 

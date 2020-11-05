@@ -9,8 +9,8 @@ $passid = get_the_ID();
 				<div class="row">
 	        		<div class="col-sm-4 hidden-xs hidden-sm">
 	        			<p><b>Progetto</b></p>
-						<p><a href="http://www.odpm.it/"><img src="http://www.monferratopaesaggi.org/wp-content/uploads/logo-odpm-footer2grey1.png"></a> </p>
-						<p><a href="http://www.compagniadisanpaolo.it/"><img src="http://www.monferratopaesaggi.org/wp-content/uploads/logo-san-paologrey.png" style="width:50%;"></a></p>
+						<p><a href="http://www.odpm.it/"><img src="http://www.monferratopaesaggi.it/wp-content/uploads/logo-odpm-footer2grey1.png"></a> </p>
+						<p><a href="http://www.compagniadisanpaolo.it/"><img src="http://www.monferratopaesaggi.it/wp-content/uploads/logo-san-paologrey.png" style="width:50%;"></a></p>
 					</div>
 			        <div class="col-sm-4 hidden-xs hidden-sm">
 			        	<p style='text-align:center;'>
@@ -26,7 +26,7 @@ $passid = get_the_ID();
 						</p>
 						<p style='text-align:center;'>
 							Pagina Monferrato Paesaggi su <a href="https://plus.google.com/104858056468305692205" rel="publisher" style='color:#fff;'>Google+</a>
-							<a href="http://www.monferratopaesaggi.org/?page_id=10356" style='color:#fff;'><i class="fa fa-bug"></i></a>
+							<a href="http://www.monferratopaesaggi.it/?page_id=10356" style='color:#fff;'><i class="fa fa-bug"></i></a>
 						</p>
 			        </div>
 			        <div class="col-sm-4 hidden-xs hidden-sm" style='padding-bottom:15px;' itemscope itemtype="http://data-vocabulary.org/Organization">
@@ -65,7 +65,7 @@ $passid = get_the_ID();
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-		<!-- <script type='text/javascript' async src='http://www.monferratopaesaggi.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script> -->
+		<!-- <script type='text/javascript' async src='http://www.monferratopaesaggi.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script> -->
     <script async src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script async src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script async src="http://getbootstrap.com/assets/js/docs.min.js"></script>

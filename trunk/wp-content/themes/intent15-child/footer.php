@@ -52,8 +52,8 @@ $passid = get_the_ID();
 				<div class="row">
 	        		<div class="col-sm-4 hidden-xs hidden-sm">
 	        			<p><b>Progetto</b></p>
-						<p><a href="http://www.odpm.it/"><img src="http://www.monferratopaesaggi.org/wp-content/uploads/logo-odpm-footer2grey1.png"></a> </p>
-						<p><a href="http://www.compagniadisanpaolo.it/"><img src="http://www.monferratopaesaggi.org/wp-content/uploads/logo-san-paologrey.png" style="width:50%;"></a></p>
+						<p><a href="http://www.odpm.it/"><img src="http://www.monferratopaesaggi.it/wp-content/uploads/logo-odpm-footer2grey1.png"></a> </p>
+						<p><a href="http://www.compagniadisanpaolo.it/"><img src="http://www.monferratopaesaggi.it/wp-content/uploads/logo-san-paologrey.png" style="width:50%;"></a></p>
 					</div>
 			        <div class="col-sm-4 hidden-xs hidden-sm">
 			        	<p style='text-align:center;'>
@@ -69,7 +69,7 @@ $passid = get_the_ID();
 						</p>
 						<p style='text-align:center;'>
 							Pagina Monferrato Paesaggi su <a href="https://plus.google.com/104858056468305692205" rel="publisher" style='color:#fff;'>Google+</a>
-							<a href="http://www.monferratopaesaggi.org/?page_id=10356" style='color:#fff;'><i class="fa fa-bug"></i></a>
+							<a href="http://www.monferratopaesaggi.it/?page_id=10356" style='color:#fff;'><i class="fa fa-bug"></i></a>
 						</p>
 			        </div>
 			        <div class="col-sm-4 hidden-xs hidden-sm" style='padding-bottom:15px;' itemscope itemtype="http://data-vocabulary.org/Organization">
@@ -136,13 +136,13 @@ echo"
 							  <tr>
 							    <td>
 							    	<i class='fa fa-rocket'></i>
-							    	Se vuoi inserire le tue foto clicca <a href='http://www.monferratopaesaggi.org/?page_id=10380'>QUI</a>
+							    	Se vuoi inserire le tue foto clicca <a href='http://www.monferratopaesaggi.it/?page_id=10380'>QUI</a>
 							    </td>
 							  </tr>
 							  <tr>
 							    <td>
 							    	<i class='fa fa-rocket'></i>
-							    	Per navigare nel Monferrato con una webApp alleggerita vai <a href='http://www.monferratopaesaggi.org/tutte-mappe-bootstrap'>QUI</a>
+							    	Per navigare nel Monferrato con una webApp alleggerita vai <a href='http://www.monferratopaesaggi.it/tutte-mappe-bootstrap'>QUI</a>
 							    </td>
 							  </tr>
 							  <tr>

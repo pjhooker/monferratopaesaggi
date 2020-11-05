@@ -22,70 +22,70 @@ $stringData = "<?xml version='1.0' encoding='UTF-8'?>
   <Style id='style_edreligioso'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/ed-religioso.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/ed-religioso.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id='style_edstorico'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/ed-storico2.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/ed-storico2.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id='style_puntooss'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/punto-oss.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/punto-oss.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id='style_attivitaprodotti'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/attivita-e-prodotti.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/attivita-e-prodotti.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id='style_parcheggio'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/parcheggio.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/parcheggio.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id='style_casettaacqua'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/casetta-acqua.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/casetta-acqua.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id='style_bedbreak'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/bedbreak.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/bedbreak.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id='style_ristorante'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/ristorante.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/ristorante.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id='style_hotel'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/hotel.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/hotel.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id='style_info'>
     <IconStyle>
       <Icon>
-        <href>http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/info.png</href>
+        <href>http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/info.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -131,7 +131,7 @@ fwrite($fh, $stringData);
 $stringData = '</name>
     <description><![CDATA[<div dir="ltr">Clicca <a href="';
 fwrite($fh, $stringData);
-// http://www.monferratopaesaggi.org/?page_id=1959&gid=$gid&my_returnpage=$idm&percorso_id=$idm
+// http://www.monferratopaesaggi.it/?page_id=1959&gid=$gid&my_returnpage=$idm&percorso_id=$idm
 $stringData =  get_permalink( $id );
 fwrite($fh, $stringData);
 $stringData = '">qui</a> per aprire la scheda<hr>';

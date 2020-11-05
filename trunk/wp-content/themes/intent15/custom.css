@@ -44,11 +44,11 @@ color: #999;
 
 /*  widget : recent comments MAP
 /* ------------------------------------ */
-.widget_recent_comments_map ul li { background: url(http://www.monferratopaesaggi.org/wp-content/themes/intent15/img/widgets/map.png) no-repeat 4px 11px; }
+.widget_recent_comments_map ul li { background: url(http://www.monferratopaesaggi.it/wp-content/themes/intent15/img/widgets/map.png) no-repeat 4px 11px; }
 .widget_recent_comments_map ul li a { color: #999; }
 
 /*  widget : recent comments PIN
 /* ------------------------------------ */
-.widget_recent_comments_pin ul li { background: url(http://www.monferratopaesaggi.org/wp-content/themes/intent15/img/widgets/pin.png) no-repeat 4px 11px; }
+.widget_recent_comments_pin ul li { background: url(http://www.monferratopaesaggi.it/wp-content/themes/intent15/img/widgets/pin.png) no-repeat 4px 11px; }
 .widget_recent_comments_pin ul li a { color: #999; }
 

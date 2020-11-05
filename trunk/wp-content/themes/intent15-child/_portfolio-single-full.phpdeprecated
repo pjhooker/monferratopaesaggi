@@ -17,7 +17,7 @@ $imH=$height_slide;
 $imW=$width_slide;
 
 $img1=get_field('field_535963af94eff');
-$nullimg='http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
+$nullimg='http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
 if ($img1==NULL) {$img1=$nullimg;}
 else {}
 echo"<div class='item active'><img src='".site_url($path, $scheme)."/image.php?myimage=$img1&h=$imH&w=$imW' alt='First slide' $style ></div>";
@@ -79,7 +79,7 @@ $imH='640';
 $imW='960';
 
 $img1=get_field('field_535963af94eff');
-$nullimg='http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
+$nullimg='http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
 if ($img1==NULL) {$img1=$nullimg;}
 else {}
 echo"<img src='".site_url($path, $scheme)."/image.php?myimage=$img1&h=$imH&w=$imW' >";
@@ -290,7 +290,7 @@ $nord_it_extent=$bounds_plus;
             var color1971 = <?php colore_percorso('1971') ?> ;
             var color1969 = <?php colore_percorso('1969') ?> ;
 </script>
-<script src='http://www.monferratopaesaggi.org/js/mappa_tutti_percorsi_comune.js'></script> 
+<script src='http://www.monferratopaesaggi.it/js/mappa_tutti_percorsi_comune.js'></script> 
 
 <?php
 // --- MAP --- STOP

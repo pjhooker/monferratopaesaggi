@@ -64,7 +64,7 @@ foreach ( $pages as $page) {
     $id_finto=1951;
     echo "
 <li class='recentcomments'>
-<a href='http://www.monferratopaesaggi.org/?page_id=$id' rel='external nofollow' class='url'>$title<br /></a>
+<a href='http://www.monferratopaesaggi.it/?page_id=$id' rel='external nofollow' class='url'>$title<br /></a>
 </li>
 ";
 }

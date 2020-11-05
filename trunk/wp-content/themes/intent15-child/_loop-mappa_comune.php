@@ -50,14 +50,14 @@ $lat= $location['lat'];
 $lng=$location['lng']; 
 endif; // lat lng
 ?>
-	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_0.js'></script>
-	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_1.js'></script>
-	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_3.js'></script>
-	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_4.js'></script>
-	<script src='http://www.monferratopaesaggi.org/geodata/poi_monferrato.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_0.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_1.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_3.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_4.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/poi_monferrato.js'></script>
 	<script>
 		var lat = <?php echo $lat ?>;
 		var lng = <?php echo $lng ?>;
 	</script>
-	<script src="http://www.monferratopaesaggi.org/js/mappa_comune_leaflet.js"></script>
+	<script src="http://www.monferratopaesaggi.it/js/mappa_comune_leaflet.js"></script>
 <?php endwhile;?>

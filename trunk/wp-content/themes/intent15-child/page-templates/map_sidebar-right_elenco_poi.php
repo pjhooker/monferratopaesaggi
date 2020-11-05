@@ -52,7 +52,7 @@ echo"<li id='recent-comments-5' class='widget widget_recent_comments_map'>
 $title= get_the_title($my_returnpage);
 
 echo"<li class='recentcomments'>
-<a href='http://www.monferratopaesaggi.org/?page_id=$my_returnpage'>torna al percorso</a><br />
+<a href='http://www.monferratopaesaggi.it/?page_id=$my_returnpage'>torna al percorso</a><br />
 $title
 </li>";
 echo"

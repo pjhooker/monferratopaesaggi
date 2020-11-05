@@ -111,24 +111,24 @@ echo"
 
 $tipo = get_field('field_53524fd43715d');
 
-if ($tipo=='blue'){$tipo='none';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png';}
-else if ($tipo=='ed-religioso'){$tipo='edreligioso';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png';}
-else if ($tipo=='ed-storico'){$tipo='edstorico';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png';}
-else if ($tipo=='punto-oss'){$tipo='puntooss';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png';}
-else if ($tipo=='parcheggio'){$tipo='parcheggio';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png';}
-else if ($tipo=='info'){$tipo='info';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/info.png';}
-else if ($tipo=='arc_industriale'){$tipo='arc_industriale';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/arch_industriale.png';}
-else if ($tipo=='centro_storico'){$tipo='centro_storico';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/centro_storico.png';}
-else if ($tipo=='fontana'){$tipo='fontana';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png';}
-else if ($tipo=='museo'){$tipo='museo';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/museo.png';}
-else if ($tipo=='wc'){$tipo='wc';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/wc.png';}
-else if ($tipo=='interesse_paesaggistico'){$tipo='interesse_paesaggistico';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/interesse_paesaggistico.png';}
-else if ($tipo=='picnic'){$tipo='picnic';       $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png';}
-else if ($tipo=='teatro'){$tipo='teatro';       $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/teatro.png';}
-else if ($tipo=='ed_civile'){$tipo='ed_civile'; $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png';}
-else if ($tipo=='infernot'){$tipo='infernot';   $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/infenot.png';}
-else if ($tipo=='giardino'){$tipo='giardino';   $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/parco-giardino.png';;}
-else {$tipo='none';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png';}
+if ($tipo=='blue'){$tipo='none';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/vuoto.png';}
+else if ($tipo=='ed-religioso'){$tipo='edreligioso';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/chiesa.png';}
+else if ($tipo=='ed-storico'){$tipo='edstorico';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/ed_storico.png';}
+else if ($tipo=='punto-oss'){$tipo='puntooss';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/punto_panoramico.png';}
+else if ($tipo=='parcheggio'){$tipo='parcheggio';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/parcheggio.png';}
+else if ($tipo=='info'){$tipo='info';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/info.png';}
+else if ($tipo=='arc_industriale'){$tipo='arc_industriale';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/arch_industriale.png';}
+else if ($tipo=='centro_storico'){$tipo='centro_storico';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/centro_storico.png';}
+else if ($tipo=='fontana'){$tipo='fontana';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/fontana.png';}
+else if ($tipo=='museo'){$tipo='museo';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/museo.png';}
+else if ($tipo=='wc'){$tipo='wc';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/wc.png';}
+else if ($tipo=='interesse_paesaggistico'){$tipo='interesse_paesaggistico';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/interesse_paesaggistico.png';}
+else if ($tipo=='picnic'){$tipo='picnic';       $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/pic-nic.png';}
+else if ($tipo=='teatro'){$tipo='teatro';       $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/teatro.png';}
+else if ($tipo=='ed_civile'){$tipo='ed_civile'; $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/edificio-civile.png';}
+else if ($tipo=='infernot'){$tipo='infernot';   $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/infenot.png';}
+else if ($tipo=='giardino'){$tipo='giardino';   $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/parco-giardino.png';;}
+else {$tipo='none';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/vuoto.png';}
 
 if ($count==1) {$comma='';}
 else {$comma=', ';}

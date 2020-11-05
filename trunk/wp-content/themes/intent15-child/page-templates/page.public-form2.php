@@ -46,23 +46,23 @@ $fileexact=substr($in_value, 0, strlen($in_value)-4);
 
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
 	<script src="http://maps.google.com/maps/api/js?v=3&sensor=false"></script>
-	<script src="http://www.monferratopaesaggi.org/php/leaflet-plugins-master/layer/tile/Google.js"></script>
+	<script src="http://www.monferratopaesaggi.it/php/leaflet-plugins-master/layer/tile/Google.js"></script>
 
 
 	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" /> <!-- we will us e this as the styling script for our webmap-->
-	<link rel="stylesheet" href="http://www.monferratopaesaggi.org/php/qgis2leaf/export_2014_11_04_11_16_07/css/MarkerCluster.css" />
-	<link rel="stylesheet" href="http://www.monferratopaesaggi.org/php/qgis2leaf/export_2014_11_04_11_16_07/css/MarkerCluster.Default.css" />
-	<link rel="stylesheet" type="text/css" href="http://www.monferratopaesaggi.org/php/qgis2leaf/export_2014_11_04_11_16_07/css/own_style.css">
+	<link rel="stylesheet" href="http://www.monferratopaesaggi.it/php/qgis2leaf/export_2014_11_04_11_16_07/css/MarkerCluster.css" />
+	<link rel="stylesheet" href="http://www.monferratopaesaggi.it/php/qgis2leaf/export_2014_11_04_11_16_07/css/MarkerCluster.Default.css" />
+	<link rel="stylesheet" type="text/css" href="http://www.monferratopaesaggi.it/php/qgis2leaf/export_2014_11_04_11_16_07/css/own_style.css">
     <link rel="stylesheet" href="http://k4r573n.github.io/leaflet-control-osm-geocoder/Control.OSMGeocoder.css" />	
 	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script> <!-- this is the javascript file that does the magic-->
-	<script src="http://www.monferratopaesaggi.org/php/qgis2leaf/export_2014_11_04_11_16_07/js/Autolinker.min.js"></script>
+	<script src="http://www.monferratopaesaggi.it/php/qgis2leaf/export_2014_11_04_11_16_07/js/Autolinker.min.js"></script>
 
 	<!--<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>--> <!-- this is the javascript file that does the magic-->
-	<script src="http://www.monferratopaesaggi.org/php/qgis2leaf/export_2014_11_04_11_16_07/js/leaflet-hash.js"></script>
+	<script src="http://www.monferratopaesaggi.it/php/qgis2leaf/export_2014_11_04_11_16_07/js/leaflet-hash.js"></script>
 	<script src="http://k4r573n.github.io/leaflet-control-osm-geocoder/Control.OSMGeocoder.js"></script>
-	<script src="http://www.monferratopaesaggi.org/php/qgis2leaf/export_2014_11_04_11_16_07/js/leaflet.markercluster.js"></script>
+	<script src="http://www.monferratopaesaggi.it/php/qgis2leaf/export_2014_11_04_11_16_07/js/leaflet.markercluster.js"></script>
 
-<script src='http://www.monferratopaesaggi.org/php/qgis2leaf/export_2014_11_04_11_16_07/data/exp_ptduomo.js'></script>
+<script src='http://www.monferratopaesaggi.it/php/qgis2leaf/export_2014_11_04_11_16_07/data/exp_ptduomo.js'></script>
 
 <script type='text/javascript'>
 var map = new L.Map('map', {center: new L.LatLng(45.075086, 8.288518), zoom: 13});

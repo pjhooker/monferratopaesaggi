@@ -21,9 +21,9 @@ Template Name: ITINIERARI ACCESSI
 			<article id="entry-<?php the_ID(); ?>" <?php post_class('entry'); ?>>
 				<div class="text">
 					<ul class="tabs-nav fix">
-						<li><a href="?page_id=2251" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.org/?page_id=2251', 'Guida']);">Guida</a></li>
-						<li><a href="?page_id=7533" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.org/?page_id=7533', 'Accessi']);" class="active">Accessi</a></li>
-						<li><a href="?page_id=1951" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.org/?page_id=1951', 'Mappa']);">Mappa</a></li>
+						<li><a href="?page_id=2251" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.it/?page_id=2251', 'Guida']);">Guida</a></li>
+						<li><a href="?page_id=7533" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.it/?page_id=7533', 'Accessi']);" class="active">Accessi</a></li>
+						<li><a href="?page_id=1951" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.it/?page_id=1951', 'Mappa']);">Mappa</a></li>
 					</ul>
 					<div class="tab" id="tab-2" style="display: block;">
 						<div class="tab-content">	
@@ -39,7 +39,7 @@ Template Name: ITINIERARI ACCESSI
 	        							<tbody>
 											<tr>
 												<td>
-													<img class='img-thumbnail' alt="Immagine" src="http://www.monferratopaesaggi.org/wp-content/uploads/Immagine-300x206.jpg" 
+													<img class='img-thumbnail' alt="Immagine" src="http://www.monferratopaesaggi.it/wp-content/uploads/Immagine-300x206.jpg" 
 													height="auto" width="100%">
 												</td>
 											</tr>
@@ -60,7 +60,7 @@ Template Name: ITINIERARI ACCESSI
 												<td>
 													<a data-toggle='modal' data-target='#myModal2'>
 													<img class='img-thumbnail' 
-													alt="Accessi veloci" src="http://www.monferratopaesaggi.org/wp-content/uploads/Accessi-veloci-1024x484.jpg" 
+													alt="Accessi veloci" src="http://www.monferratopaesaggi.it/wp-content/uploads/Accessi-veloci-1024x484.jpg" 
 													height="auto" width="100%">
 													</a>
 												</td>
@@ -80,7 +80,7 @@ Template Name: ITINIERARI ACCESSI
 												<td>
 													<a data-toggle='modal' data-target='#myModal'>
 													<img class='img-thumbnail' alt="corridoitranseuropei" 
-													src="http://www.monferratopaesaggi.org/wp-content/uploads/corridoitranseuropei1.jpg" 
+													src="http://www.monferratopaesaggi.it/wp-content/uploads/corridoitranseuropei1.jpg" 
 													height="auto" width="100%">
 													</a>
 												</td>
@@ -122,13 +122,13 @@ Template Name: ITINIERARI ACCESSI
         <h4 class="modal-title" id="myModalLabel">Tunnel del Brennero: avviata a Innsbruck fase realizzativa</h4>
       </div>
       <div class="modal-body">
-        <a href='http://www.monferratopaesaggi.org/wp-content/uploads/corridoitranseuropei1.jpg'>
-        	<img src='http://www.monferratopaesaggi.org/wp-content/uploads/corridoitranseuropei1.jpg' width="100%" />
+        <a href='http://www.monferratopaesaggi.it/wp-content/uploads/corridoitranseuropei1.jpg'>
+        	<img src='http://www.monferratopaesaggi.it/wp-content/uploads/corridoitranseuropei1.jpg' width="100%" />
         </a>
       </div>
       <div class="modal-footer">
       	<a href='http://www.ilperiodico.it/roma/tunnel-del-brennero-avviata-a-innsbruck-fase-realizzativa/' class="btn btn-primary" >Apri articolo</a>
-      	<a href='http://www.monferratopaesaggi.org/wp-content/uploads/corridoitranseuropei1.jpg' class="btn btn-primary" >Apri a tutto schermo</a>
+      	<a href='http://www.monferratopaesaggi.it/wp-content/uploads/corridoitranseuropei1.jpg' class="btn btn-primary" >Apri a tutto schermo</a>
         <button type="button" class="btn btn-default" data-dismiss="modal">Chiudi</button>
       </div>
     </div>
@@ -143,12 +143,12 @@ Template Name: ITINIERARI ACCESSI
         <h4 class="modal-title" id="myModalLabel">Accessi autostradali e rete di collegamento veloce </h4>
       </div>
       <div class="modal-body">
-        <a href='http://www.monferratopaesaggi.org/wp-content/uploads/Accessi-veloci-1024x484.jpg'>
-        	<img src='http://www.monferratopaesaggi.org/wp-content/uploads/Accessi-veloci-1024x484.jpg' width="100%" />
+        <a href='http://www.monferratopaesaggi.it/wp-content/uploads/Accessi-veloci-1024x484.jpg'>
+        	<img src='http://www.monferratopaesaggi.it/wp-content/uploads/Accessi-veloci-1024x484.jpg' width="100%" />
         </a>
       </div>
       <div class="modal-footer">
-      	<a href='http://www.monferratopaesaggi.org/wp-content/uploads/Accessi-veloci-1024x484.jpg' class="btn btn-primary" >Apri a tutto schermo</a>
+      	<a href='http://www.monferratopaesaggi.it/wp-content/uploads/Accessi-veloci-1024x484.jpg' class="btn btn-primary" >Apri a tutto schermo</a>
         <button type="button" class="btn btn-default" data-dismiss="modal">Chiudi</button>
       </div>
     </div>

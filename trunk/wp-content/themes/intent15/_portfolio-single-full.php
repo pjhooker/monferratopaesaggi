@@ -20,7 +20,7 @@ $imH='627';
 $imW='960';
 
 $img1=get_field('field_535963af94eff');
-$nullimg='http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
+$nullimg='http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
 if ($img1==NULL) {$img1=$nullimg;}
 else {}
 echo"<img src='image.php?myimage=$img1&h=$imH&w=$imW' >";

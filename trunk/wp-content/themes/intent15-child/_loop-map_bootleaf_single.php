@@ -1,6 +1,6 @@
 
 <?php
-$icon1 = 'http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png'; //get_field('icon1',$id);
+$icon1 = 'http://www.monferratopaesaggi.it/wp-content/uploads/vuoto.png'; //get_field('icon1',$id);
 $icon2 = get_field('icon2',$id);
 ?>
 
@@ -54,7 +54,7 @@ $icon2 = get_field('icon2',$id);
           <!--<a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="$('#aboutModal').modal('show'); return false;">
           <i class="fa fa-question-circle" style="color: white"></i>&nbsp;&nbsp;About</a>
           -->
-          <a href="http://www.monferratopaesaggi.org/" style="color: white;">
+          <a href="http://www.monferratopaesaggi.it/" style="color: white;">
           <i class="fa fa-question-circle"></i>&nbsp;&nbsp;Monferrato</a>
           </li>
           <?php/*
@@ -425,7 +425,7 @@ var boroughs = L.geoJson(null, {
     });
   }
 });
-$.getJSON("http://www.monferratopaesaggi.org/php/bootleaf-master/data/boroughs.geojson", function (data) {
+$.getJSON("http://www.monferratopaesaggi.it/php/bootleaf-master/data/boroughs.geojson", function (data) {
   boroughs.addData(data);
 });
 
@@ -533,7 +533,7 @@ var subwayLines = L.geoJson(null, {
 $geodata = get_field('geodata',$id);
 ?>
 
-$.getJSON("http://www.monferratopaesaggi.org/geodata/<?php echo $geodata; ?>.geojson", function (data) {
+$.getJSON("http://www.monferratopaesaggi.it/geodata/<?php echo $geodata; ?>.geojson", function (data) {
   subwayLines.addData(data);
 });
 
@@ -546,24 +546,24 @@ var markerClusters = new L.MarkerClusterGroup({
 });
 
 function getIcon(d) {
-    return  d === "none" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png' :
-            d === "edreligioso" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png' :
-            d === "edstorico" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png' :
-            d === "puntooss" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png' :
-            d === "parcheggio" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png' :
-            d === "info" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/info.png' :
-            d === "arc_industriale" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/arch_industriale.png' :
-            d === "centro_storico" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/centro_storico.png' :
-            d === "fontana" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png' :
-            d === "museo" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/museo.png' :
-            d === "wc" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/wc.png' :
-            d === "interesse_paesaggistico" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/interesse_paesaggistico.png' :
-            d === "picnic" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/parco-giardino.png' :
-            d === "teatro" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/teatro.png' :
-            d === "ed_civile" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png' :
-            d === "infernot" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/infenot.png' :
-            d === "giardino" ? 'http://www.monferratopaesaggi.org/wp-content/uploads/parco-giardino.png' :
-            'http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png';
+    return  d === "none" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/vuoto.png' :
+            d === "edreligioso" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/chiesa.png' :
+            d === "edstorico" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/ed_storico.png' :
+            d === "puntooss" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/punto_panoramico.png' :
+            d === "parcheggio" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/parcheggio.png' :
+            d === "info" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/info.png' :
+            d === "arc_industriale" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/arch_industriale.png' :
+            d === "centro_storico" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/centro_storico.png' :
+            d === "fontana" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/fontana.png' :
+            d === "museo" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/museo.png' :
+            d === "wc" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/wc.png' :
+            d === "interesse_paesaggistico" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/interesse_paesaggistico.png' :
+            d === "picnic" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/parco-giardino.png' :
+            d === "teatro" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/teatro.png' :
+            d === "ed_civile" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/edificio-civile.png' :
+            d === "infernot" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/infenot.png' :
+            d === "giardino" ? 'http://www.monferratopaesaggi.it/wp-content/uploads/parco-giardino.png' :
+            'http://www.monferratopaesaggi.it/wp-content/uploads/vuoto.png';
 }
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove theaters to markerClusters layer */
@@ -648,7 +648,7 @@ $geodata_poi = get_field('geodata_poi',$id);
 ?>
 
 
-$.getJSON("http://www.monferratopaesaggi.org/geodata/<?php echo $geodata_poi; ?>.geojson", function (data) {
+$.getJSON("http://www.monferratopaesaggi.it/geodata/<?php echo $geodata_poi; ?>.geojson", function (data) {
   theaters.addData(data);
   map.addLayer(theaterLayer);
 });
@@ -700,7 +700,7 @@ $.getJSON("data/DOITT_MUSEUM_01_13SEPT2010.geojson", function (data) {
   museums.addData(data);
 });
 */
-$.getJSON("http://www.monferratopaesaggi.org/geodata/poi_tree.geojson", function (data) {
+$.getJSON("http://www.monferratopaesaggi.it/geodata/poi_tree.geojson", function (data) {
   museums.addData(data);
 });
 

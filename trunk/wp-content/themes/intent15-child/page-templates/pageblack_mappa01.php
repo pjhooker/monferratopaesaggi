@@ -129,7 +129,7 @@ $postid = get_the_ID();
 
 	// PERCORSI LOCALI
 		var percorsi_locali = new L.featureGroup();
-		$.getJSON("http://www.monferratopaesaggi.org/geodata/pl_linee_pano_3.geojson", function(data) {
+		$.getJSON("http://www.monferratopaesaggi.it/geodata/pl_linee_pano_3.geojson", function(data) {
 			var lineeGeoJson = L.geoJson(data, {
 				style: function (feature) {
 					return {
@@ -146,7 +146,7 @@ $postid = get_the_ID();
 
 	// PERCORSI AUTO
 		var percorsi_auto = new L.featureGroup();
-		$.getJSON("http://www.monferratopaesaggi.org/geodata/pl_linee_pano_4.geojson", function(data) {
+		$.getJSON("http://www.monferratopaesaggi.it/geodata/pl_linee_pano_4.geojson", function(data) {
 			var lineeGeoJson = L.geoJson(data, {
 				style: function (feature) {
 					return {
@@ -221,7 +221,7 @@ $postid = get_the_ID();
 
   // geometria POI
 		var poi = new L.featureGroup();
-		$.getJSON("http://www.monferratopaesaggi.org/geodata/poi_monferrato.geojson", function(data) {
+		$.getJSON("http://www.monferratopaesaggi.it/geodata/poi_monferrato.geojson", function(data) {
 			var geojson = new L.geoJson(data,{
 					pointToLayer: function (feature, latlng) {
 					return L.marker(latlng)    // L.marker

@@ -13,8 +13,8 @@ $plink = get_the_permalink();
 <div class="row" style='padding-top:80px;' itemscope itemtype="http://schema.org/WebPage">
 	<div class="col-md-8">
 		<div itemprop="breadcrumb">
-		  <a href="http://www.monferratopaesaggi.org">Monferrato paesaggi</a> >
-		  <a href="http://www.monferratopaesaggi.org/scopri-il-portale/">Scopri il portale</a> >
+		  <a href="http://www.monferratopaesaggi.it">Monferrato paesaggi</a> >
+		  <a href="http://www.monferratopaesaggi.it/scopri-il-portale/">Scopri il portale</a> >
 		  <a href="<?php echo $plink; ?>"><?php the_title();?></a>
 		</div>	
 		<h1 style='padding-top:15px;'><?php the_title();?></h1>

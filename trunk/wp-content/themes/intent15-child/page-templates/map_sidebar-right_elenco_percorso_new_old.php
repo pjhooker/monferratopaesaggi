@@ -135,7 +135,7 @@ $nord_it_extent=$bounds_plus;
             new OpenLayers.Projection('EPSG:900913'));
 
 </script>
-<script src='http://www.monferratopaesaggi.org/js/mappa_tutti_percorsi_percorso.js'></script>
+<script src='http://www.monferratopaesaggi.it/js/mappa_tutti_percorsi_percorso.js'></script>
 
 
 <?php
@@ -216,7 +216,7 @@ while ( $the_query->have_posts() ) : $the_query->the_post();
 ?>
 
                         <div class="col-sm-4">
-                            <a style="margin:5px;width:100%;" class="btn btn-warning" href="http://www.monferratopaesaggi.org/?page_id=<?php echo $id?>">
+                            <a style="margin:5px;width:100%;" class="btn btn-warning" href="http://www.monferratopaesaggi.it/?page_id=<?php echo $id?>">
                                 <?php the_title(); ?>
                             </a>
                         </div>

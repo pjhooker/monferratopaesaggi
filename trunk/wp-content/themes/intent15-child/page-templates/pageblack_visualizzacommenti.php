@@ -104,7 +104,7 @@ if(isset($_POST['submit']))
 
 
 		    echo "
-		        <meta http-equiv='refresh' content='0;url=http://www.monferratopaesaggi.org/tools/visualizza-elimina-commenti/'>
+		        <meta http-equiv='refresh' content='0;url=http://www.monferratopaesaggi.it/tools/visualizza-elimina-commenti/'>
 		    ";
 		}
 		else{

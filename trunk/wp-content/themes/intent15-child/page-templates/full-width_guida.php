@@ -36,9 +36,9 @@ Template Name: ITINIERARI GUIDA
 			<article id="entry-<?php the_ID(); ?>" <?php post_class('entry'); ?>>
 				<div class="text">
 					<ul class="tabs-nav fix">
-						<li><a href="?page_id=2251" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.org/?page_id=2251', 'Guida']);" class="active">Guida</a></li>
-						<li><a href="?page_id=7533" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.org/?page_id=7533', 'Accessi']);">Accessi</a></li>
-						<li><a href="?page_id=1951" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.org/?page_id=1951', 'Mappa']);">Mappa</a></li>
+						<li><a href="?page_id=2251" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.it/?page_id=2251', 'Guida']);" class="active">Guida</a></li>
+						<li><a href="?page_id=7533" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.it/?page_id=7533', 'Accessi']);">Accessi</a></li>
+						<li><a href="?page_id=1951" onclick="_gaq.push(['_trackEvent', 'outbound-article-int', 'http://www.monferratopaesaggi.it/?page_id=1951', 'Mappa']);">Mappa</a></li>
 					</ul>
 					<div class="tab" id="tab-2" style="display: block;">
 						<div class="tab-content">	
@@ -49,9 +49,9 @@ Template Name: ITINIERARI GUIDA
 									<?php the_content(); ?>
 <?php
 /*
-Cos'è monferratopaesaggi.org?
+Cos'è monferratopaesaggi.it?
 
-Monferratopaesaggi.org è un "accompagnatore" virtuale proposto e realizzato dall’Osservatorio del Paesaggio per il Monferrato, 
+monferratopaesaggi.it è un "accompagnatore" virtuale proposto e realizzato dall’Osservatorio del Paesaggio per il Monferrato, 
 cofinanziato dalla Compagnia di San Paolo e redatto con il contributo di Amministrazioni e Associazioni locali.
 Come si usa?
 
@@ -67,8 +67,8 @@ orari differenti, tempi e modi in grado di offrire percezioni di qualità differ
 ?>
 								</div>
 								<div class="col-md-4">
-									<a href='http://www.monferratopaesaggi.org/?p=8515' target='_blank'>
-										<img src="http://www.monferratopaesaggi.org/wp-content/uploads/20141230_Selezione_005.png" class="img-thumbnail" alt="368x368" 
+									<a href='http://www.monferratopaesaggi.it/?p=8515' target='_blank'>
+										<img src="http://www.monferratopaesaggi.it/wp-content/uploads/20141230_Selezione_005.png" class="img-thumbnail" alt="368x368" 
 											style="width: 368px; height: 377px;">
 									</a>
 								</div>

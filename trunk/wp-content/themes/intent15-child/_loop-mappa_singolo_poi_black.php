@@ -87,7 +87,7 @@ echo"
 ";
 ?>
 
-<script src='http://www.monferratopaesaggi.org/js/mappa_scheda_poi_black.js'></script>
+<script src='http://www.monferratopaesaggi.it/js/mappa_scheda_poi_black.js'></script>
 <script type="text/javascript">
     var lon = <?php echo $lng; ?>,
     lat = <?php echo $lat; ?>
@@ -141,7 +141,7 @@ if ( ! is_wp_error( $imageX ) ) {
 
         <script src="//code.jquery.com/jquery.js"></script>
         <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
-        <script src="http://www.monferratopaesaggi.org/php/lightbox-master/dist/ekko-lightbox.js"></script>
+        <script src="http://www.monferratopaesaggi.it/php/lightbox-master/dist/ekko-lightbox.js"></script>
 
         <script type="text/javascript">
             $(document).ready(function ($) {

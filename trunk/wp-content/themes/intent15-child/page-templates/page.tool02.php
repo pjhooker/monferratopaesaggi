@@ -8,7 +8,7 @@ get_header();
 
 ?>
 
-		<link rel="stylesheet" type="text/css" href="http://www.monferratopaesaggi.org/wp-content/themes/intent15-child/table-style.css" />
+		<link rel="stylesheet" type="text/css" href="http://www.monferratopaesaggi.it/wp-content/themes/intent15-child/table-style.css" />
 
 <div id="page">
 	<div id="page-inner" class="container fix">

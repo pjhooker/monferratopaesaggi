@@ -32,7 +32,7 @@ $filename=$_GET['filename'];
 $update_id=$_GET['new_postid'];
 if ($filename==NULL){
 ?>
-            <form action="http://www.monferratopaesaggi.org/?page_id=10901&postid=<?php echo $update_id; ?>" method="POST" enctype="multipart/form-data">
+            <form action="http://www.monferratopaesaggi.it/?page_id=10901&postid=<?php echo $update_id; ?>" method="POST" enctype="multipart/form-data">
  
 <?php
 }

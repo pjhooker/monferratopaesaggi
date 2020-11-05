@@ -101,8 +101,8 @@ h1 {
 	    ?>
 		<div class="row">
 			<div class="col-md-8">
-				<a href="http://www.monferratopaesaggi.org/">
-					<img src="http://www.monferratopaesaggi.org/wp-content/uploads/logo-monf340x80_pos-1024x215.png" style="padding:25px;width:100%">
+				<a href="http://www.monferratopaesaggi.it/">
+					<img src="http://www.monferratopaesaggi.it/wp-content/uploads/logo-monf340x80_pos-1024x215.png" style="padding:25px;width:100%">
 				</a>
 			</div>
 			<div class="col-md-4">
@@ -112,8 +112,8 @@ h1 {
 
 				<?php endif; ?>
 				<br>
-				<p style="text-align:right;"><a href="http://www.monferratopaesaggi.org/menzione-mibact/">
-					<img src="http://www.monferratopaesaggi.org/wp-content/uploads/Menzione-MiBACT-1024x7261.jpg">
+				<p style="text-align:right;"><a href="http://www.monferratopaesaggi.it/menzione-mibact/">
+					<img src="http://www.monferratopaesaggi.it/wp-content/uploads/Menzione-MiBACT-1024x7261.jpg">
 				</a></p>
 			</div>
 		</div>

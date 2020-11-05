@@ -32,9 +32,9 @@ require ( $portfolio_functions );
         <div id="content">
     <?php /*                    
 <ul class="tabs-nav fix">
-	<li><a href="http://www.monferratopaesaggi.org/?page_id=1951">Mappa</a></li>
-	<li><a href="http://www.monferratopaesaggi.org/?page_id=2251">Guida</a></li>
-	<li><a class="active" href="http://www.monferratopaesaggi.org/?page_id=2197">Comuni</a></li>
+	<li><a href="http://www.monferratopaesaggi.it/?page_id=1951">Mappa</a></li>
+	<li><a href="http://www.monferratopaesaggi.it/?page_id=2251">Guida</a></li>
+	<li><a class="active" href="http://www.monferratopaesaggi.it/?page_id=2197">Comuni</a></li>
     <li>
     
     </li>
@@ -43,12 +43,12 @@ require ( $portfolio_functions );
 <div style="display: block;" id="tab-3" class="tab">
     <div class="tab-content">
     Visualizza in base al percorso
-    <a class='button medium' href='http://www.monferratopaesaggi.org/?page_id=5934'>Crea</a>
-    <a class='button medium'  href='http://www.monferratopaesaggi.org/?page_id=5983'>Bric</a><!-- bOSCO -->
-    <a class='button medium'  href='http://www.monferratopaesaggi.org/?page_id=5986'>Po</a>
-    <a class='button medium'  href='http://www.monferratopaesaggi.org/?page_id=5987'>Miniere</a>
-    <a class='button medium'  href='http://www.monferratopaesaggi.org/?page_id=5989'>Vigne</a><!-- Grignolino -->
-    <a class='button medium'  href='http://www.monferratopaesaggi.org/?page_id=5988'>Profili</a><!-- Sud -->
+    <a class='button medium' href='http://www.monferratopaesaggi.it/?page_id=5934'>Crea</a>
+    <a class='button medium'  href='http://www.monferratopaesaggi.it/?page_id=5983'>Bric</a><!-- bOSCO -->
+    <a class='button medium'  href='http://www.monferratopaesaggi.it/?page_id=5986'>Po</a>
+    <a class='button medium'  href='http://www.monferratopaesaggi.it/?page_id=5987'>Miniere</a>
+    <a class='button medium'  href='http://www.monferratopaesaggi.it/?page_id=5989'>Vigne</a><!-- Grignolino -->
+    <a class='button medium'  href='http://www.monferratopaesaggi.it/?page_id=5988'>Profili</a><!-- Sud -->
             <?php if ( !wpb_meta('_portfolio_disable_switcher') ): ?>
 			<ul id="portfolio-size" style='margin-top: 0px;'class="fix" data-current="<?php echo wpb_meta('_portfolio_layout', 'grid one-third'); ?>">
 				<li><a id="switch-small" href="#" data-layout="grid one-fourth"><i class="icon-size small"></i>Small</a></li>

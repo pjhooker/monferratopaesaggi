@@ -17,7 +17,7 @@ $imH=$height_slide;
 $imW=$width_slide;
 
 $img1=get_field('field_535963af94eff');
-$nullimg='http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
+$nullimg='http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
 if ($img1==NULL) {$img1=$nullimg;}
 else {}
 echo"<div class='item active'><img src='".site_url($path, $scheme)."/image.php?myimage=$img1&h=$imH&w=$imW' alt='First slide' $style ></div>";
@@ -79,7 +79,7 @@ $imH='640';
 $imW='960';
 
 $img1=get_field('field_535963af94eff');
-$nullimg='http://www.monferratopaesaggi.org/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
+$nullimg='http://www.monferratopaesaggi.it/wp-content/uploads/2014/01/3675229464_64f3c8b0ea_o.jpg';
 if ($img1==NULL) {$img1=$nullimg;}
 else {}
 echo"<img src='".site_url($path, $scheme)."/image.php?myimage=$img1&h=$imH&w=$imW' >";
@@ -215,16 +215,16 @@ endif; // lat lng
 ?>
 
 
-	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_0.js'></script>
-	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_1.js'></script>
-	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_3.js'></script>
-	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_4.js'></script>
-	<script src='http://www.monferratopaesaggi.org/geodata/poi_monferrato.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_0.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_1.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_3.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_4.js'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/poi_monferrato.js'></script>
 	<script>
 		var lat = <?php echo $lat ?>;
 		var lng = <?php echo $lng ?>;
 	</script>
-	<script src="http://www.monferratopaesaggi.org/js/mappa_comune_leaflet.js"></script>
+	<script src="http://www.monferratopaesaggi.it/js/mappa_comune_leaflet.js"></script>
 
 
 					<div class="clear"></div>
@@ -290,7 +290,7 @@ var layerOrder=new Array();
         // l'elenco delle colonne Ã¨ generato tramite un array di acf
         var popupContent = '<table style="width:300px;">'
                         + '<tr>'
-                        + '<a href="http://www.monferratopaesaggi.org/?page_id='
+                        + '<a href="http://www.monferratopaesaggi.it/?page_id='
                         + feature.properties['idm']
                         + '">'
                         + getNomeP(feature.properties['idm'])
@@ -394,7 +394,7 @@ var layerOrder=new Array();
             'OSM Standard': basemap_0,
         };
 
-        L.control.layers(baseMaps,{"GeoJson <a href='http://www.monferratopaesaggi.org/geodata/textfile.json' target='_blank'><i class='fa fa-download'></i></a>": cluster_groupexp_regJSON},{collapsed:false}).addTo(map);
+        L.control.layers(baseMaps,{"GeoJson <a href='http://www.monferratopaesaggi.it/geodata/textfile.json' target='_blank'><i class='fa fa-download'></i></a>": cluster_groupexp_regJSON},{collapsed:false}).addTo(map);
 
 
 	</script>

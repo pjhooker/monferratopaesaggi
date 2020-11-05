@@ -71,7 +71,7 @@ if ( has_post_thumbnail() ) { // controlla se il post ha un'immagine in evidenza
 <div class="row" style='padding-top:80px;' itemscope itemtype="http://schema.org/WebPage">
 	<div class="col-md-12">
 		<div itemprop="breadcrumb">
-		  <a href="http://www.monferratopaesaggi.org">Monferrato paesaggi</a> >
+		  <a href="http://www.monferratopaesaggi.it">Monferrato paesaggi</a> >
 		  <a href="?page_id=2191">Territorio</a> >
 		  <a href="?p=10658"><?php the_title();?></a>
 		</div>

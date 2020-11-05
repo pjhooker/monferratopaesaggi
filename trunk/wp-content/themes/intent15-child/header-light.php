@@ -34,52 +34,52 @@
 <![endif]-->
 <!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Il territorio considerato nel presente lavoro riguarda la porzione collinare del Monferrato Casalese. Esso è pertanto compreso tra il Po, la pianura casalese ed i territori collinari del Torinese e dell’Astigiano."/>
-<link rel="canonical" href="http://www.monferratopaesaggi.org/" />
+<link rel="canonical" href="http://www.monferratopaesaggi.it/" />
 <link rel="publisher" href="https://plus.google.com/+MonferratopaesaggiOrg-Piemonte-Italy"/>
 <meta property="og:locale" content="it_IT" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Monferrato - Monferrato Paesaggi" />
 <meta property="og:description" content="Il territorio considerato nel presente lavoro riguarda la porzione collinare del Monferrato Casalese. Esso è pertanto compreso tra il Po, la pianura casalese ed i territori collinari del Torinese e dell’Astigiano." />
-<meta property="og:url" content="http://www.monferratopaesaggi.org/" />
+<meta property="og:url" content="http://www.monferratopaesaggi.it/" />
 <meta property="og:site_name" content="Monferrato Paesaggi" />
 <meta property="fb:admins" content="100004399753459" />
-<meta property="og:image" content="http://www.monferratopaesaggi.org/wp-content/uploads/interesse_paesaggistico.png" />
+<meta property="og:image" content="http://www.monferratopaesaggi.it/wp-content/uploads/interesse_paesaggistico.png" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:description" content="Il territorio considerato nel presente lavoro riguarda la porzione collinare del Monferrato Casalese. Esso è pertanto compreso tra il Po, la pianura casalese ed i territori collinari del Torinese e dell’Astigiano."/>
 <meta name="twitter:title" content="Monferrato - Monferrato Paesaggi"/>
 <meta name="twitter:site" content="@monferratotour"/>
 <meta name="twitter:domain" content="Monferrato Paesaggi"/>
-<meta name="twitter:image:src" content="http://www.monferratopaesaggi.org/wp-content/uploads/interesse_paesaggistico.png"/>
+<meta name="twitter:image:src" content="http://www.monferratopaesaggi.it/wp-content/uploads/interesse_paesaggistico.png"/>
 <meta name="twitter:creator" content="@monferratotour"/>
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.monferratopaesaggi.org\/","name":"Monferrato Paesaggi","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.monferratopaesaggi.org\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.monferratopaesaggi.org\/","sameAs":["https:\/\/www.facebook.com\/monferratopaesaggi.org","https:\/\/instagram.com\/lallicalviz\/","https:\/\/plus.google.com\/+MonferratopaesaggiOrg-Piemonte-Italy","https:\/\/www.youtube.com\/channel\/UCkiNwPYJ6dCXYRgLyW96avg","https:\/\/www.pinterest.com\/itcityplanner\/","https:\/\/twitter.com\/monferratotour"],"name":"Osservatorio del Paesaggio per il Monferrato Casalese","logo":"http:\/\/www.monferratopaesaggi.org\/wp-content\/uploads\/20150411_Selezione_001.png"}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.monferratopaesaggi.it\/","name":"Monferrato Paesaggi","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.monferratopaesaggi.it\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.monferratopaesaggi.it\/","sameAs":["https:\/\/www.facebook.com\/monferratopaesaggi.it","https:\/\/instagram.com\/lallicalviz\/","https:\/\/plus.google.com\/+MonferratopaesaggiOrg-Piemonte-Italy","https:\/\/www.youtube.com\/channel\/UCkiNwPYJ6dCXYRgLyW96avg","https:\/\/www.pinterest.com\/itcityplanner\/","https:\/\/twitter.com\/monferratotour"],"name":"Osservatorio del Paesaggio per il Monferrato Casalese","logo":"http:\/\/www.monferratopaesaggi.it\/wp-content\/uploads\/20150411_Selezione_001.png"}</script>
 <meta name="alexaVerifyID" content="_yY2dfhr-chNp8RWfkqX88ZUvts" />
 <meta name="msvalidate.01" content="CC157CA15DD68742230FD711C852ED1C" />
 <meta name="google-site-verification" content="AyyKS2CVVRJnslMzeNeuQCHir0lleVH34Gn3j3dwBDY" />
 <!-- / Yoast SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="Monferrato Paesaggi &raquo; Feed" href="http://www.monferratopaesaggi.org/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Monferrato Paesaggi &raquo; Feed dei commenti" href="http://www.monferratopaesaggi.org/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Monferrato Paesaggi &raquo; Monferrato Feed dei commenti" href="http://www.monferratopaesaggi.org/monferrato/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Monferrato Paesaggi &raquo; Feed" href="http://www.monferratopaesaggi.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Monferrato Paesaggi &raquo; Feed dei commenti" href="http://www.monferratopaesaggi.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Monferrato Paesaggi &raquo; Monferrato Feed dei commenti" href="http://www.monferratopaesaggi.it/monferrato/feed/" />
 
 
 <link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.2.4'  media='all' />
-<link rel='stylesheet' id='dashicons-css'  href='http://www.monferratopaesaggi.org/wp-includes/css/dashicons.min.css?ver=4.2.4'  media='all' />
-<link rel='stylesheet' id='admin-bar-css'  href='http://www.monferratopaesaggi.org/wp-includes/css/admin-bar.min.css?ver=4.2.4'  media='all' />
-<link rel='stylesheet' id='boxes-css'  href='http://www.monferratopaesaggi.org/wp-content/plugins/wordpress-seo/css/adminbar.min.css?ver=2.3.4'  media='all' />
-<link rel='stylesheet' id='style-responsive-css'  href='http://www.monferratopaesaggi.org/wp-content/themes/intent15/style-responsive.css?ver=1.0'  media='all' />
-<link rel='stylesheet' id='wpbandit-style-advanced-css'  href='http://www.monferratopaesaggi.org/wp-content/themes/intent15/style-advanced.css?ver=4.2.4'  media='all' />
-<link rel='stylesheet' id='wpbandit-custom-css'  href='http://www.monferratopaesaggi.org/wp-content/themes/intent15/custom.css?ver=1.0'  media='all' />
-<!-- This site uses the Google Analytics by Yoast plugin version 5.4.5 - https://yoast.com/wordpress/plugins/google-analytics/ --><!-- @Webmaster, normally you will find the Google Analytics tracking code here, but you are in the disabled user groups. To change this, navigate to Analytics -> Settings (Ignore usergroups) --><!-- / Google Analytics by Yoast --><script type='text/javascript' src='http://www.monferratopaesaggi.org/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<link rel='stylesheet' id='dashicons-css'  href='http://www.monferratopaesaggi.it/wp-includes/css/dashicons.min.css?ver=4.2.4'  media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://www.monferratopaesaggi.it/wp-includes/css/admin-bar.min.css?ver=4.2.4'  media='all' />
+<link rel='stylesheet' id='boxes-css'  href='http://www.monferratopaesaggi.it/wp-content/plugins/wordpress-seo/css/adminbar.min.css?ver=2.3.4'  media='all' />
+<link rel='stylesheet' id='style-responsive-css'  href='http://www.monferratopaesaggi.it/wp-content/themes/intent15/style-responsive.css?ver=1.0'  media='all' />
+<link rel='stylesheet' id='wpbandit-style-advanced-css'  href='http://www.monferratopaesaggi.it/wp-content/themes/intent15/style-advanced.css?ver=4.2.4'  media='all' />
+<link rel='stylesheet' id='wpbandit-custom-css'  href='http://www.monferratopaesaggi.it/wp-content/themes/intent15/custom.css?ver=1.0'  media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin version 5.4.5 - https://yoast.com/wordpress/plugins/google-analytics/ --><!-- @Webmaster, normally you will find the Google Analytics tracking code here, but you are in the disabled user groups. To change this, navigate to Analytics -> Settings (Ignore usergroups) --><!-- / Google Analytics by Yoast --><script type='text/javascript' src='http://www.monferratopaesaggi.it/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
 
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.monferratopaesaggi.org/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.monferratopaesaggi.org/wp-includes/wlwmanifest.xml" />
-<link rel='shortlink' href='http://www.monferratopaesaggi.org/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.monferratopaesaggi.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.monferratopaesaggi.it/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='http://www.monferratopaesaggi.it/' />
 <style>
-#wpadminbar #wp-admin-bar-wpbandit .ab-icon { background: url(http://www.monferratopaesaggi.org/wp-content/themes/intent15/air/base/assets/img/adminbar-icon.png); }
+#wpadminbar #wp-admin-bar-wpbandit .ab-icon { background: url(http://www.monferratopaesaggi.it/wp-content/themes/intent15/air/base/assets/img/adminbar-icon.png); }
 #wpadminbar #wp-admin-bar-wpbandit.menupop.hover .ab-icon { background-position: 0 -16px; }
 </style>
-<link rel="shortcut icon" href="http://www.monferratopaesaggi.org/wp-content/uploads/favicon-150x150.png">
+<link rel="shortcut icon" href="http://www.monferratopaesaggi.it/wp-content/uploads/favicon-150x150.png">
 <meta name="robots" content="noodp,noydir">
 <style type="text/css" media="print">#wpadminbar { display:none; }</style>
 <style type="text/css" media="screen">
@@ -152,8 +152,8 @@ h1 {
 	    ?>
 		<div class="row">
 			<div class="col-md-8">
-				<a href="http://www.monferratopaesaggi.org/">
-					<img src="http://www.monferratopaesaggi.org/wp-content/uploads/20150812_Selezione_001.jpg" style="padding:25px;width:100%">
+				<a href="http://www.monferratopaesaggi.it/">
+					<img src="http://www.monferratopaesaggi.it/wp-content/uploads/20150812_Selezione_001.jpg" style="padding:25px;width:100%">
 				</a>
 			</div>
 			<div class="col-md-4">
@@ -163,8 +163,8 @@ h1 {
 
 				<?php endif; ?>
 				<br>
-				<p style="text-align:right;"><a href="http://www.monferratopaesaggi.org/menzione-mibact/">
-					<img src="http://www.monferratopaesaggi.org/wp-content/uploads/Menzione-MiBACT-1024x7261.jpg">
+				<p style="text-align:right;"><a href="http://www.monferratopaesaggi.it/menzione-mibact/">
+					<img src="http://www.monferratopaesaggi.it/wp-content/uploads/Menzione-MiBACT-1024x7261.jpg">
 				</a></p>
 			</div>
 		</div>

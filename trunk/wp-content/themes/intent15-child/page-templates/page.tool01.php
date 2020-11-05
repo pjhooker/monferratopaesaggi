@@ -5,7 +5,7 @@ Template Name: 00 Tools custom test 001
 
 get_header('osm-base'); ?>
 
-		<link rel="stylesheet" type="text/css" href="http://www.monferratopaesaggi.org/wp-content/themes/intent15-child/table-style.css" />
+		<link rel="stylesheet" type="text/css" href="http://www.monferratopaesaggi.it/wp-content/themes/intent15-child/table-style.css" />
 
 <div id="page">
 	<div id="page-inner" class="container fix">
@@ -61,7 +61,7 @@ $lock5='UNLOCK';
 //    1. caricamento record con coordinate limitato a 2, da database PostGis;
 
 echo"<h2>Elenco record nel database MySql (custom table)</h2>";
-//echo"<a href='http://www.monferratopaesaggi.org/?p=2301'>Genera kml</a>";
+//echo"<a href='http://www.monferratopaesaggi.it/?p=2301'>Genera kml</a>";
 echo'<table id="hor-minimalist-a" summary="Employee Pay Sheet">';
 echo"<tr>";
 echo"<td>idm</td>";
@@ -337,7 +337,7 @@ $bounds=$SO_ln . "," . $SO_lt . "," . $NE_ln . "," . $NE_lt;
                 projection: map.displayProjection,
                 strategies: [new OpenLayers.Strategy.Fixed()],
                 protocol: new OpenLayers.Protocol.HTTP({
-                    url: "http://www.monferratopaesaggi.org/pt_punti_wp_percorso.kml",
+                    url: "http://www.monferratopaesaggi.it/pt_punti_wp_percorso.kml",
                     //url: "http://192.81.215.55/site/?p=397",
                     format: new OpenLayers.Format.KML({
                         extractStyles: true,
@@ -346,7 +346,7 @@ $bounds=$SO_ln . "," . $SO_lt . "," . $NE_ln . "," . $NE_lt;
                 })
             });
  
-            map.addLayers([olmapnik,sundials,gmap,gmap1]); //change url: "http://www.monferratopaesaggi.org/?p=2301",
+            map.addLayers([olmapnik,sundials,gmap,gmap1]); //change url: "http://www.monferratopaesaggi.it/?p=2301",
             map.setBaseLayer(olmapnik);
             //**
             select = new OpenLayers.Control.SelectFeature(sundials); 

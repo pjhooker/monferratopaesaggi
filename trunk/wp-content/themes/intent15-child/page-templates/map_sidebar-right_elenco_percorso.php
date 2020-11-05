@@ -50,7 +50,7 @@ echo"<li id='recent-comments-5' class='widget widget_recent_comments_map'>
 
         $return='1951';//la pagina dell'elenco dei percorsi rimane sempre la stessa e senza variabile
 echo"<li class='recentcomments'>
-<a href='http://www.monferratopaesaggi.org/?page_id=$return'>torna all'elenco percorsi</a>
+<a href='http://www.monferratopaesaggi.it/?page_id=$return'>torna all'elenco percorsi</a>
 </li>";
 echo"
     </ul></li><br />";

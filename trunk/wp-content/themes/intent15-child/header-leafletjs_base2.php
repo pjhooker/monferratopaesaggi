@@ -18,7 +18,7 @@
 <!-- Bootstrap core CSS -->
 <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="http://danzel.github.io/Leaflet.markercluster/dist/MarkerCluster.css" />
-<link rel="stylesheet" href="http://www.monferratopaesaggi.org/MarkerCluster.Default.Monferrato.css" />
+<link rel="stylesheet" href="http://www.monferratopaesaggi.it/MarkerCluster.Default.Monferrato.css" />
 
 <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
 <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->

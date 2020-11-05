@@ -71,10 +71,10 @@ $postid = get_the_ID();
 										    		var lon = <?php echo $lng; ?>,
 										    		lat = <?php echo $lat; ?>
 										    	</script>
-										    	<script src='http://www.monferratopaesaggi.org/js/mappa_allegato_leaflet.js'></script>
-										    	<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_0.js'></script>
-										    	<script src='http://www.monferratopaesaggi.org/geodata/poi_monferrato.js'></script>
-										    	<script src='http://www.monferratopaesaggi.org/geodata/poi_monferrato.js'></script>
+										    	<script src='http://www.monferratopaesaggi.it/js/mappa_allegato_leaflet.js'></script>
+										    	<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_0.js'></script>
+										    	<script src='http://www.monferratopaesaggi.it/geodata/poi_monferrato.js'></script>
+										    	<script src='http://www.monferratopaesaggi.it/geodata/poi_monferrato.js'></script>
 											<?php
 											}
 											//the_meta();

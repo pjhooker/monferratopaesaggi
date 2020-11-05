@@ -72,23 +72,23 @@ $lng=$location['lng'];
 endif; // lat lng
 
 $tipo = get_field('field_53524fd43715d');
-if ($tipo=='blue'){$tipo='none';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png';$tipoIcon='wht_blank';}
-else if ($tipo=='ed-religioso'){$tipo='edreligioso';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png';$tipoIcon='grn_stars';}
-else if ($tipo=='ed-storico'){$tipo='edstorico';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png';$tipoIcon='ltblu_stars';}
-else if ($tipo=='punto-oss'){$tipo='puntooss';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png';$tipoIcon='binoculars';}
-else if ($tipo=='parcheggio'){$tipo='parcheggio';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png';$tipoIcon='';}
-else if ($tipo=='info'){$tipo='info';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/info.png';$tipoIcon='parking_lot';}
-else if ($tipo=='arc_industriale'){$tipo='arc_industriale';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/arch_industriale.png';$tipoIcon='orange_stars';}
-else if ($tipo=='centro_storico'){$tipo='centro_storico';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/centro_storico.png';$tipoIcon='pink_stars';}
-else if ($tipo=='fontana'){$tipo='fontana';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png';$tipoIcon='measle_turquoise';}
-else if ($tipo=='museo'){$tipo='museo';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/museo.png';$tipoIcon='purple_stars';}
-else if ($tipo=='wc'){$tipo='wc';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/wc.png';$tipoIcon='toilets';}
-else if ($tipo=='interesse_paesaggistico'){$tipo='interesse_paesaggistico';$iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/interesse_paesaggistico.png';$tipoIcon='red_stars';}
-else if ($tipo=='picnic'){$tipo='picnic';       $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png';$tipoIcon='campfire';}
-else if ($tipo=='teatro'){$tipo='teatro';       $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/teatro.png';$tipoIcon='wht_stars';}
-else if ($tipo=='ed_civile'){$tipo='ed_civile'; $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png';$tipoIcon='ylw_stars';}
-else if ($tipo=='infernot'){$tipo='infernot';   $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/infenot.png';$tipoIcon='capital_small_highlight';}
-else if ($tipo=='giardino'){$tipo='giardino';   $iconurl='http://www.monferratopaesaggi.org/wp-content/uploads/parco-giardino.png';$tipoIcon='parks';}
+if ($tipo=='blue'){$tipo='none';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/vuoto.png';$tipoIcon='wht_blank';}
+else if ($tipo=='ed-religioso'){$tipo='edreligioso';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/chiesa.png';$tipoIcon='grn_stars';}
+else if ($tipo=='ed-storico'){$tipo='edstorico';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/ed_storico.png';$tipoIcon='ltblu_stars';}
+else if ($tipo=='punto-oss'){$tipo='puntooss';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/punto_panoramico.png';$tipoIcon='binoculars';}
+else if ($tipo=='parcheggio'){$tipo='parcheggio';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/parcheggio.png';$tipoIcon='';}
+else if ($tipo=='info'){$tipo='info';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/info.png';$tipoIcon='parking_lot';}
+else if ($tipo=='arc_industriale'){$tipo='arc_industriale';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/arch_industriale.png';$tipoIcon='orange_stars';}
+else if ($tipo=='centro_storico'){$tipo='centro_storico';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/centro_storico.png';$tipoIcon='pink_stars';}
+else if ($tipo=='fontana'){$tipo='fontana';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/fontana.png';$tipoIcon='measle_turquoise';}
+else if ($tipo=='museo'){$tipo='museo';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/museo.png';$tipoIcon='purple_stars';}
+else if ($tipo=='wc'){$tipo='wc';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/wc.png';$tipoIcon='toilets';}
+else if ($tipo=='interesse_paesaggistico'){$tipo='interesse_paesaggistico';$iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/interesse_paesaggistico.png';$tipoIcon='red_stars';}
+else if ($tipo=='picnic'){$tipo='picnic';       $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/pic-nic.png';$tipoIcon='campfire';}
+else if ($tipo=='teatro'){$tipo='teatro';       $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/teatro.png';$tipoIcon='wht_stars';}
+else if ($tipo=='ed_civile'){$tipo='ed_civile'; $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/edificio-civile.png';$tipoIcon='ylw_stars';}
+else if ($tipo=='infernot'){$tipo='infernot';   $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/infenot.png';$tipoIcon='capital_small_highlight';}
+else if ($tipo=='giardino'){$tipo='giardino';   $iconurl='http://www.monferratopaesaggi.it/wp-content/uploads/parco-giardino.png';$tipoIcon='parks';}
 
 if (substr($url_image, 0, 4)=='http') {} else {}
 if ($wiki_id==NULL) {} else {}
@@ -158,8 +158,8 @@ fclose($fh2);
 	<div id="map"></div> <!-- this is the initial look of the map. in most cases it is done externally using something like a map.css stylesheet were you can specify the look of map elements, like background color tables and so on.-->
 
 
-	<script src='http://www.monferratopaesaggi.org/geodata/osm_element.json'></script>
-	<script src='http://www.monferratopaesaggi.org/geodata/osm_element_ok.json'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/osm_element.json'></script>
+	<script src='http://www.monferratopaesaggi.it/geodata/osm_element_ok.json'></script>
 
 <script>
 

@@ -1,6 +1,6 @@
 
 <?php
-$icon1 = 'http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png'; //get_field('icon1',$id);
+$icon1 = 'http://www.monferratopaesaggi.it/wp-content/uploads/vuoto.png'; //get_field('icon1',$id);
 $icon2 = get_field('icon2',$id);
 ?>
 
@@ -422,7 +422,7 @@ var boroughs = L.geoJson(null, {
     });
   }
 });
-$.getJSON("http://www.monferratopaesaggi.org/php/bootleaf-master/data/boroughs.geojson", function (data) {
+$.getJSON("http://www.monferratopaesaggi.it/php/bootleaf-master/data/boroughs.geojson", function (data) {
   boroughs.addData(data);
 });
 
@@ -541,7 +541,7 @@ var subwayLines = L.geoJson(null, {
     });
   }
 });
-$.getJSON("http://www.monferratopaesaggi.org/php/bootleaf-master/data/subways.geojson", function (data) {
+$.getJSON("http://www.monferratopaesaggi.it/php/bootleaf-master/data/subways.geojson", function (data) {
   subwayLines.addData(data);
 });
 
@@ -605,7 +605,7 @@ $.getJSON("data/DOITT_THEATER_01_13SEPT2010.geojson", function (data) {
   map.addLayer(theaterLayer);
 });
 */
-$.getJSON("http://www.monferratopaesaggi.org/geodata/poi_tree.geojson", function (data) {
+$.getJSON("http://www.monferratopaesaggi.it/geodata/poi_tree.geojson", function (data) {
   theaters.addData(data);
   map.addLayer(theaterLayer);
 });
@@ -657,7 +657,7 @@ $.getJSON("data/DOITT_MUSEUM_01_13SEPT2010.geojson", function (data) {
   museums.addData(data);
 });
 */
-$.getJSON("http://www.monferratopaesaggi.org/geodata/poi_tree.geojson", function (data) {
+$.getJSON("http://www.monferratopaesaggi.it/geodata/poi_tree.geojson", function (data) {
   museums.addData(data);
 });
 

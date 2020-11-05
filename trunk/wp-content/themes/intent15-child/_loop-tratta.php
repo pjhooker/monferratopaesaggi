@@ -47,11 +47,11 @@ $toPLINK=get_the_permalink($toID);
 					<div class="col-sm-12">
 						<div id='map' style="height:400px;"></div>
 
-						<!--<script src='http://www.monferratopaesaggi.org/js/mappa_tratta_leaflet.js'></script>-->
-						<script src='http://www.monferratopaesaggi.org/geodata/pl_linee_pano_0.js'></script>
-						<script src='http://www.monferratopaesaggi.org/geodata/poi_monferrato.js'></script>
+						<!--<script src='http://www.monferratopaesaggi.it/js/mappa_tratta_leaflet.js'></script>-->
+						<script src='http://www.monferratopaesaggi.it/geodata/pl_linee_pano_0.js'></script>
+						<script src='http://www.monferratopaesaggi.it/geodata/poi_monferrato.js'></script>
 
-						<script src='http://www.monferratopaesaggi.org/geodata/poi_monferrato.js'></script>
+						<script src='http://www.monferratopaesaggi.it/geodata/poi_monferrato.js'></script>
 
 <?php
 
@@ -162,7 +162,7 @@ $toPLINK=get_the_permalink($toID);
       // l'elenco delle colonne Ã¨ generato tramite un array di acf
       var popupContent = '<table style="width:300px;">'
                       + '<tr>'
-                      + '<a href="http://www.monferratopaesaggi.org/?page_id='
+                      + '<a href="http://www.monferratopaesaggi.it/?page_id='
                       + feature.properties['idm']
                       + '">'
                       + getNomeP(feature.properties['idm'])
@@ -256,6 +256,6 @@ $toPLINK=get_the_permalink($toID);
     'OSM Standard': basemap_0,
   };
 
-  L.control.layers(baseMaps,{"GeoJson <a href='http://www.monferratopaesaggi.org/geodata/textfile.json' target='_blank'><i class='fa fa-download'></i></a>": cluster_groupexp_regJSON},{collapsed:false}).addTo(map);
+  L.control.layers(baseMaps,{"GeoJson <a href='http://www.monferratopaesaggi.it/geodata/textfile.json' target='_blank'><i class='fa fa-download'></i></a>": cluster_groupexp_regJSON},{collapsed:false}).addTo(map);
 
 </script>

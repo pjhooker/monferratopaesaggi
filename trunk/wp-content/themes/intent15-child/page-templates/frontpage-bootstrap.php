@@ -63,42 +63,42 @@ for ($mul = 1; $mul <= 6; ++$mul) {
     $slide_p='<p>Percorso BRIC</p>';
     $slide_h2='<h2>I borghi tra i boschi</h2>';
     $slide_button='Vai al percorso';
-    $slide_url='"http://www.monferratopaesaggi.org/?page_id=1987"';
+    $slide_url='"http://www.monferratopaesaggi.it/?page_id=1987"';
   }
   else if ($mul==2){
     $slide_img='"https://lh5.googleusercontent.com/-MKRSHoKcHDs/Vcup89Z-deI/AAAAAAABkJ0/nfPQ7yuQEuo/w1142-h669-no/2_crea.jpg"';
     $slide_p='<p>Percorso CREA</p>';
     $slide_h2='<h2>Il Sacro Monte tra colline/crinali e campanili</h2>';
     $slide_button='Vai al percorso';
-    $slide_url='"http://www.monferratopaesaggi.org/?page_id=1971"';
+    $slide_url='"http://www.monferratopaesaggi.it/?page_id=1971"';
   }
   else if ($mul==3){
     $slide_img='"https://lh3.googleusercontent.com/-pxHUoihgGdQ/Vcup9CYDBbI/AAAAAAABkJ4/uw7Xu4XMU10/w1142-h669-no/3_miniere.jpg"';
     $slide_p='<p>Percorso MINIERE</p>';
     $slide_h2='<h2>Vigneti e antiche vie del cemento</h2>';
     $slide_button='Vai al percorso';
-    $slide_url='"http://www.monferratopaesaggi.org/?page_id=1989"';
+    $slide_url='"http://www.monferratopaesaggi.it/?page_id=1989"';
   }
   else if ($mul==4){
     $slide_img='"https://lh5.googleusercontent.com/-H9vgF8siOck/Vcup-hOfXMI/AAAAAAABkKM/qJAjBghchm8/w1142-h669-no/4_po.jpg"';
     $slide_p='<p>Percorso PO</p>';
     $slide_h2='<h2>Vedute tra Alpi e terre di acqua</h2>';
     $slide_button='Vai al percorso';
-    $slide_url='"http://www.monferratopaesaggi.org/?page_id=1993"';
+    $slide_url='"http://www.monferratopaesaggi.it/?page_id=1993"';
   }
   else if ($mul==5){
     $slide_img='"https://lh3.googleusercontent.com/-I9xRGwmruD0/Vcup_BLsPHI/AAAAAAABkKU/vIq-o1HEqA8/w1142-h669-no/5_img_0445.jpg"';
     $slide_p='<p>Percorso PROFILI</p>';
     $slide_h2='<h2>Scorci di paesaggio antico</h2><p>di <a href="https://www.facebook.com/matteo.monzeglio" style="color:#fff;">Matteo Monzeglio</a></p>';
     $slide_button='Vai al percorso';
-    $slide_url='"http://www.monferratopaesaggi.org/?page_id=1997"';
+    $slide_url='"http://www.monferratopaesaggi.it/?page_id=1997"';
   }
   else if ($mul==6){
     $slide_img='"https://lh5.googleusercontent.com/-qSouTpTSlBs/Vcup_GHdWvI/AAAAAAABkKQ/54WkNHVV4Dc/w1142-h669-no/6_vigne.jpg"';
     $slide_p='<p>Percorso VIGNE</p>';
     $slide_h2='<h2>Terre di vino e pietra da cantoni</h2>';
     $slide_button='Vai al percorso';
-    $slide_url='"http://www.monferratopaesaggi.org/?page_id=1969"';
+    $slide_url='"http://www.monferratopaesaggi.it/?page_id=1969"';
   }
   else{}
   echo "
@@ -117,51 +117,51 @@ for ($mul = 1; $mul <= 6; ++$mul) {
         <?php
         /*
           <div class="item active">
-            <img src="http://www.monferratopaesaggi.org/wp-content/uploads/slide_autunno.jpg" alt="First slide" <?php echo $style;?> >
+            <img src="http://www.monferratopaesaggi.it/wp-content/uploads/slide_autunno.jpg" alt="First slide" <?php echo $style;?> >
             <div class="carousel-caption">
             	<!--<p>Percorso PROFILI</p>-->
             	<!--<h2>Scorci di paesaggio antico</h2>-->
-            	<p><a href="http://www.monferratopaesaggi.org/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
+            	<p><a href="http://www.monferratopaesaggi.it/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
             </div>
           </div>
           <div class="item">
-            <img src="http://www.monferratopaesaggi.org/wp-content/uploads/slide_geometrieestate1.jpg" alt="First slide"  <?php echo $style;?> >
+            <img src="http://www.monferratopaesaggi.it/wp-content/uploads/slide_geometrieestate1.jpg" alt="First slide"  <?php echo $style;?> >
             <div class="carousel-caption">
             	<!--<p>Percorso PO</p>-->
             	<!--<h2>Vedute tra Alpi e terre d'acqua</h2>-->
-            	<p><a href="http://www.monferratopaesaggi.org/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
+            	<p><a href="http://www.monferratopaesaggi.it/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
             </div>
           </div>
           <div class="item">
-            <img src="http://www.monferratopaesaggi.org/wp-content/uploads/slide_inverno1.jpg" alt="First slide"  <?php echo $style;?> >
+            <img src="http://www.monferratopaesaggi.it/wp-content/uploads/slide_inverno1.jpg" alt="First slide"  <?php echo $style;?> >
             <div class="carousel-caption">
             	<!--<p>Percorso MINIERE</p>-->
             	<!--<h2>Vigneti e antiche vie del cemento</h2>-->
-            	<p><a href="http://www.monferratopaesaggi.org/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
+            	<p><a href="http://www.monferratopaesaggi.it/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
             </div>
           </div>
           <div class="item">
-            <img src="http://www.monferratopaesaggi.org/wp-content/uploads/slide_lavoro1.jpg" alt="First slide"  <?php echo $style;?> >
+            <img src="http://www.monferratopaesaggi.it/wp-content/uploads/slide_lavoro1.jpg" alt="First slide"  <?php echo $style;?> >
             <div class="carousel-caption">
             	<!--<p>Percorso BRIC</p>-->
             	<!--<h2>I borghi tra i boschi</h2>-->
-            	<p><a href="http://www.monferratopaesaggi.org/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
+            	<p><a href="http://www.monferratopaesaggi.it/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
             </div>
           </div>
           <div class="item">
-            <img src="http://www.monferratopaesaggi.org/wp-content/uploads/slide_versopianura2.jpg" alt="First slide"  <?php echo $style;?> >
+            <img src="http://www.monferratopaesaggi.it/wp-content/uploads/slide_versopianura2.jpg" alt="First slide"  <?php echo $style;?> >
             <div class="carousel-caption">
             	<!--<p>Percorso CREA</p>-->
             	<!--<h2>Il Sacro Monte tra colline/crinali e campanili</h2>-->
-            	<p><a href="http://www.monferratopaesaggi.org/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
+            	<p><a href="http://www.monferratopaesaggi.it/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
             </div>
           </div>
           <div class="item">
-            <img src="http://www.monferratopaesaggi.org/wp-content/uploads/slide_oziarium2.jpg" alt="First slide"  <?php echo $style;?> >
+            <img src="http://www.monferratopaesaggi.it/wp-content/uploads/slide_oziarium2.jpg" alt="First slide"  <?php echo $style;?> >
             <div class="carousel-caption">
             	<p>Percorso VIGNE</p>-->
             	<h2>Terre di vino e pietra da cantoni</h2>-->
-            	<p><a href="http://www.monferratopaesaggi.org/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
+            	<p><a href="http://www.monferratopaesaggi.it/?page_id=1951"><button type="button" class="btn btn-lg btn-danger">Vai ai percorsi</button></a></p>
             </div>
           </div>
         */
@@ -188,17 +188,17 @@ for ($mul = 1; $mul <= 6; ++$mul) {
 <!-- SEZ.3 -->
 	<div class="row">
 		<div class="col-lg-4" style='text-align: center;'>
-			<a href='http://www.monferratopaesaggi.org/?page_id=1951'><img data-holder-rendered="true" src="http://www.monferratopaesaggi.org/wp-content/uploads/iconmonstr-map-2-icon-256.png" style="width: 200px; height: 200px;" class="img-thumbnail" alt="200x200">
+			<a href='http://www.monferratopaesaggi.it/?page_id=1951'><img data-holder-rendered="true" src="http://www.monferratopaesaggi.it/wp-content/uploads/iconmonstr-map-2-icon-256.png" style="width: 200px; height: 200px;" class="img-thumbnail" alt="200x200">
 			<h2>ITINERARI</h2>
 			<p style='font-size:21px;'>Scopri i percorsi<br>più suggestivi</p></a>
 		</div>
 		<div class="col-lg-4" style='text-align: center;'>
-			<a href='http://www.monferratopaesaggi.org/?page_id=2191'><img data-holder-rendered="true" src="http://www.monferratopaesaggi.org/wp-content/uploads/noun_72353_cc.png" style="width: 200px; height: 200px;" class="img-thumbnail" alt="200x200">
+			<a href='http://www.monferratopaesaggi.it/?page_id=2191'><img data-holder-rendered="true" src="http://www.monferratopaesaggi.it/wp-content/uploads/noun_72353_cc.png" style="width: 200px; height: 200px;" class="img-thumbnail" alt="200x200">
 			<h2>TERRITORIO</h2>
 			<p style='font-size:21px;'>Conosci il paesaggio<br>e la storia</p></a>
 		</div>
 		<div class="col-lg-4" style='text-align: center;'>
-			<a href='http://www.monferratopaesaggi.org/?page_id=10380'><img data-holder-rendered="true" src="http://www.monferratopaesaggi.org/wp-content/uploads/noun_2159_cc.png" style="width: 200px; height: 200px;" class="img-thumbnail" alt="200x200">
+			<a href='http://www.monferratopaesaggi.it/?page_id=10380'><img data-holder-rendered="true" src="http://www.monferratopaesaggi.it/wp-content/uploads/noun_2159_cc.png" style="width: 200px; height: 200px;" class="img-thumbnail" alt="200x200">
 			<h2>PARTECIPA</h2>
 			<p style='font-size:21px;'>Entra nella community<br>del Monferrato Casalese</p></a>
 		</div>
@@ -220,7 +220,7 @@ for ($mul = 1; $mul <= 6; ++$mul) {
               <h3 class="panel-title" style='text-align:center;color:#fff;text-shadow: 1px 1px #5b5b5b;'>Percorso PROFILI<br><i>Scorci di paesaggio antico</i></h3>
             </div>
             <div class="panel-body">
-              <a href='http://www.monferratopaesaggi.org/?page_id=1997'>
+              <a href='http://www.monferratopaesaggi.it/?page_id=1997'>
               	<img data-holder-rendered="true" src="https://lh3.googleusercontent.com/-fp-YPZxvU2o/VcvbOJy-ihI/AAAAAAABkLY/2zorrSPK5Ko/w320-h219-no/20150813_Selezione_001.jpg" style="width: 100%;" class="img-thumbnail" alt="200x200">
               </a>
             </div>
@@ -231,7 +231,7 @@ for ($mul = 1; $mul <= 6; ++$mul) {
               <h3 class="panel-title" style='text-align:center;color:#fff;text-shadow: 1px 1px #5b5b5b;'>Percorso PO<br><i>Vedute tra Alpi e terre d’acqua</i></h3>
             </div>
             <div class="panel-body">
-              <a href='http://www.monferratopaesaggi.org/?page_id=1993'>
+              <a href='http://www.monferratopaesaggi.it/?page_id=1993'>
               	<img data-holder-rendered="true" src="https://lh3.googleusercontent.com/-Hz5XDuyd_nk/VcvbRmpEwBI/AAAAAAABkLw/GQyZvw0uDBM/w320-h219-no/20150813_Selezione_004.jpg" style="width: 100%;" class="img-thumbnail" alt="200x200">
               </a>
             </div>
@@ -244,7 +244,7 @@ for ($mul = 1; $mul <= 6; ++$mul) {
               <h3 class="panel-title" style='text-align:center;color:#fff;text-shadow: 1px 1px #5b5b5b;'>Percorso MINIERE<br><i>Vigneti e antiche vie del cemento</i></h3>
             </div>
             <div class="panel-body">
-              <a href='http://www.monferratopaesaggi.org/?page_id=1989'>
+              <a href='http://www.monferratopaesaggi.it/?page_id=1989'>
               	<img data-holder-rendered="true" src="https://lh3.googleusercontent.com/-LfmXDK3D9vw/VcvbP0dhn0I/AAAAAAABkLg/1WmBPkO0Pm4/w320-h219-no/20150813_Selezione_002.jpg" style="width: 100%;" class="img-thumbnail" alt="200x200">
               </a>
             </div>
@@ -255,7 +255,7 @@ for ($mul = 1; $mul <= 6; ++$mul) {
               <h3 class="panel-title" style='text-align:center;color:#fff;text-shadow: 1px 1px #5b5b5b;'>Percorso BRIC<br><i>I borghi tra i boschi</i></h3>
             </div>
             <div class="panel-body">
-              <a href='http://www.monferratopaesaggi.org/?page_id=1987'>
+              <a href='http://www.monferratopaesaggi.it/?page_id=1987'>
               	<img data-holder-rendered="true" src="https://lh6.googleusercontent.com/-Q7QwNWQzLto/VcvbSmJShxI/AAAAAAABkL4/oqYbcH5zhOI/w320-h218-no/20150813_Selezione_005.jpg" style="width: 100%;" class="img-thumbnail" alt="200x200">
               </a>
             </div>
@@ -268,7 +268,7 @@ for ($mul = 1; $mul <= 6; ++$mul) {
               <h3 class="panel-title" style='text-align:center;color:#fff;text-shadow: 1px 1px #5b5b5b;'>Percorso CREA<br><i>Il Sacro Monte tra colline/crinali e campanili</i></h3>
             </div>
             <div class="panel-body">
-              <a href='http://www.monferratopaesaggi.org/?page_id=1971'>
+              <a href='http://www.monferratopaesaggi.it/?page_id=1971'>
               	<img data-holder-rendered="true" src="https://lh6.googleusercontent.com/-OzSrsJlqL-w/VcvbQ9Ax8zI/AAAAAAABkLo/xvdK5gAXqDE/w318-h219-no/20150813_Selezione_003.jpg" style="width: 100%;" class="img-thumbnail" alt="200x200">
               </a>
             </div>
@@ -279,7 +279,7 @@ for ($mul = 1; $mul <= 6; ++$mul) {
               <h3 class="panel-title" style='text-align:center;color:#fff;text-shadow: 1px 1px #5b5b5b;'>Percorso VIGNE<br><i>Terre di vino e pietra da cantoni</i></h3>
             </div>
             <div class="panel-body">
-              <a href='http://www.monferratopaesaggi.org/?page_id=1969'>
+              <a href='http://www.monferratopaesaggi.it/?page_id=1969'>
               	<img data-holder-rendered="true" src="https://lh3.googleusercontent.com/-X5ous91-6sM/VcvbTyg5gwI/AAAAAAABkMA/W7mqAFhLt64/w320-h219-no/20150813_Selezione_006.jpg" style="width: 100%;" class="img-thumbnail" alt="200x200">
               </a>
             </div>
@@ -395,8 +395,8 @@ foreach($json_out_a['features'] as $data_out) {
               <h3 class="panel-title" style='text-align:center;'>Aggungi la tua foto</h3>
             </div>
             <div class="panel-body">
-              <a href='http://www.monferratopaesaggi.org/?page_id=10380'>
-              	<img data-holder-rendered="true" src="http://www.monferratopaesaggi.org/wp-content/uploads/iconmonstr-location-8-icon-256.png" style="width: 100%;" class="img-thumbnail" alt="200x200">
+              <a href='http://www.monferratopaesaggi.it/?page_id=10380'>
+              	<img data-holder-rendered="true" src="http://www.monferratopaesaggi.it/wp-content/uploads/iconmonstr-location-8-icon-256.png" style="width: 100%;" class="img-thumbnail" alt="200x200">
               </a>
             </div>
           </div>

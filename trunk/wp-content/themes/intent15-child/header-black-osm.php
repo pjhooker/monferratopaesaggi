@@ -26,7 +26,7 @@
 <?php /* OSM */ ?>
         <!--<link rel='stylesheet' href='http://openlayers.org/dev/theme/default/style.css' type='text/css'>-->
         <!--<script src='http://openlayers.org/dev/OpenLayers.js'></script>-->
-        <script src='http://www.monferratopaesaggi.org/php/openlayers-master/lib/OpenLayers.js'></script>
+        <script src='http://www.monferratopaesaggi.it/php/openlayers-master/lib/OpenLayers.js'></script>
         <script src='http://maps.google.com/maps/api/js?v=3&amp;sensor=false'></script> 
         <!--<link rel='stylesheet' href='http://openlayers.org/dev/theme/default/style.css' type='text/css'>-->
 
@@ -40,7 +40,7 @@
     <link href="http://getbootstrap.com/examples/blog/blog.css" rel="stylesheet">
 
         <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet">
-        <link href="http://www.monferratopaesaggi.org/php/lightbox-master/dist/ekko-lightbox.css" rel="stylesheet">
+        <link href="http://www.monferratopaesaggi.it/php/lightbox-master/dist/ekko-lightbox.css" rel="stylesheet">
 
 <!-- EXTRA START -->
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -61,9 +61,9 @@
 
 <?php /* OSM */ ?>
         <!--<link rel='stylesheet' href='http://openlayers.org/dev/theme/default/style.css' type='text/css'>-->
-        <link rel='stylesheet' href='http://www.monferratopaesaggi.org/php/openlayers-master/theme/default/style.css' type='text/css'>
+        <link rel='stylesheet' href='http://www.monferratopaesaggi.it/php/openlayers-master/theme/default/style.css' type='text/css'>
         <!--<script src='http://openlayers.org/dev/OpenLayers.js'></script>-->
-        <script src='http://www.monferratopaesaggi.org/php/openlayers-master/lib/OpenLayers.js'></script>
+        <script src='http://www.monferratopaesaggi.it/php/openlayers-master/lib/OpenLayers.js'></script>
         <script src='http://maps.google.com/maps/api/js?v=3&amp;sensor=false'></script> 
         <!--<link rel='stylesheet' href='http://openlayers.org/dev/theme/default/style.css' type='text/css'>-->
 
