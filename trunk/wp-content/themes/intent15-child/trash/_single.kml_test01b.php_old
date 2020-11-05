@@ -1,0 +1,70 @@
+<?php
+/* 
+Single Post Template: KML test01b TEST01
+<!DOCTYPE html>
+*/
+?>
+
+<?xml version="1.0" encoding="UTF-8"> 
+
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Senza titolo</name>
+  <description><![CDATA[]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+
+<?php
+
+
+
+/* The loop */ 
+while ( have_posts() ) : the_post(); 
+
+$args = array( 'posts_per_page' => 5, 'category' => 52 );
+$myposts = get_posts( $args );
+foreach ( $myposts as $post ) : setup_postdata( $post );
+
+echo'
+  <Placemark>
+    <name>';
+    the_title();
+    echo'</name>
+    <description><![CDATA[<div dir="ltr">apri <a href="';
+    echo get_permalink( $id );
+    echo'" target="_blank">scheda</a><hr>';
+    echo get_the_content();
+    echo'</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>';
+      
+/* VISUALIZZA LE COORDINATE REGISTRATE */ 
+$location = get_field('map',$id); // MANCA l'ID !!!
+ 
+if( !empty($location) ):
+$lat= $location['lat'];
+$lng=$location['lng']; 
+
+endif; // lat lng  
+
+echo $lng;
+echo',';
+echo $lat;
+echo',0.000000</coordinates>
+    </Point>
+  </Placemark>
+';
+
+endforeach; 
+wp_reset_postdata();
+endwhile;
+?>
+
+</Document>
+</kml>

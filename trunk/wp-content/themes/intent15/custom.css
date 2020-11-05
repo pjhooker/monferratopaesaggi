@@ -1,0 +1,54 @@
+/* ---- Place your custom styles below ---- */
+
+#header-social {
+float: right;
+margin-top: 80px;
+}
+
+#header-social li a span.icon img {
+opacity: 0.2;
+float: left;
+width: 32px;
+margin: -9px;
+}
+
+.block-center {
+text-align: center;
+}
+
+#pin_a {
+  position: absolute;
+  top: 25px;
+  right: 10px;
+  z-index:100;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding:25px;
+}
+
+.pj-widget{
+color: #999;
+}
+
+
+/* ------------------------------------------------------------------------- *
+ *  Widgets
+/* ------------------------------------------------------------------------- */
+/*  widget : common
+/* ------------------------------------ */
+/* ---- icon PJH --- */
+.widget_recent_comments_map ul li
+.widget_recent_comments_pin ul li,
+/* ---- icon PJH END --- */
+
+
+
+/*  widget : recent comments MAP
+/* ------------------------------------ */
+.widget_recent_comments_map ul li { background: url(http://www.monferratopaesaggi.org/wp-content/themes/intent15/img/widgets/map.png) no-repeat 4px 11px; }
+.widget_recent_comments_map ul li a { color: #999; }
+
+/*  widget : recent comments PIN
+/* ------------------------------------ */
+.widget_recent_comments_pin ul li { background: url(http://www.monferratopaesaggi.org/wp-content/themes/intent15/img/widgets/pin.png) no-repeat 4px 11px; }
+.widget_recent_comments_pin ul li a { color: #999; }
+

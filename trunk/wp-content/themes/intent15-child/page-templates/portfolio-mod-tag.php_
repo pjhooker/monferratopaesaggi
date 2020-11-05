@@ -1,0 +1,162 @@
+<?php
+/*
+Template Name: Portfolio MOD TAG
+*/
+
+// Portfolio functions
+$portfolio_functions = locate_template('functions-portfolio.php');
+require ( $portfolio_functions );
+?>
+
+<?php get_header(); ?>
+<?php get_template_part('_page-image'); ?>
+<?php /*
+<div id="page-title" class="fix">
+	<div id="page-title-inner" class="container">
+
+		 if ( !wpb_meta('_portfolio_disable_switcher') ): ?>
+			<ul id="portfolio-size" class="fix" data-current="<?php echo wpb_meta('_portfolio_layout', 'grid one-third'); ?>">
+				<li><a id="switch-small" href="#" data-layout="grid one-fourth"><i class="icon-size small"></i>Small</a></li>
+				<li><a id="switch-medium" href="#" data-layout="grid one-third"><i class="icon-size medium"></i>Medium</a></li>
+				<li><a id="switch-large" href="#" data-layout="grid one-half"><i class="icon-size large"></i>Large</a></li>
+			</ul><!--/#portfolio-size-->
+		<?php endif; ?>
+		
+	</div><!--/#page-title-inner-->
+</div><!--/#page-title-->
+
+*/
+?>
+<div id="page" class="portfolio">
+	<div id="page-inner" class="container fix">
+        <div id="content">
+<?php
+
+  $mykey_values = get_post_custom_values('tag_percorso_template');
+      foreach ( $mykey_values as $key => $value ) {
+        $tag=$value;
+        if ($tag=='crea') {$active_crea='class="active" ';}else{$active_crea='';}
+        if ($tag=='bosco') {$active_bosco='class="active" ';}else{$active_bosco='';}
+        if ($tag=='po') {$active_po='class="active" ';}else{$active_po='';}
+        if ($tag=='miniera') {$active_miniera='class="active" ';}else{$active_miniera='';}
+        if ($tag=='grignolino') {$active_grignolino='class="active" ';}else{$active_grignolino='';}
+        if ($tag=='sud') {$active_sud='class="active" ';}else{$active_sud='';}
+    }
+?>         
+<ul class='tabs-nav fix'>
+
+<?php
+echo"
+	<li><a $active_crea href='http://www.monferratopaesaggi.org/?page_id=5934'>Crea</a></li>
+	<li><a $active_bosco href='http://www.monferratopaesaggi.org/?page_id=5983'>Bosco</a></li>
+	<li><a $active_po href='http://www.monferratopaesaggi.org/?page_id=5986'>Po</a></li>
+	<li><a $active_miniera href='http://www.monferratopaesaggi.org/?page_id=5987'>Miniera</a></li>
+	<li><a $active_grignolino href='http://www.monferratopaesaggi.org/?page_id=5989'>Grignolino</a></li>
+	<li><a $active_sud href='http://www.monferratopaesaggi.org/?page_id=5988'>Sud</a></li>
+";
+$tags="'percorso_".$tag."'";
+?>
+        <?php if ( !wpb_meta('_portfolio_disable_switcher') ): ?>
+			<ul id="portfolio-size" class="fix" data-current="<?php echo wpb_meta('_portfolio_layout', 'grid one-third'); ?>">
+				<li><a id="switch-small" href="#" data-layout="grid one-fourth"><i class="icon-size small"></i>Small</a></li>
+				<li><a id="switch-medium" href="#" data-layout="grid one-third"><i class="icon-size medium"></i>Medium</a></li>
+				<li><a id="switch-large" href="#" data-layout="grid one-half"><i class="icon-size large"></i>Large</a></li>
+			</ul><!--/#portfolio-size-->
+		<?php endif; ?>
+    </li>
+</ul>
+
+
+<div style="display: block;" id="tab-3" class="tab"><div class="tab-content">Elenco dei percorsi consigliati per ogni Comune
+					</div></div>
+                    
+
+			
+			<?php do_action('wpb_portfolio_javascript', wpb_meta('_portfolio_disable_categories'),
+				wpb_meta('_portfolio_disable_switcher'), wpb_meta('_portfolio_lightbox')); ?>
+		
+			<section id="portfolio" class="isotope"  style ="max-width:1930px !important;">
+				<?php $item_rel = wpb_meta('_portfolio_lightbox_gallery')?'rel="gallery"':''; ?>
+				<?php $lightbox = wpb_meta('_portfolio_lightbox'); ?>
+
+<?php
+
+$args = array('tag_slug__and' => array($tags));
+$postslist = get_posts( $args );
+foreach ($postslist as $post) :  setup_postdata($post); ?>
+    <?php $item_link = wpb_portfolio_link($lightbox); ?>
+    			<div class="isotope-item <?php echo wpb_portfolio_class($meta_layout); ?>">
+					<article class="portfolio-item">
+						<a class="portfolio-thumbnail" href="<?php echo $item_link; ?>" title="<?php the_title_attribute(); ?>" <?php echo $item_rel; ?>>	
+							
+							<?php if ( has_post_thumbnail() ): ?>
+								<?php $img = wp_get_attachment_image_src(get_post_thumbnail_id(),'portfolio-thumbnail-large'); ?>
+								<img src="<?php echo $img[0]; ?>" alt="<?php the_title() ;?>" />						
+							<?php else: ?>
+								<img src="<?php echo get_template_directory_uri(); ?>/img/placeholder.png" alt="<?php the_title() ;?>" />
+							<?php endif; ?>
+							
+							<?php if ( wpb_meta('_portfolio_video') ): ?><span class="play"></span><?php endif; ?>
+							<span class="zoom"><i class="icon-zoom"></i></span>
+							
+						</a>
+						
+						<?php if( !wpb_option('hide-meta-portfolio') ): ?>
+						<a class="portfolio-meta" href="<?php echo wpb_meta('_link', get_permalink()); ?>">
+							<h4 class="portfolio-title"><?php the_title(); ?></h4>
+							<span class="portfolio-category"><?php echo air_portfolio::get_category_list(); ?></span>
+						</a>
+						<?php endif; ?>
+						
+					</article>
+				</div><!--/.isotope-item-->
+    
+<?php endforeach; ?>
+
+
+<?php /*
+				<?php while ( $loop->have_posts() ): $loop->the_post(); wpb_metadata(); ?>
+				<?php $item_link = wpb_portfolio_link($lightbox); ?>
+
+
+				<div class="isotope-item <?php echo wpb_portfolio_class($meta_layout); ?>">
+					<article class="portfolio-item">
+						<a class="portfolio-thumbnail" href="<?php echo $item_link; ?>" title="<?php the_title_attribute(); ?>" <?php echo $item_rel; ?>>	
+							
+							<?php if ( has_post_thumbnail() ): ?>
+								<?php $img = wp_get_attachment_image_src(get_post_thumbnail_id(),'portfolio-thumbnail-large'); ?>
+								<img src="<?php echo $img[0]; ?>" alt="<?php the_title() ;?>" />						
+							<?php else: ?>
+								<img src="<?php echo get_template_directory_uri(); ?>/img/placeholder.png" alt="<?php the_title() ;?>" />
+							<?php endif; ?>
+							
+							<?php if ( wpb_meta('_portfolio_video') ): ?><span class="play"></span><?php endif; ?>
+							<span class="zoom"><i class="icon-zoom"></i></span>
+							
+						</a>
+						
+						<?php if( !wpb_option('hide-meta-portfolio') ): ?>
+						<a class="portfolio-meta" href="<?php echo wpb_meta('_link', get_permalink()); ?>">
+							<h4 class="portfolio-title"><?php the_title(); ?></h4>
+							<span class="portfolio-category"><?php echo air_portfolio::get_category_list(); ?></span>
+						</a>
+						<?php endif; ?>
+						
+					</article>
+				</div><!--/.isotope-item-->
+				
+				<?php endwhile; ?>
+
+*/ ?>
+                
+                
+				<?php wpb_reset_metadata(); ?>
+				
+				<div class="clear"></div>
+			</section><!--/#portfolio-->
+
+		</div><!--/#content-->
+	</div><!--/#page-inner-->
+</div><!--/#page-->
+
+<?php get_footer(); ?>

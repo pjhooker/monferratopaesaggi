@@ -1,0 +1,414 @@
+<?php
+/*
+Template Name: 00 Tools custom test 001
+*/
+
+get_header('osm-base'); ?>
+
+		<link rel="stylesheet" type="text/css" href="http://www.monferratopaesaggi.org/wp-content/themes/intent15-child/table-style.css" />
+
+<div id="page">
+	<div id="page-inner" class="container fix">
+		
+		<div id="content-part">
+
+			<?php /* The loop */ ?>
+			<?php while ( have_posts() ) : the_post(); ?>
+
+<!-- ////////////////////////////// -->
+
+
+
+
+
+                    <h1 class="post-title"><img itemprop="image" style="float: left; margin: 0px 15px 15px 0px;width:50px;height:auto;" src="https://lh4.googleusercontent.com/-1UCSMjFdeHg/UvFt7fy5Y4I/AAAAAAAAvmc/p-Wd1KcFKCs/s444-no/tavole_svg.png">
+                    <span itemprop="name"><?php echo get_the_title($ID);?></span></h1>
+                    <span itemprop="description"><?php the_content(); ?></span>
+                    <hr>
+                    
+                    <?php 
+                    $vlock03=get_field('field_534fa5cf011ab');
+                    echo "OPTION 3 ";
+                    if ($vlock03==1){echo"<img src='https://lh5.googleusercontent.com/-rNB-pPNkQiQ/UpeXxhEOFoI/AAAAAAAAq7Y/5boMzsLsM5c/s256-no/goog-padlock-old.png' width='30' height='auto' />";}
+                    else {echo"<img src='https://lh6.googleusercontent.com/-GH-McVYHcuU/UpeXzoiBSaI/AAAAAAAAq74/bd0FdBuYe60/s256-no/goog-pencil-y.png' width='30' height='auto' />";}
+                    
+                    $vlock04=get_field('field_534fa5ef011ac'); 
+                    echo " | OPTION 4 ";
+                    if ($vlock04==1){echo"<img src='https://lh5.googleusercontent.com/-rNB-pPNkQiQ/UpeXxhEOFoI/AAAAAAAAq7Y/5boMzsLsM5c/s256-no/goog-padlock-old.png' width='30' height='auto' />";}
+                    else {echo"<img src='https://lh6.googleusercontent.com/-GH-McVYHcuU/UpeXzoiBSaI/AAAAAAAAq74/bd0FdBuYe60/s256-no/goog-pencil-y.png' width='30' height='auto' />";}
+                   
+                   $vlock05 = get_field('field_534fa5ef011ac'); 
+                    echo " | OPTION 5 ";
+                    if ($vlock05==1){echo"<img src='https://lh5.googleusercontent.com/-rNB-pPNkQiQ/UpeXxhEOFoI/AAAAAAAAq7Y/5boMzsLsM5c/s256-no/goog-padlock-old.png' width='30' height='auto' />";}
+                    else {echo"<img src='https://lh6.googleusercontent.com/-GH-McVYHcuU/UpeXzoiBSaI/AAAAAAAAq74/bd0FdBuYe60/s256-no/goog-pencil-y.png' width='30' height='auto' />";}                   
+                   echo"<hr>";
+                   ?>
+                    
+
+			<?php endwhile; ?>
+<?php
+
+/**/
+$lock3='LOCK';
+$lock4='LOCK';
+$lock5='LOCK';
+/**/
+/* *
+$lock3='UNLOCK';
+$lock4='UNLOCK';
+$lock5='UNLOCK';
+/**/
+//    1. caricamento record con coordinate limitato a 2, da database PostGis;
+
+echo"<h2>Elenco record nel database MySql (custom table)</h2>";
+//echo"<a href='http://www.monferratopaesaggi.org/?p=2301'>Genera kml</a>";
+echo'<table id="hor-minimalist-a" summary="Employee Pay Sheet">';
+echo"<tr>";
+echo"<td>idm</td>";
+echo"<td>gid</td>";
+echo"<td>tipo</td>";
+echo"<td>name</td>";
+echo"<td>wp_id</td>";
+echo"</tr>";
+
+global $wpdb;
+// --- LIMIT --- $result = $wpdb->get_results("SELECT * FROM wp_odpmtb_punti_pg  LIMIT 0, 2");
+$result = $wpdb->get_results("SELECT * FROM wp_odpmtb_punti_pg");
+
+//    2. visualizzazione dei record, comprensivi di intestazione di colonna;
+
+foreach($result as $r) {	 
+echo"<tr>";
+echo"<td>".$r->idm."</td>";
+echo"<td>".$r->gid."</td>";
+echo"<td>".$r->tipo."</td>";
+echo"<td>".$r->name."</td>";
+echo"<td><a href='?p=".$r->wp_id."'>".$r->wp_id."</a></td>";
+echo"</tr>";
+}
+
+echo"</table>";
+
+?>
+
+<?php
+//    3. [LOCK] scrittura dei record nel database WP come articoli;
+
+if ($lock3=='LOCK') {}
+else if ($lock3=='UNLOCK') {
+
+// update_post_meta($id, 'lock03', 1);
+
+
+//require('pg_conn.php');
+/*
+$query = @pg_query(" 
+SELECT gid, idm, name, tipo, st_askml(ST_SetSRID(the_geom,4326)) as kml,
+st_X(ST_SetSRID(the_geom,4326)) as lng,
+st_Y(ST_SetSRID(the_geom,4326)) as lat
+from pt_punti WHERE wp_id IS NULL
+LIMIT 2
+");
+*/
+
+global $wpdb;
+// --- LIMIT --- $result = $wpdb->get_results("SELECT * FROM wp_odpmtb_punti_pg  LIMIT 0, 2");
+$result = $wpdb->get_results("SELECT * FROM wp_odpmtb_punti_pg");
+
+foreach($result as $r) {	 
+
+/*
+
+// COLONNE wp_odpmtb_punti_pg
+gid 
+name
+descriptio
+idm
+tipo
+lng 
+lat
+wp_id
+
+// INFO DA INSERIRE
+OK - A) Municipio
+OK - B) Descrizione del POI che è un Municipio
+
+*/
+
+
+/* ABILITA INSERIMENTO NUOV POST */
+// Create post object
+$my_post = array(
+  'post_title'    => $r->name,
+  'post_content'  => substr($r->descriptio, 1, -1),
+  'post_status'   => 'publish',
+  'post_author'   => 1,
+  'post_category' => array(52) // CATEGORIA ID 52 "TEST01 risultato"
+);
+
+// Insert the post into the database
+//wp_insert_post( $my_post );
+$post_id = wp_insert_post( $my_post, $wp_error );
+//now you can use $post_id withing add_post_meta or update_post_meta
+/**/
+
+// Questo aggiunge un custom field PROVA
+add_post_meta( $post_id, 'id_postgis', $r->gid );
+
+//    4. [LOCK] aggiunta delle coordinate agli articoli creati;
+
+
+        if ($lock4=='LOCK') {}
+        else if ($lock4=='UNLOCK') {
+
+// update_post_meta($id, 'lock04', 1);
+
+/*
+// INFO DA INSERIRE
+    C) Percorso: 1987 field_5352634f44829
+    D) Latitudine: 45.109570
+    E) Longitudine: 8.166903
+    F) Tipo: ed-storico2 field_53524fd43715d
+*/
+
+// C)
+$percorso= $r->idm;
+$field_key = "field_5352634f44829";
+update_field( $field_key, $percorso,$post_id);
+
+// D-E)
+// ABILITA LA MODIFICA DELLE COORDINATE
+$location = array(
+'lat' => $r->lat,
+'lng' => $r->lng
+);
+
+$field_key = "field_534fa68a0069a";
+update_field( $field_key, $location,$post_id);
+
+// F)
+$tipo= $r->tipo;
+if ($tipo=='none'){$tipo='blue';}
+else if ($tipo=='chiesa') {$tipo='ed-religioso';}
+else if ($tipo=='ed-storico2') {$tipo='ed-storico';}
+else if ($tipo=='view') {$tipo='punto-oss';}
+else {}
+$field_key = "field_53524fd43715d";
+update_field( $field_key, $tipo,$post_id);
+
+// G - TEMPLATE)
+$template= 't1';
+$field_key = "field_536105c3294e3";
+update_field( $field_key, $template,$post_id);
+
+
+        } // END IF LOCK 4
+        else {}
+
+    } // END FOR EACH
+
+} // END IF LOCK 3
+else {}
+
+//    5. [LOCK] scrivi post_id corrispondente aggiunto nel record di PostGIS;
+/*
+if ($lock5=='LOCK') {}
+else if ($lock5=='UNLOCK') {
+update_post_meta($id, 'lock05', 1);
+
+// The loop 
+while ( have_posts() ) : the_post(); 
+
+$args = array( 'posts_per_page' => 5, 'category' => 52 );
+$myposts = get_posts( $args );
+foreach ( $myposts as $post ) : setup_postdata( $post );
+
+$key="id_postgis"; $get_id_postgis=get_post_meta($post->ID, $key, true);
+
+if ($get_id_postgis==NULL) {}
+else {
+
+    $sql = "
+                UPDATE pt_punti
+                SET wp_id = $id
+                WHERE (gid=$get_id_postgis)
+                ";
+        pg_exec($conn, $sql) or die("Couldn't Connect".pg_last_error());
+}
+
+endforeach; 
+wp_reset_postdata();
+endwhile;
+// The loop -END
+}
+else {}
+*/
+?>
+
+
+
+
+
+<?php
+//    6. visualizzazione mappa dei nuovi articoli;
+
+// A - TABELLA
+echo"<h2>Elenco post attualmente presenti nella CAT52</h2>";
+echo'<table id="hor-minimalist-a" summary="Employee Pay Sheet">';
+echo"<tr>";
+echo"<td>id</td>";
+echo"<td>lat</td>";
+echo"<td>lng</td>";
+echo"</tr>";
+
+/* The loop */ 
+while ( have_posts() ) : the_post(); 
+
+$args = array( 'posts_per_page' => -1, 'category' => 52 );
+$myposts = get_posts( $args );
+foreach ( $myposts as $post ) : setup_postdata( $post );
+$link=get_permalink( $id );
+
+/* VISUALIZZA LE COORDINATE REGISTRATE */ 
+$location = get_field('map',$id); // MANCA l'ID !!!
+ 
+if( !empty($location) ):
+$lat= $location['lat'];
+$lng=$location['lng']; 
+
+endif; // lat lng
+
+echo"<tr>";
+echo"<td><a href='$link'>$id</a></td>";
+echo"<td>$lat</td>";
+echo"<td>$lng</td>";
+echo"</tr>";
+
+endforeach; 
+wp_reset_postdata();
+endwhile;
+
+echo"</table>";
+?>
+    
+
+<?php
+
+
+// CONTENUTO MAPPA DASE (START)
+
+echo"
+
+            <div id='map'></div>
+
+";
+
+?>
+
+<?php
+$center_ln=8.406231;
+$center_lt=45.122112;
+$delta_ln=0.1;
+$delta_lt=0.1;
+$SO_ln=$center_ln-$delta_ln;
+$SO_lt=$center_lt-$delta_lt;
+$NE_ln=$center_ln+$delta_ln;
+$NE_lt=$center_lt+$delta_lt;
+$bounds=$SO_ln . "," . $SO_lt . "," . $NE_ln . "," . $NE_lt;
+
+?>
+
+    <script type="text/javascript">
+        var map, layer;
+//----------------------------------------->
+        function init(){
+            var option = {
+                projection: new OpenLayers.Projection("EPSG:900913"),
+                displayProjection: new OpenLayers.Projection("EPSG:4326")
+                
+            };
+            map = new OpenLayers.Map('map', option);
+            olmapnik = new OpenLayers.Layer.OSM("OpenStreetMap Mapnik", "http://tile.openstreetmap.org/${z}/${x}/${y}.png", {layers: 'basic'} );
+            
+            var gmap = new OpenLayers.Layer.Google("Google Streets", {visibility: false});
+            var gmap1 = new OpenLayers.Layer.Google("Google Satellite", {type: google.maps.MapTypeId.SATELLITE, numZoomLevels: 22});
+            
+            var sundials = new OpenLayers.Layer.Vector("KML esempio con PopUp", { 
+                projection: map.displayProjection,
+                strategies: [new OpenLayers.Strategy.Fixed()],
+                protocol: new OpenLayers.Protocol.HTTP({
+                    url: "http://www.monferratopaesaggi.org/pt_punti_wp_percorso.kml",
+                    //url: "http://192.81.215.55/site/?p=397",
+                    format: new OpenLayers.Format.KML({
+                        extractStyles: true,
+                        extractAttributes: true
+                    })
+                })
+            });
+ 
+            map.addLayers([olmapnik,sundials,gmap,gmap1]); //change url: "http://www.monferratopaesaggi.org/?p=2301",
+            map.setBaseLayer(olmapnik);
+            //**
+            select = new OpenLayers.Control.SelectFeature(sundials); 
+            sundials.events.on({
+                "featureselected": onFeatureSelect,
+                "featureunselected": onFeatureUnselect
+            });
+            map.addControl(select);
+            select.activate();   
+            //**
+            map.addControl(new OpenLayers.Control.LayerSwitcher());
+            map.addControl(new OpenLayers.Control.Navigation());
+            //map.addControl(new OpenLayers.Control.PanZoomBar());
+            map.addControl(new OpenLayers.Control.LayerSwitcher({'ascending':false}));
+            map.addControl(new OpenLayers.Control.Permalink());
+            map.addControl(new OpenLayers.Control.ScaleLine());
+            map.addControl(new OpenLayers.Control.MousePosition());
+            map.addControl(new OpenLayers.Control.OverviewMap());
+            map.addControl(new OpenLayers.Control.KeyboardDefaults());
+            extent = new OpenLayers.Bounds(<?php echo $bounds ?>).transform(new OpenLayers.Projection('EPSG:4326'), 
+            new OpenLayers.Projection('EPSG:900913'));
+            map.zoomToExtent(extent);
+        }
+//----------------------------------------->
+function onPopupClose(evt) {
+            select.unselectAll();
+        }
+
+function onFeatureSelect(event) {
+            var feature = event.feature;
+            var selectedFeature = feature;
+            var popup = new OpenLayers.Popup.FramedCloud("chicken", 
+                feature.geometry.getBounds().getCenterLonLat(),
+                new OpenLayers.Size(100,100),
+                "<h2>"+feature.attributes.name + "</h2>" 
+                + feature.attributes.description,
+                null, true, onPopupClose
+            );
+            feature.popup = popup;
+            map.addPopup(popup);
+        }
+
+function onFeatureUnselect(event) {
+            var feature = event.feature;
+            if(feature.popup) {
+                map.removePopup(feature.popup);
+                feature.popup.destroy();
+                delete feature.popup;
+            }
+        }
+    </script>
+<?php
+// Conetenuto MAPPA BASE (STOP)
+?>
+                    
+
+
+
+		</div><!--/content-part-->
+		
+	</div><!--/page-inner-->
+</div><!--/page-->
+
+
+<?php get_footer(); ?>

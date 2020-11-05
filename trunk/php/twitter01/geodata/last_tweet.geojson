@@ -1,0 +1,244 @@
+{ "features" : [  { "geometry" : { "coordinates" : [9.13014306,
+            45.42304004 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "1",  "unico":"547633180308946945", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547633180308946945","url_post":"https://twitter.com/slunghi/status/547633180308946945","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13016395,
+            45.42302221 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "2",  "unico":"547633838487531520", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547633838487531520","url_post":"https://twitter.com/slunghi/status/547633838487531520","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.12999579,
+            45.42306168 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "3",  "unico":"547635087874195456", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547635087874195456","url_post":"https://twitter.com/slunghi/status/547635087874195456","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13024523,
+            45.42298419 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "4",  "unico":"547635798091530242", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547635798091530242","url_post":"https://twitter.com/slunghi/status/547635798091530242","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13009699,
+            45.42303057 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "5",  "unico":"547636398858452992", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547636398858452992","url_post":"https://twitter.com/slunghi/status/547636398858452992","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13009699,
+            45.42303057 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "6",  "unico":"547636828560695296", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547636828560695296","url_post":"https://twitter.com/slunghi/status/547636828560695296","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13008981,
+            45.42305889 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "7",  "unico":"547637302177325056", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547637302177325056","url_post":"https://twitter.com/slunghi/status/547637302177325056","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13014575,
+            45.42304271 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "8",  "unico":"547641850673508352", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547641850673508352","url_post":"https://twitter.com/slunghi/status/547641850673508352","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.12983369,
+            45.42305545 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "9",  "unico":"547642280241549312", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547642280241549312","url_post":"https://twitter.com/slunghi/status/547642280241549312","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13011167,
+            45.42301311 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "10",  "unico":"547642830706204672", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547642830706204672","url_post":"https://twitter.com/slunghi/status/547642830706204672","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13014222,
+            45.42305391 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "11",  "unico":"547643859753504768", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547643859753504768","url_post":"https://twitter.com/slunghi/status/547643859753504768","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13000431,
+            45.42306159 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "12",  "unico":"547644289476730880", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547644289476730880","url_post":"https://twitter.com/slunghi/status/547644289476730880","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13000431,
+            45.42306159 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "13",  "unico":"547644734878269440", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547644734878269440","url_post":"https://twitter.com/slunghi/status/547644734878269440","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.12986550,
+            45.42313341 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "14",  "unico":"547645551677026305", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547645551677026305","url_post":"https://twitter.com/slunghi/status/547645551677026305","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.12979113,
+            45.42299371 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "15",  "unico":"547646053273845760", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547646053273845760","url_post":"https://twitter.com/slunghi/status/547646053273845760","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13008290,
+            45.42300631 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "16",  "unico":"547646504601927680", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547646504601927680","url_post":"https://twitter.com/slunghi/status/547646504601927680","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13008290,
+            45.42300631 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "17",  "unico":"547646934757175296", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547646934757175296","url_post":"https://twitter.com/slunghi/status/547646934757175296","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.11927462,
+            45.51386173 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "18",  "unico":"547649212889202689", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547649212889202689","url_post":"https://twitter.com/ZhanYang96/status/547649212889202689","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13011658,
+            45.42300883 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "19",  "unico":"547650518282416128", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547650518282416128","url_post":"https://twitter.com/slunghi/status/547650518282416128","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13005277,
+            45.42303198 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "20",  "unico":"547652110612168704", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547652110612168704","url_post":"https://twitter.com/slunghi/status/547652110612168704","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.11641960,
+            45.45474070 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "21",  "unico":"547654681301106688", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547654681301106688","url_post":"https://twitter.com/RPBomber/status/547654681301106688","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.13708490,
+            45.47233920 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "22",  "unico":"547665287269871616", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547665287269871616","url_post":"https://twitter.com/melissasabino58/status/547665287269871616","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.11566436,
+            45.44552974 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "colour" : "#ffffff", "progressiv" : "23",  "unico":"547666070136696832", "picture":"http://maps.gstatic.com/mapfiles/ms2/micons/blue.png","titolo":"547666070136696832","url_post":"https://twitter.com/TobiasVillara/status/547666070136696832","tipo":"tipo",
+            "wpid_comune":"1","comune":"MILANO","imageurl" : "http://maps.gstatic.com/mapfiles/ms2/micons/blue.png" 
+          },
+        "type" : "Feature"
+      },
+
+  { "geometry" : { "coordinates" : [ 0,
+                0
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff",
+            "ImageURL" : "/360Scheduling/Content/Images/ByBox.png"
+          },
+        "type" : "Feature"
+      }
+    ],
+  "type" : "FeatureCollection"
+}

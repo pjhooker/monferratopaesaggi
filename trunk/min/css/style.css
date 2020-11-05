@@ -1,0 +1,7 @@
+@import url("../intent15/style.css");#logo a img{max-width:60%;}
+.text h1{font-size:32px;line-height:28px;!important}
+.text h2{font-size:28px;line-height:24px;text-transform:uppercase;!important}
+h3{font-size:22px;line-height:22px;!important}
+#header{z-index:3;}
+#poststuff{min-width:100px;}
+li{list-style:outside;}

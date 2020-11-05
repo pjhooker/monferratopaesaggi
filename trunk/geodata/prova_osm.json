@@ -1,0 +1,22 @@
+
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "",
+        "colore" : "",
+        "plink" : "",
+        "excerpt" : "",
+        "stato" : ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+          ]
+        ]
+      }
+    }

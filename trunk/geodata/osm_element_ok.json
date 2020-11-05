@@ -1,0 +1,310 @@
+var exp_reg_ok={ "features" : [  { "geometry" : { "coordinates" : [8.267544507980347,
+	            45.14148978764561 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "4",  "unico":"11432", "titolo":"Fontana Bric del Lupo","url_post":"http://www.monferratopaesaggi.org/fontana-bric-del-lupo/","tipo":"fontana","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png","osm":"http://www.openstreetmap.org/node/3139881257"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.151769638061523,
+	            45.15374835552467 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "9",  "unico":"11412", "titolo":"Cimitero di Moncestino","url_post":"http://www.monferratopaesaggi.org/cimitero-di-moncestino/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/way/327749269"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.459042966333072,
+	            45.0492947984177 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "26",  "unico":"10609", "titolo":"Chiesa Parrocchiale di San Maurizio Conzano","url_post":"http://www.monferratopaesaggi.org/san-maurizio-conzano/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/way/83924852"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.398757728836017,
+	            45.079237681950595 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "28",  "unico":"10598", "titolo":"La Valle Ghenza","url_post":"http://www.monferratopaesaggi.org/la-valle-ghenza/","tipo":"puntooss","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png","osm":"http://www.openstreetmap.org/node/3353210305"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.413183093070984,
+	            45.108054198428476 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "37",  "unico":"9643", "titolo":"Castello di San Giorgio Monferrato","url_post":"http://www.monferratopaesaggi.org/castello-8/","tipo":"edstorico","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png","osm":"http://www.openstreetmap.org/way/180506861"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.455879837274551,
+	            44.99097173631754 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "184",  "unico":"8133", "titolo":"Area pic nic a Cuccaro Monferrato","url_post":"http://www.monferratopaesaggi.org/area-pic-nic-5/","tipo":"picnic","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png","osm":"http://www.openstreetmap.org/node/3225839748"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.455851674079895,
+	            44.990793426780904 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "185",  "unico":"8130", "titolo":"Parco della Rimembranza","url_post":"http://www.monferratopaesaggi.org/parco-rimembranza-2/","tipo":"giardino","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/parco-giardino.png","osm":"http://www.openstreetmap.org/way/133510038"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.457454293966293,
+	            44.99686038159893 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "194",  "unico":"8106", "titolo":"Area pic nic a Cuccaro Monferrato","url_post":"http://www.monferratopaesaggi.org/area-pic-nic-4/","tipo":"picnic","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png","osm":"http://www.openstreetmap.org/node/3225817268"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.483679592609406,
+	            45.00163515538183 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "205",  "unico":"8079", "titolo":"Torre","url_post":"http://www.monferratopaesaggi.org/la-torre-di-lu/","tipo":"edstorico","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png","osm":"http://www.openstreetmap.org/node/3475343713"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.323153406381607,
+	            45.00483075983926 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "328",  "unico":"7806", "titolo":"Area pic nic a Casorzo","url_post":"http://www.monferratopaesaggi.org/area-pic-nic-3/","tipo":"picnic","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png","osm":"http://www.openstreetmap.org/node/1856461905"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.273830264806747,
+	            45.09365401150467 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "425",  "unico":"7543", "titolo":"Parcheggio","url_post":"http://www.monferratopaesaggi.org/parcheggio-30/","tipo":"parcheggio","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png","osm":"http://www.openstreetmap.org/way/183798954"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.424543589353561,
+	            45.105440813456354 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "458",  "unico":"7410", "titolo":"Chiesa Madonna della Neve","url_post":"http://www.monferratopaesaggi.org/chiesa-madonna-neve-2/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"3146706626"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.388427644968033,
+	            45.07728231035523 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "488",  "unico":"7326", "titolo":"Area pic nic a Cella Monte","url_post":"http://www.monferratopaesaggi.org/area-pic-nic-2/","tipo":"picnic","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png","osm":"http://www.openstreetmap.org/way/122094566"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.36136281490326,
+	            45.09755639302249 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "517",  "unico":"7225", "titolo":"Area pic nic attrezzata a Treville","url_post":"http://www.monferratopaesaggi.org/area-pic-nic-attrezzata/","tipo":"picnic","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png","osm":"http://www.openstreetmap.org/node/3225796534"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.209482729434967,
+	            45.078878023728755 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "582",  "unico":"7062", "titolo":"Area pic nic a Odalengo Piccolo","url_post":"http://www.monferratopaesaggi.org/area-pic-nic/","tipo":"picnic","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png","osm":"http://www.openstreetmap.org/node/3225783550"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.20942372083664,
+	            45.07824637278429 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "583",  "unico":"7060", "titolo":"Osservatorio astronomico di Odalengo Piccolo","url_post":"http://www.monferratopaesaggi.org/osservatorio-astronomico/","tipo":"museo","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/museo.png","osm":"http://www.openstreetmap.org/way/135993466"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.119628727436066,
+	            45.10032444181126 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "614",  "unico":"6706", "titolo":"Chiesa di San Luigi","url_post":"http://www.monferratopaesaggi.org/chiesa-s-luigi/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"3154733361"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.19265991449356,
+	            45.15976909839159 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "653",  "unico":"6463", "titolo":"Castello di Gabiano","url_post":"http://www.monferratopaesaggi.org/castello-gabiano/","tipo":"edstorico","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png","osm":"http://www.openstreetmap.org/way/163209198"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.453381359577179,
+	            45.135941150426795 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "706",  "unico":"6241", "titolo":"Palazzo Gozzani di Treville","url_post":"http://www.monferratopaesaggi.org/palazzo-treville/","tipo":"ed_civile","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png","osm":"3143609195"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.45240905880928,
+	            45.137303448254315 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "708",  "unico":"6237", "titolo":"Duomo di Sant&#8217;Evasio e museo della sacrestia","url_post":"http://www.monferratopaesaggi.org/duomo-s-evasio-museo-sacrestia/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/way/80414060"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.459204,
+	            45.048828 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "857",  "unico":"5619", "titolo":"Convento Romanico San Maurizio","url_post":"http://www.monferratopaesaggi.org/convento-romanico-5/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/way/83924852"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.257070481777191,
+	            45.0865248339224 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "877",  "unico":"5565", "titolo":"Area pic-nic a Ponzano Monferrato","url_post":"http://www.monferratopaesaggi.org/punto-di-sosta-attrezzato-3/","tipo":"picnic","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png","osm":"http://www.openstreetmap.org/node/3225192714"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.188666,
+	            45.133434 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "967",  "unico":"5327", "titolo":"Chiesa di Sant&#8217;Eusebio","url_post":"http://www.monferratopaesaggi.org/chiesa-133/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/node/3345659857"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.121310521495843,
+	            45.1207446109008 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "979",  "unico":"5310", "titolo":"Chiesetta","url_post":"http://www.monferratopaesaggi.org/chiesetta-31/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/node/3342639592"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.106735,
+	            45.113827 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "980",  "unico":"5311", "titolo":"Chiesa","url_post":"http://www.monferratopaesaggi.org/chiesa-125/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/node/3342640193"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.098453955854438,
+	            45.10168289323932 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "981",  "unico":"5312", "titolo":"Chiesa parrocchiale di San Giacomo Apostolo e della Beata Vergine Assunta","url_post":"http://www.monferratopaesaggi.org/chiesa-parrocchiale-di-s-giacomo-apostolo-6/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/node/3342640194"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.095593,
+	            45.099724 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "982",  "unico":"5313", "titolo":"Chiesa di San Francesco","url_post":"http://www.monferratopaesaggi.org/chiesa-126/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/node/3342669427"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.181419,
+	            45.099674 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "984",  "unico":"5315", "titolo":"Chiesa","url_post":"http://www.monferratopaesaggi.org/chiesa-128/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/way/219748957"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.166508228172233,
+	            45.10986335471923 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "985",  "unico":"5316", "titolo":"Chiesa di San Vittore","url_post":"http://www.monferratopaesaggi.org/chiesa-129/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/node/3342669429"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.171056918979616,
+	            45.134658741030854 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "989",  "unico":"5320", "titolo":"Chiesa dei Santi Filippo e Michele","url_post":"http://www.monferratopaesaggi.org/chiesa-ss-filippo-e-michele-6/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/way/158872409"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.167186975479126,
+	            45.133174828866466 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "990",  "unico":"5321", "titolo":"Chiesa di San Michele","url_post":"http://www.monferratopaesaggi.org/chiesa-di-s-michele-6/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/way/158872409"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.160731,
+	            45.155216 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "993",  "unico":"5324", "titolo":"Chiesa parrocchiale Assunzione di Maria Vergine (1763)","url_post":"http://www.monferratopaesaggi.org/chiesa-parrocchiale-assunzione-di-maria-vergine-1763-8/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/node/3342669440"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.290933,
+	            45.161205 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "998",  "unico":"5301", "titolo":"Chiesa Parrocchiale San Lorenzo Martire","url_post":"http://www.monferratopaesaggi.org/chiesa-123/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/node/3342628074"
+	          },
+	        "type" : "Feature"
+	      }
+	,  { "geometry" : { "coordinates" : [8.151349,
+	            45.154503 
+	              ],
+	            "type" : "Point"
+	          },
+	        "properties" : { "progressiv" : "1002",  "unico":"5308", "titolo":"Chiesa di Santa Maria","url_post":"http://www.monferratopaesaggi.org/chiesa-124/","tipo":"edreligioso","icon_exp":"http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png","osm":"http://www.openstreetmap.org/node/3342639591"
+	          },
+	        "type" : "Feature"
+	      }
+	
+    ],
+  "type" : "FeatureCollection"
+}

@@ -1,0 +1,24 @@
+{ "features" : [  { "geometry" : { "coordinates" : [8.45240905880928,
+            45.137303448254315 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "progressivo" : "",  "unico":"6237", "picture":"http://www.monferratopaesaggi.org/image.php?myimage=http://www.monferratopaesaggi.org/wp-content/uploads/1280px-Casale_Monferrato-duomo-facciata1.jpg&h=200&w=300","titolo":"Duomo di Sant&#8217;Evasio e museo della sacrestia","url_post":"http://www.monferratopaesaggi.org/duomo-s-evasio-museo-sacrestia/","tipo":"none",
+            "ImageURL" : "http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png"
+          },
+        "type" : "Feature"
+      },
+
+  { "geometry" : { "coordinates" : [ 0,
+                0
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff",
+            "ImageURL" : "/360Scheduling/Content/Images/ByBox.png"
+          },
+        "type" : "Feature"
+      }
+    ],
+  "type" : "FeatureCollection"
+}

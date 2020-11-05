@@ -1,0 +1,138 @@
+
+<!DOCTYPE html>
+<html>
+<head> 
+	<title>Monferrato Paesaggi</title>
+	
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.css" /> <!-- we will us e this as the styling script for our webmap-->
+	<link rel="stylesheet" href="css/MarkerCluster.css" />
+	<link rel="stylesheet" href="css/MarkerCluster.Default.css" />
+	<link rel="stylesheet" type="text/css" href="css/own_style.css">
+        <link rel="stylesheet" href="http://k4r573n.github.io/leaflet-control-osm-geocoder/Control.OSMGeocoder.css" />	
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script> <!-- this is the javascript file that does the magic-->
+	<script src="js/Autolinker.min.js"></script>
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-49258953-1']);
+				            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>	
+</head>
+<body>
+	<div id="map"></div> <!-- this is the initial look of the map. in most cases it is done externally using something like a map.css stylesheet were you can specify the look of map elements, like background color tables and so on.-->
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.js"></script> <!-- this is the javascript file that does the magic-->
+	<script src="http://k4r573n.github.io/leaflet-control-osm-geocoder/Control.OSMGeocoder.js"></script>
+	<script src="js/leaflet.markercluster.js"></script>
+	
+				<script src='data/exp_poi.js' ></script>
+				
+				<script src='data/exp_OGRGeoJSON.js' ></script>
+				
+	<script>
+		var map = L.map('map', { zoomControl:true }).fitBounds([[44.970973523,7.99904964722],[45.1919855012,8.5873068717]]);
+		var additional_attrib = 'created w. <a href="https://github.com/geolicious/qgis2leaf" target ="_blank">qgis2leaf</a> by <a href="http://www.geolicious.de" target ="_blank">Geolicious</a> & contributors<br>';
+	var feature_group = new L.featureGroup([]);
+
+	var raster_group = new L.LayerGroup([]);
+	
+	var basemap= L.tileLayer('http://a.tile.stamen.com/watercolor/{z}/{x}/{y}.png');
+	map.attributionControl.addAttribution(additional_attrib + 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data: &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>');	
+	basemap.addTo(map);	
+	var layerOrder=new Array();
+				function pop_OGRGeoJSON(feature, layer) {
+										var popupContent = '<table><tr><th scope="row">id</th><td>' + Autolinker.link(String(feature.properties.id)) + '</td></tr><tr><th scope="row">name</th><td>' + Autolinker.link(String(feature.properties.name)) + '</td></tr><tr><th scope="row">layer</th><td>' + Autolinker.link(String(feature.properties.layer)) + '</td></tr><tr><th scope="row">pano</th><td>' + Autolinker.link(String(feature.properties.pano)) + '</td></tr><tr><th scope="row">idm</th><td>' + Autolinker.link(String(feature.properties.idm)) + '</td></tr><tr><th scope="row">gid</th><td>' + Autolinker.link(String(feature.properties.gid)) + '</td></tr></table>';
+					layer.bindPopup(popupContent);
+
+
+				}
+						
+				var exp_OGRGeoJSONJSON = new L.geoJson(exp_OGRGeoJSON,{
+					onEachFeature: pop_OGRGeoJSON,
+					style: function (feature) {
+						return {weight: feature.properties.radius_qgis2leaf,
+								color: feature.properties.color_qgis2leaf,
+								opacity: feature.properties.transp_qgis2leaf,
+								fillOpacity: feature.properties.transp_qgis2leaf};
+						}
+					});
+				feature_group.addLayer(exp_OGRGeoJSONJSON);
+				
+						//add comment sign to hide this layer on the map in the initial view.
+						exp_OGRGeoJSONJSON.addTo(map);
+				function pop_poi(feature, layer) {
+										/*var popupContent = '<table><tr><th scope="row">colour</th><td>' + Autolinker.link(String(feature.properties.colour)) + '</td></tr><tr><th scope="row">progressiv</th><td>' + Autolinker.link(String(feature.properties.progressiv)) + '</td></tr><tr><th scope="row">unico</th><td>' + Autolinker.link(String(feature.properties.unico)) + '</td></tr><tr><th scope="row">picture</th><td>' + Autolinker.link(String(feature.properties.picture)) + '</td></tr><tr><th scope="row">titolo</th><td>' + Autolinker.link(String(feature.properties.titolo)) + '</td></tr><tr><th scope="row">url_post</th><td>' + Autolinker.link(String(feature.properties.url_post)) + '</td></tr><tr><th scope="row">tipo</th><td>' + Autolinker.link(String(feature.properties.tipo)) + '</td></tr><tr><th scope="row">wpid_comun</th><td>' + Autolinker.link(String(feature.properties.wpid_comun)) + '</td></tr><tr><th scope="row">comune</th><td>' + Autolinker.link(String(feature.properties.comune)) + '</td></tr></table>';*/
+										var popupContent = '<table><tr><th scope="row">Titolo</th><td><b><a href="' +feature.properties.url_post + '">' 
+										+ feature.properties.titolo 
+										+ '</a></b></td></tr>'  
+										+ '<tr><th scope="row">picture</th><td><img src="' 
+										+ feature.properties.picture 
+										+ '" width="200px"></td></tr>' 
+										+ Autolinker.link(String(feature.properties.titolo)) 
+										+ '</td></tr>' 
+										+ '</table>';
+					layer.bindPopup(popupContent);
+
+
+				}
+						
+				var exp_poiJSON = new L.geoJson(exp_poi,{
+					onEachFeature: pop_poi,
+					pointToLayer: function (feature, latlng) {
+						return L.marker(latlng, {icon: L.icon({
+							iconUrl: feature.properties.icon_exp,
+							iconSize:     [24, 24], // size of the icon change this to scale your icon (first coordinate is x, second y from the upper left corner of the icon)
+							iconAnchor:   [12, 12], // point of the icon which will correspond to marker's location (first coordinate is x, second y from the upper left corner of the icon)
+							popupAnchor:  [0, -14] // point from which the popup should open relative to the iconAnchor (first coordinate is x, second y from the upper left corner of the icon)
+			 				})
+			 			})
+					}}
+				);
+				
+				var cluster_grouppoiJSON= new L.MarkerClusterGroup({showCoverageOnHover: false});
+				cluster_grouppoiJSON.addLayer(exp_poiJSON);
+				
+						//add comment sign to hide this layer on the map in the initial view.
+						cluster_grouppoiJSON.addTo(map);
+		var title = new L.Control();
+		title.onAdd = function (map) {
+			this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+			this.update();
+			return this._div;
+	    };
+	    title.update = function () {
+			this._div.innerHTML = '<h2>Monferrato Paesaggi</h2>Social MAP'
+		};
+		title.addTo(map);
+		var osmGeocoder = new L.Control.OSMGeocoder({
+            collapsed: false,
+            position: 'topright',
+            text: 'Find!',
+			});
+		osmGeocoder.addTo(map);
+		
+		var legend = L.control({position: 'bottomright'});
+		
+		legend.onAdd = function (map) {
+		var div = L.DomUtil.create('div', 'info legend');
+		div.innerHTML = "<h3>Legend</h3><table></table>";
+    		return div;
+		};
+		legend.addTo(map);
+
+	L.control.layers({'Stamen Watercolor': basemap},{"poi": cluster_grouppoiJSON,"OGRGeoJSON": exp_OGRGeoJSONJSON},{collapsed:false}).addTo(map);
+	L.control.scale({options: {position: 'bottomleft',maxWidth: 100,metric: true,imperial: false,updateWhenIdle: false}}).addTo(map);
+	</script>
+</body>
+</html>
+	

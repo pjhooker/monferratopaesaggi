@@ -1,0 +1,114 @@
+{ "features" : [  { "geometry" : { "coordinates" : [14.712668465509068,
+            37.95331864139681 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://static.panoramio.com/photos/large/31556756.jpg","titolo":"Avamposto sulla sponda del lago","url_post":"http://www.cityplanner.it/natural_tree/avamposto-sponda-lago/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [14.22938929999998,
+            41.1200491 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://static.panoramio.com/photos/large/44415763.jpg","titolo":"Riflessi d&#8217;autunno con allagamento","url_post":"http://www.cityplanner.it/natural_tree/riflessi-dautunno-allagamento/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [11.360057600000005,
+            43.36954069999999 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://static.panoramio.com/photos/large/26250845.jpg","titolo":"2001, Certosa di Pontignano","url_post":"http://www.cityplanner.it/natural_tree/2001-certosa-pontignano/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [10.593890200000033,
+            44.391765 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://static.panoramio.com/photos/large/33156763.jpg","titolo":"Black &#038; white","url_post":"http://www.cityplanner.it/natural_tree/black-white/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [10.80135949999999,
+            45.1605718 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://static.panoramio.com/photos/large/79564560.jpg","titolo":"Nebbia sul Lago Inferiore","url_post":"http://www.cityplanner.it/natural_tree/nebbia-lago-inferiore/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.224548099999993,
+            45.5039665 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://farm3.staticflickr.com/2905/14532221314_ba71588bdb_o.jpg","titolo":"Ponte vecchio Martesana: albero piangente","url_post":"http://www.cityplanner.it/natural_tree/ponte-vecchio-martesana-albero-piangente/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.989938497543335,
+            45.64652432614405 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://farm6.staticflickr.com/5489/14528074645_84ba236420_o.jpg","titolo":"Sicuramente un punto di riferimento","url_post":"http://www.cityplanner.it/natural_tree/sicuramente-punto-riferimento/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.192570230163597,
+            45.46391700609021 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://farm3.staticflickr.com/2926/14538281553_fa2c01bd98_o.jpg","titolo":"All&#8217;angolo del Duomo di Milano","url_post":"http://www.cityplanner.it/natural_tree/allangolo-duomo-milano/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [60.59752223809812,
+            56.889924376400586 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://photos-e.ak.instagram.com/hphotos-ak-xpa1/925895_731789243527204_1864408239_n.jpg","titolo":"Noir tree","url_post":"http://www.cityplanner.it/natural_tree/noir-tree/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922338042388901,
+            45.58327964793459 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://farm8.staticflickr.com/7377/11796865623_4d3de4cb27_o.jpg","titolo":"Colori a Novembre","url_post":"http://www.cityplanner.it/natural_tree/colori-novembre/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set2/icon_2429.png"
+          },
+        "type" : "Feature"
+      },
+
+  { "geometry" : { "coordinates" : [ -1.4948717600000001,
+                53.68926664
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff",
+            "ImageURL" : "/360Scheduling/Content/Images/ByBox.png"
+          },
+        "type" : "Feature"
+      }
+    ],
+  "type" : "FeatureCollection"
+}

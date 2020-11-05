@@ -1,0 +1,83 @@
+/* Note : Do not place custom styles in this stylesheet */
+
+#header { background-repeat: repeat; }
+#subheader { background-color: #ffffff; background-image: none; background-repeat: repeat; }
+body { background-repeat: repeat; }
+#footer { background-repeat: repeat; }
+.flexslider .slides img { max-height: 700px; } .single .flexslider .slides > li, .blog .flexslider .slides > li { background-color: #222; }
+
+a,
+label .required,
+.comment-awaiting-moderation,
+#nav li a:hover, 
+#nav li:hover a, 
+#nav li.current_page_item a, 
+#nav li.current-menu-ancestor a, 
+#nav li.current-menu-item a,
+ul#breadcrumbs li a:hover,
+.entry-title a:hover,
+.widget_archive ul li,
+.widget_categories ul li,
+.widget_links ul li,
+.widget_rss ul li a,
+.widget_tag_cloud .tagcloud a:hover,
+.widget_calendar a,
+.portfolio-item:hover a.portfolio-meta .portfolio-title,
+.portfolio-item a.portfolio-meta:hover .portfolio-title,
+.sitemap a:hover,
+#child-menu li li.current_page_item a, #child-menu li li.current-menu-item a ,
+#child-menu li li li.current_page_item a, #child-menu li li li.current-menu-item a,
+#child-menu-alt li li li.current_page_item a,
+#child-menu-alt li li li.current-menu-item a,
+#child-menu-alt li li li.current_page_item a:hover,
+#child-menu-alt li li li.current-menu-item a:hover,
+ul.tabs-nav li a.active { color: #520000; }
+
+.color { color: #520000!important; }
+
+a.item-large:hover span.featured-title,
+.entry-comments a.bubble:hover,
+.entry-comments a.bubble:hover span,
+.entry-format.link p a,
+.widget_calendar caption,
+ul#portfolio-filter li a:hover,
+ul#portfolio-filter li:hover a,
+ul#portfolio-filter li.current a,
+ul#portfolio-filter li.current-cat a,
+ul#portfolio-filter li.current-cat-parent a,
+ul#portfolio-filter li ul,
+#child-menu-alt li li.current_page_item a, 
+#child-menu-alt li li.current-menu-item a,
+#child-menu-alt li li.current_page_parent a, 
+#child-menu-alt li li.current_page_item a:hover, 
+#child-menu-alt li li.current-menu-item a:hover,
+#child-menu-alt li li.current_page_parent a:hover,
+input[type="submit"],
+button[type="submit"],
+a.button,
+.plan.featured .plan-head,
+.toggle .title .icon,
+.accordion .title .icon,
+.commentlist .reply a:hover,
+#footer a#to-top:hover { background-color: #520000; }
+
+::selection { background-color: #520000; }
+::-moz-selection { background-color: #520000; }
+
+#nav li.current_page_item a, 
+#nav li.current-menu-ancestor a, 
+#nav li.current-menu-item a,
+.portfolio-item:hover a.portfolio-meta,
+.portfolio-item a.portfolio-meta:hover,
+.plan.featured { border-color: #520000; }
+
+#nav li a:hover, 
+#nav li:hover a,
+#nav ul,
+ul.tabs-nav li a.active { border-top-color: #520000; }
+
+.wp-pagenavi a { color: #520000!important; border: 1px solid rgba(82,0,0, 0.3)!important; }
+.wp-pagenavi a:hover,
+.wp-pagenavi a:active,
+.wp-pagenavi span.current { background: #520000!important; border: 1px solid #520000!important; }
+			

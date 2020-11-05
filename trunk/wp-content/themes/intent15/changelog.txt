@@ -1,0 +1,72 @@
+  Theme : Intent
+Version : 1.5
+ Author : WPBandit - http://wpbandit.com
+
+.: January 24 2013 (v1.5) :.
+===========================================================
+- Added portfolio archive, category pages and pagination
+- Fixed slow portfolio preload
+- Moved all page templates to /page-templates/ folder
+- Added option to disable responsive layout
+- Added minimal form base css
+- Removed outdated and unused form framework css
+- Removed custom comments-form, now uses default form for better plugin compatibility
+- Changed sticky footer to load on window.load to fix issue on certain pages
+- Moved respond.min.js to load in footer to work properly in IE8 and older
+- Minor CSS bug fixes
+- Updated .pot language file
+ 
+.: October 22 2012 (v1.4) :.
+===========================================================
+- Updated to Air Framework 1.2
+- Updated documentation
+- Added shortcode dropdown selection in editor
+- Added unlimited sidebars functionality
+- Added support for single post templates
+- Added new icons to social module
+- Added support for HTML5 videos in embed field
+- Improved breadcrumbs module
+- Improved maintenance module
+- Fixed default page title in SEO options
+- Fixed dropdowns being hidden behind youtube embeds in IE
+- Added fancybox integration with default WP galleries
+- Improved portfolio thumbnails. Lightbox now loads first image on single page instead
+- Added option to display posts from a single blog category on frontpage
+- Added content area in portfolio page template
+- Added styling option to limit vertical images height in galleries
+- Added pre-load to portfolio for a smoother viewing experience
+- Added option to enable comments on portfolio items
+- Added sticky footer
+- Added placeholder image if no portfolio thumbnail is set
+- Added play icon to video portfolio thumbnail
+- Added caption functionality to portfolio images
+- Minor bug fixes
+
+.: July 27 2012 (v1.3) :.
+===========================================================
+- Minor bug fixes
+- Javascript optimizations
+
+.: July 12 2012 (v1.2) :.
+===========================================================
+- Minor responsive fixes and bug fixes
+
+.: July 4 2012 (v1.1) :.
+===========================================================
+- Added video support for portfolio
+- Changed portfolio lightbox to show larger images
+- Restructured header markup for more flexibility
+- Added Miniheader and Miniheader Minimal style options
+- Added custom link option for portfolio items
+- Fixed IE8 portfolio category bug
+- Added option to show/hide all sidebars for mobile layouts
+- Fixed child-menu templates to always show menu on mobile layouts
+- Fixed image format post caption
+- Fixed plugin install links in admin
+- Added placeholder images for featured blog header
+- Minor design and bug fixes
+- Updated documentation
+
+.: June 14 2012 (v1.0) :.
+===========================================================
+- Theme released

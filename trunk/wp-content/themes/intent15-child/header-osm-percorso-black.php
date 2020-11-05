@@ -1,0 +1,63 @@
+<!DOCTYPE html> 
+<!--[if lt IE 7 ]><html class="no-js ie ie6" <?php language_attributes(); ?>> <![endif]-->
+<!--[if IE 7 ]><html class="no-js ie ie7" <?php language_attributes(); ?>> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" <?php language_attributes(); ?>> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" <?php language_attributes(); ?>> <!--<![endif]-->
+<head>
+<meta charset="<?php bloginfo('charset'); ?>">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title><?php wp_title(''); ?></title>
+
+<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
+<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
+
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+
+<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/ie/selectivizr.js"></script>
+<![endif]-->
+<?
+//php wp_head(); 
+//        <link rel='stylesheet' href='http://openlayers.org/dev/theme/default/style.css' type='text/css'>
+//        <link rel='stylesheet' href='http://openlayers.org/dev/examples/style.css' type='text/css'>
+?>
+<?php /* OSM */ ?>
+        <!--<link rel='stylesheet' href='http://openlayers.org/dev/theme/default/style.css' type='text/css'>-->
+        <!--<script src='http://openlayers.org/dev/OpenLayers.js'></script>-->
+        <script src='http://www.monferratopaesaggi.org/php/openlayers-master/lib/OpenLayers.js'></script>
+        <script src='http://maps.google.com/maps/api/js?v=3&amp;sensor=false'></script> 
+        <!--<link rel='stylesheet' href='http://openlayers.org/dev/theme/default/style.css' type='text/css'>-->
+
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+    <!-- Custom styles for this template -->
+    <link href="http://getbootstrap.com/examples/blog/blog.css" rel="stylesheet">
+
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://www.monferratopaesaggi.org/php/lightbox-master/dist/ekko-lightbox.css" rel="stylesheet">
+
+<?php
+$postid = get_the_ID();
+get_metaimage($postid);
+?>
+</head>
+
+<body <?php body_class(); ?> onload='init()'>
+	
+<div id="wrap">
+
+    
+    <header  id="header">
+  		<?php wp_nav_menu(array('container'=>'nav','container_id'=>'header-nav','container_class'=>'fix','theme_location'=>'wpb-nav-header','menu_id'=>'nav','fallback_cb'=>FALSE)); ?>
+      </div></div>
+    </header>

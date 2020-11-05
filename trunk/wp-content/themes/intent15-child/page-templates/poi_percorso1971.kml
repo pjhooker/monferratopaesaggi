@@ -1,0 +1,3443 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>poi_percorso1971</name>
+<Schema name="poi_percorso1971" id="poi_percorso1971">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="colour" type="string"></SimpleField>
+	<SimpleField name="progressiv" type="string"></SimpleField>
+	<SimpleField name="unico" type="string"></SimpleField>
+	<SimpleField name="picture" type="string"></SimpleField>
+	<SimpleField name="titolo" type="string"></SimpleField>
+	<SimpleField name="url_post" type="string"></SimpleField>
+	<SimpleField name="tipo" type="string"></SimpleField>
+	<SimpleField name="wpid_comune" type="string"></SimpleField>
+	<SimpleField name="comune" type="string"></SimpleField>
+	<SimpleField name="imageurl" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">12</SimpleData>
+		<SimpleData name="unico">9524</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=9524</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.197267949581146,45.112315245391102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">13</SimpleData>
+		<SimpleData name="unico">9522</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=9522</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.280995786190033,45.093042405949902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">14</SimpleData>
+		<SimpleData name="unico">9520</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=9520</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.265111744403839,45.084352355052722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">15</SimpleData>
+		<SimpleData name="unico">9518</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=9518</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.23979839682579,45.127976733144905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">22</SimpleData>
+		<SimpleData name="unico">9502</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Strada per il percorso Po</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=9502</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.292328119277954,45.160427271211418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">26</SimpleData>
+		<SimpleData name="unico">8994</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di Sant&amp;#8217;Eusebio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8994</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.291070163249969,45.141427984892758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">27</SimpleData>
+		<SimpleData name="unico">8989</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di San Michele</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8989</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.27107161283493,45.131290171802675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">28</SimpleData>
+		<SimpleData name="unico">8986</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Castello</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8986</SimpleData>
+		<SimpleData name="tipo">edstorico</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281754851341248,45.096382487762803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">29</SimpleData>
+		<SimpleData name="unico">8984</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Santuario di Crea e sacro monte</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8984</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.275603204965591,45.094224900562509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">30</SimpleData>
+		<SimpleData name="unico">8980</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Centro studi Parco di Crea</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8980</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.268837332725525,45.092841691863626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">31</SimpleData>
+		<SimpleData name="unico">8978</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8978</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.287159502506256,45.085263272272236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">32</SimpleData>
+		<SimpleData name="unico">8976</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Fontanella</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8976</SimpleData>
+		<SimpleData name="tipo">fontana</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281846046447754,45.083257720135975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">33</SimpleData>
+		<SimpleData name="unico">8964</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Cascina Gigliola</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8964</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.234016895294189,45.087709988405905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">34</SimpleData>
+		<SimpleData name="unico">8962</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8962</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.212320506572723,45.101627006572976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">35</SimpleData>
+		<SimpleData name="unico">8960</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di Santo Spirito</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8960</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.247886598110199,45.103281675349301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">36</SimpleData>
+		<SimpleData name="unico">8958</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Palazzo dell&amp;#8217;Aglio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8958</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.247937560081482,45.103012842266367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">37</SimpleData>
+		<SimpleData name="unico">8955</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa parrocchiale di San Candido</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8955</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.232518881559372,45.107485340681094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">38</SimpleData>
+		<SimpleData name="unico">8950</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di San Michele</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8950</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.233015090227127,45.111585532913082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">39</SimpleData>
+		<SimpleData name="unico">8933</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Cimitero</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8933</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.227069973945618,45.160400793141328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">40</SimpleData>
+		<SimpleData name="unico">8800</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Cascine Ramengo</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8800</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.222354650497437,45.09513660707389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">41</SimpleData>
+		<SimpleData name="unico">8797</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Case Carisio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8797</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.212966918945312,45.094432236966831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">42</SimpleData>
+		<SimpleData name="unico">8794</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8794</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.214050531387329,45.093807385245029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">43</SimpleData>
+		<SimpleData name="unico">8791</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Due stagni di salamandre</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8791</SimpleData>
+		<SimpleData name="tipo">fontana</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.213127851486206,45.096628631187784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">44</SimpleData>
+		<SimpleData name="unico">8789</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Fontana solforosa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8789</SimpleData>
+		<SimpleData name="tipo">fontana</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.214715719223022,45.096838798964782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">45</SimpleData>
+		<SimpleData name="unico">8786</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di San Rocco</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8786</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.215429186820984,45.09894895417618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">46</SimpleData>
+		<SimpleData name="unico">8784</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Casa Bosco</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=8784</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.213565051555634,45.101130975239954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">366</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">366</SimpleData>
+		<SimpleData name="unico">7639</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7639</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.252182155847549,45.134137001756287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">367</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">367</SimpleData>
+		<SimpleData name="unico">7636</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesetta di S. Martino</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7636</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.252391368150711,45.133886289636997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">368</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">368</SimpleData>
+		<SimpleData name="unico">7634</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Palazzo Tornelli</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7634</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.251498192548752,45.133179559353124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">369</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">369</SimpleData>
+		<SimpleData name="unico">7632</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa dei SS.Pietro Apostolo e Anna</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7632</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.251153528690338,45.133118062997227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">370</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">370</SimpleData>
+		<SimpleData name="unico">7629</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Antiche mura</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7629</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.251372128725052,45.132926950821819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">371</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">371</SimpleData>
+		<SimpleData name="unico">7626</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7626</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.251228630542755,45.132853154859909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">372</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">372</SimpleData>
+		<SimpleData name="unico">7623</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Municipio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7623</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.250949680805206,45.133041428984008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">373</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">373</SimpleData>
+		<SimpleData name="unico">7621</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7621</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.249575048685074,45.132328065450913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">374</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">374</SimpleData>
+		<SimpleData name="unico">7619</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7619</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.249738663434982,45.132086806533955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">375</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">375</SimpleData>
+		<SimpleData name="unico">7617</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di S. Sebastiano</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7617</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.249329626560211,45.131743365609331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">376</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">376</SimpleData>
+		<SimpleData name="unico">7615</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Edificio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7615</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281129896640778,45.131208804683624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">377</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">377</SimpleData>
+		<SimpleData name="unico">7613</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7613</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.280986398458481,45.130994978910458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">378</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">378</SimpleData>
+		<SimpleData name="unico">7609</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7609</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.282251060009003,45.130874819827625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">379</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">379</SimpleData>
+		<SimpleData name="unico">7607</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Palazzo Crova</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7607</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.283160328865051,45.130831297577778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">380</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">380</SimpleData>
+		<SimpleData name="unico">7605</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7605</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.302536606788635,45.089631117366501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">381</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">381</SimpleData>
+		<SimpleData name="unico">7602</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7602</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.302515149116516,45.089518445741476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">382</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">382</SimpleData>
+		<SimpleData name="unico">7579</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7579</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.278593868017197,45.101684750398476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">383</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">383</SimpleData>
+		<SimpleData name="unico">7575</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di S. Giacomo</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7575</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.279811590909958,45.101196292589343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">384</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">384</SimpleData>
+		<SimpleData name="unico">7573</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7573</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281647562980652,45.100861185396404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">385</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">385</SimpleData>
+		<SimpleData name="unico">7571</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7571</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281725347042084,45.100550688840642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">386</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">386</SimpleData>
+		<SimpleData name="unico">7568</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7568</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281750828027725,45.100393546647574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">387</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">387</SimpleData>
+		<SimpleData name="unico">7566</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Ex macelleria, ora biblioteca Cesare Pavese</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7566</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.282555490732193,45.100409639542633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">388</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">388</SimpleData>
+		<SimpleData name="unico">7563</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7563</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.283602893352509,45.099946730337727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">389</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">389</SimpleData>
+		<SimpleData name="unico">7560</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di S. Rocco</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7560</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.285071402788162,45.100393546647574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">390</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">390</SimpleData>
+		<SimpleData name="unico">7557</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7557</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.272444903850555,45.096065339862498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">391</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">391</SimpleData>
+		<SimpleData name="unico">7555</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7555</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.271048814058304,45.095431038777669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">392</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">392</SimpleData>
+		<SimpleData name="unico">7553</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7553</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.272474408149719,45.095315538418866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">393</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">393</SimpleData>
+		<SimpleData name="unico">7551</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7551</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.275356441736221,45.094608330308077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">394</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">394</SimpleData>
+		<SimpleData name="unico">7547</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7547</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.275792300701141,45.094246675654048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">395</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">395</SimpleData>
+		<SimpleData name="unico">7545</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7545</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.275668919086456,45.094060166992321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">396</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">396</SimpleData>
+		<SimpleData name="unico">7543</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7543</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.273996561765671,45.094044072307675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">397</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">397</SimpleData>
+		<SimpleData name="unico">7541</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Dimora al Sagittario</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7541</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.267877101898193,45.079554176072158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">398</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">398</SimpleData>
+		<SimpleData name="unico">7519</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Fontanella</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7519</SimpleData>
+		<SimpleData name="tipo">fontana</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Fontanella</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.266132324934006,45.084092901960339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">399</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">399</SimpleData>
+		<SimpleData name="unico">7516</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7516</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.262558281421661,45.085670434315475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">400</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">400</SimpleData>
+		<SimpleData name="unico">7514</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Palazzo Nazzari</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7514</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.262279331684113,45.085520826274077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">401</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">401</SimpleData>
+		<SimpleData name="unico">7512</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Ex municipio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7512</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.261820673942566,45.085336182897947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">402</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">402</SimpleData>
+		<SimpleData name="unico">7509</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7509</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.258156776428223,45.086225306288128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">405</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">405</SimpleData>
+		<SimpleData name="unico">7503</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Villa storica ottocentesca</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7503</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.2497239112854,45.075119266309379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">406</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">406</SimpleData>
+		<SimpleData name="unico">7501</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di S. Antonio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7501</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa di S. Antonio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.249286711215973,45.073641833649198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">407</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">407</SimpleData>
+		<SimpleData name="unico">7499</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7499</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.241250813007355,45.075763263464083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">408</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">408</SimpleData>
+		<SimpleData name="unico">7495</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Municipio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7495</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.240759968757629,45.075148625161098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">409</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">409</SimpleData>
+		<SimpleData name="unico">7493</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Fontanella</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7493</SimpleData>
+		<SimpleData name="tipo">fontana</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Fontanella</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.240753263235092,45.075107901588538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">410</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">410</SimpleData>
+		<SimpleData name="unico">7491</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">WC pubblici</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7491</SimpleData>
+		<SimpleData name="tipo">wc</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">WC pubblici</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/wc.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.240770697593689,45.075109795708848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">411</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">411</SimpleData>
+		<SimpleData name="unico">7487</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7487</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.24062317609787,45.075115478069371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">412</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">412</SimpleData>
+		<SimpleData name="unico">7485</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7485</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.240408599376678,45.075052972072641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">413</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">413</SimpleData>
+		<SimpleData name="unico">7483</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Palazzo storico</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7483</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.240084052085876,45.073550913468672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">414</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">414</SimpleData>
+		<SimpleData name="unico">7481</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7481</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.188497126102448,45.133562727461481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">415</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">415</SimpleData>
+		<SimpleData name="unico">7477</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Ex canonica</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7477</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.188867270946503,45.133015884290053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">416</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">416</SimpleData>
+		<SimpleData name="unico">7470</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=7470</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.188900798559189,45.132353610452952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">570</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">570</SimpleData>
+		<SimpleData name="unico">6885</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Monastero di S. Liberata</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6885</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Monastero di S. Liberata</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.179108053445816,45.133619492888222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">627</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">627</SimpleData>
+		<SimpleData name="unico">6457</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6457</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.193220496177673,45.158688203256695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">609</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">609</SimpleData>
+		<SimpleData name="unico">6589</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di San Pietro</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6589</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa di San Pietro</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.189352750778198,45.154306727146952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">616</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">616</SimpleData>
+		<SimpleData name="unico">6527</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6527</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.283927440643311,45.159867446537483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">617</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">617</SimpleData>
+		<SimpleData name="unico">6520</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6520</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.192328661680222,45.158778987888823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">623</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">623</SimpleData>
+		<SimpleData name="unico">6466</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parco storico del Basso Monferrato</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6466</SimpleData>
+		<SimpleData name="tipo">museo</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parco storico del Basso Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/museo.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.189874440431595,45.156384494812926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">624</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">624</SimpleData>
+		<SimpleData name="unico">6463</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Castello</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6463</SimpleData>
+		<SimpleData name="tipo">edstorico</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.192659914493561,45.159769098391592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">625</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">625</SimpleData>
+		<SimpleData name="unico">6461</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Edificio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6461</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.192844986915588,45.159127939972045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">626</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">626</SimpleData>
+		<SimpleData name="unico">6459</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Edificio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6459</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.192968368530273,45.158437599094363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">628</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">628</SimpleData>
+		<SimpleData name="unico">6455</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Villa del Novecento</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6455</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.193530291318893,45.158642810886377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">629</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">629</SimpleData>
+		<SimpleData name="unico">6453</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6453</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.194765448570251,45.15865510465693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">630</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">630</SimpleData>
+		<SimpleData name="unico">6451</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6451</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.194859325885773,45.158579450642357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">631</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">631</SimpleData>
+		<SimpleData name="unico">6449</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Villa del Novecento</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6449</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.195360898971558,45.158223875428476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">641</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">641</SimpleData>
+		<SimpleData name="unico">6417</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Cornale</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6417</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Cornale</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.291845321655273,45.159769098391592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">643</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">643</SimpleData>
+		<SimpleData name="unico">6337</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6337</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.214206099510193,45.121055926626937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">644</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">644</SimpleData>
+		<SimpleData name="unico">6335</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6335</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.215850293636322,45.120835438679237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">645</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">645</SimpleData>
+		<SimpleData name="unico">6333</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6333</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.215823471546173,45.120751217736128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">646</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">646</SimpleData>
+		<SimpleData name="unico">6331</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Municipio e info point</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6331</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.215174376964569,45.120222231666439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">647</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">647</SimpleData>
+		<SimpleData name="unico">6329</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Casaforte</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6329</SimpleData>
+		<SimpleData name="tipo">edstorico</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Casaforte</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.21545735001564,45.120208983294049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">648</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">648</SimpleData>
+		<SimpleData name="unico">6326</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa parrocchiale dei SS. Nazario e Celso</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6326</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa parrocchiale dei SS. Nazario e Celso</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.215793967247009,45.120359446770998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">691</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">691</SimpleData>
+		<SimpleData name="unico">6214</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6214</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.26073169708252,45.08492996536971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">692</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">692</SimpleData>
+		<SimpleData name="unico">6210</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6210</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.260482251644135,45.085454544105154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">693</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">693</SimpleData>
+		<SimpleData name="unico">6206</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Villa Vittorio Veneto o castello dei Conti Cavallero</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=6206</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.260581493377686,45.085702628399744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">764</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">764</SimpleData>
+		<SimpleData name="unico">5761</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Edificio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5761</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.262191,45.15641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">765</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">765</SimpleData>
+		<SimpleData name="unico">5762</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5762</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.249602,45.169041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">766</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">766</SimpleData>
+		<SimpleData name="unico">5763</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5763</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.253254,45.160923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">767</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">767</SimpleData>
+		<SimpleData name="unico">5764</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5764</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.290599,45.16161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">768</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">768</SimpleData>
+		<SimpleData name="unico">5766</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5766</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.225635,45.160011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">773</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">773</SimpleData>
+		<SimpleData name="unico">5744</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5744</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.196552,45.158112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">774</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">774</SimpleData>
+		<SimpleData name="unico">5751</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Reperto archeologia industriale</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5751</SimpleData>
+		<SimpleData name="tipo">arc_industriale</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Reperto archeologia industriale</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/arch_industriale.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.295411,45.15147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">775</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">775</SimpleData>
+		<SimpleData name="unico">5752</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Residenza primi &amp;#8217;900</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5752</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.291832,45.159294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">776</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">776</SimpleData>
+		<SimpleData name="unico">5753</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5753</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.292192915344231,45.160156260796469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">777</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">777</SimpleData>
+		<SimpleData name="unico">5754</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5754</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.290995,45.163815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">778</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">778</SimpleData>
+		<SimpleData name="unico">5755</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Edificio residenziale</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5755</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.277156,45.168941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">779</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">779</SimpleData>
+		<SimpleData name="unico">5756</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5756</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.291682,45.15995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">780</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">780</SimpleData>
+		<SimpleData name="unico">5757</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5757</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.287288,45.162075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">781</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">781</SimpleData>
+		<SimpleData name="unico">5758</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5758</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Parcheggio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.287393,45.162201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">782</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">782</SimpleData>
+		<SimpleData name="unico">5759</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5759</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.283887,45.162788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">783</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">783</SimpleData>
+		<SimpleData name="unico">5760</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5760</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.276997,45.162365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">784</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">784</SimpleData>
+		<SimpleData name="unico">5721</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5721</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.277302,45.168671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">785</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">785</SimpleData>
+		<SimpleData name="unico">5726</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parrocchiale</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5726</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.265039,45.172134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">786</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">786</SimpleData>
+		<SimpleData name="unico">5727</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5727</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.265055,45.172287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">787</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">787</SimpleData>
+		<SimpleData name="unico">5728</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Via Vittorio Emanuele</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5728</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Via Vittorio Emanuele</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.264876,45.170521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">788</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">788</SimpleData>
+		<SimpleData name="unico">5729</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Villetta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5729</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.264779,45.170532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">789</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">789</SimpleData>
+		<SimpleData name="unico">5734</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5734</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.236613,45.153027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">790</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">790</SimpleData>
+		<SimpleData name="unico">5737</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Locanda del Rubino</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5737</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.226276,45.159378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">791</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">791</SimpleData>
+		<SimpleData name="unico">5738</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5738</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.2242,45.159958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">792</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">792</SimpleData>
+		<SimpleData name="unico">5740</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta Belvedere di Cantavenna</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5740</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.219672,45.159779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">793</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">793</SimpleData>
+		<SimpleData name="unico">5743</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta Belvedere &amp;#8220;Le rocche di Zoalengo&amp;#8221;</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5743</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.206717,45.156937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">794</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">794</SimpleData>
+		<SimpleData name="unico">5705</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5705</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281098,45.160847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">795</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">795</SimpleData>
+		<SimpleData name="unico">5707</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Castello</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5707</SimpleData>
+		<SimpleData name="tipo">edstorico</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281028,45.162136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">796</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">796</SimpleData>
+		<SimpleData name="unico">5708</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5708</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.282246,45.160831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">797</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">797</SimpleData>
+		<SimpleData name="unico">5709</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Cappelletta settecentesca</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5709</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Cappelletta settecentesca</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.283804,45.162704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">798</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">798</SimpleData>
+		<SimpleData name="unico">5710</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Casa dei primi &amp;#8217;900</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5710</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.286159,45.16246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">799</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">799</SimpleData>
+		<SimpleData name="unico">5711</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Edificio primi &amp;#8217;900</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5711</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.287637,45.162045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">800</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">800</SimpleData>
+		<SimpleData name="unico">5718</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Fontanella con panchine</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5718</SimpleData>
+		<SimpleData name="tipo">fontana</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/fontana.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.282393,45.164268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">803</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">803</SimpleData>
+		<SimpleData name="unico">5697</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5697</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.189235,45.154083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">804</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">804</SimpleData>
+		<SimpleData name="unico">5698</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Edificio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5698</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.190008396329858,45.155833062598511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">825</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">825</SimpleData>
+		<SimpleData name="unico">5598</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta Belvedere di Cantavenna</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5598</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta Belvedere di Cantavenna</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.219672,45.159779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">826</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">826</SimpleData>
+		<SimpleData name="unico">5601</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta Belvedere &amp;#8220;Le rocche di Zoalengo&amp;#8221;</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5601</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta Belvedere &amp;#8220;Le rocche di Zoalengo&amp;#8221;</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.206717,45.156937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">827</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">827</SimpleData>
+		<SimpleData name="unico">5602</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5602</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.196552,45.158112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">828</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">828</SimpleData>
+		<SimpleData name="unico">5606</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5606</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.225635,45.160011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">834</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">834</SimpleData>
+		<SimpleData name="unico">5572</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5572</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.246162,45.087582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">835</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">835</SimpleData>
+		<SimpleData name="unico">5574</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Villa il Cedro</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5574</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.260206,45.084911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">836</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">836</SimpleData>
+		<SimpleData name="unico">5575</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Arco</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5575</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Arco</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.26203,45.085403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">837</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">837</SimpleData>
+		<SimpleData name="unico">5582</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5582</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.241253,45.075645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">838</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">838</SimpleData>
+		<SimpleData name="unico">5583</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Casa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5583</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.24024,45.07402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">839</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">839</SimpleData>
+		<SimpleData name="unico">5588</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di San Rocco (XIX secolo)</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5588</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.237554949737614,45.140296474010825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">840</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">840</SimpleData>
+		<SimpleData name="unico">5589</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Pieve di San Bernardo da Mentone</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5589</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.237082640892027,45.145030506686872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">841</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">841</SimpleData>
+		<SimpleData name="unico">5594</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Locanda del Rubino</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5594</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.226276,45.159378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">842</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">842</SimpleData>
+		<SimpleData name="unico">5595</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5595</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Punto di veduta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.2242,45.159958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">843</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">843</SimpleData>
+		<SimpleData name="unico">5597</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Cascina</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5597</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6041</SimpleData>
+		<SimpleData name="comune">Camino</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.272442,45.158806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">844</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">844</SimpleData>
+		<SimpleData name="unico">5551</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Cappelletta di Sant&amp;#8217;Anna</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5551</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.25426326504703,45.139224782108144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">845</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">845</SimpleData>
+		<SimpleData name="unico">5552</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Portale barocco</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5552</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.254236265047098,45.138979129970437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">846</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">846</SimpleData>
+		<SimpleData name="unico">5559</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Monumento ai partigiani</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5559</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Monumento ai partigiani</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.25405,45.118351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">847</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">847</SimpleData>
+		<SimpleData name="unico">5561</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5561</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.208651046626983,45.103202222932666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">848</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">848</SimpleData>
+		<SimpleData name="unico">5562</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5562</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.223229,45.094364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">849</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">849</SimpleData>
+		<SimpleData name="unico">5563</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5563</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.230348,45.090504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">850</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">850</SimpleData>
+		<SimpleData name="unico">5564</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5564</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.232751,45.088158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">851</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">851</SimpleData>
+		<SimpleData name="unico">5565</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Area pic-nic</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5565</SimpleData>
+		<SimpleData name="tipo">picnic</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/pic-nic.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.256183,45.086597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">852</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">852</SimpleData>
+		<SimpleData name="unico">5566</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5566</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.264192,45.086933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">853</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">853</SimpleData>
+		<SimpleData name="unico">5567</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5567</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.228899,45.084724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">854</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">854</SimpleData>
+		<SimpleData name="unico">5568</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5568</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.230176,45.084133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">855</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">855</SimpleData>
+		<SimpleData name="unico">5569</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Rovine Castello dei Merli</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5569</SimpleData>
+		<SimpleData name="tipo">edstorico</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.230433,45.08749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">857</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">857</SimpleData>
+		<SimpleData name="unico">5521</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5521</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.269862,45.094254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">858</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">858</SimpleData>
+		<SimpleData name="unico">5523</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5523</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.274947,45.091778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">859</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">859</SimpleData>
+		<SimpleData name="unico">5524</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Prima cappella Sacro Monte Crea</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5524</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.27981800859834,45.094063520714307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">860</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">860</SimpleData>
+		<SimpleData name="unico">5531</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5531</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.283707,45.099998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">861</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">861</SimpleData>
+		<SimpleData name="unico">5532</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Edificio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5532</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.282978152114879,45.100347521676504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">862</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">862</SimpleData>
+		<SimpleData name="unico">5538</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Pesa pubblica</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5538</SimpleData>
+		<SimpleData name="tipo">none</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/vuoto.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.289604460153555,45.138873600359098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">863</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">863</SimpleData>
+		<SimpleData name="unico">5539</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5539</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.290568530094106,45.140933236160421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">864</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">864</SimpleData>
+		<SimpleData name="unico">5495</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5495</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.273295,45.136425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">865</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">865</SimpleData>
+		<SimpleData name="unico">5496</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Canonica</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5496</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.283809545963322,45.085357699518916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">866</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">866</SimpleData>
+		<SimpleData name="unico">5497</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5497</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.283436855155969,45.085486663093498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">867</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">867</SimpleData>
+		<SimpleData name="unico">5498</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Castello dei Conti Davico</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5498</SimpleData>
+		<SimpleData name="tipo">edstorico</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.284469134918254,45.085475849788779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">868</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">868</SimpleData>
+		<SimpleData name="unico">5499</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Villa Larbel</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5499</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.287438845577299,45.085027867652364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">869</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">869</SimpleData>
+		<SimpleData name="unico">5501</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Santuario dell&amp;#8217;Addolorata</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5501</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.221727,45.123234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">870</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">870</SimpleData>
+		<SimpleData name="unico">5502</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5502</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.219943,45.123829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">871</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">871</SimpleData>
+		<SimpleData name="unico">5505</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5505</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.189726,45.131645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">872</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">872</SimpleData>
+		<SimpleData name="unico">5509</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Palazzo</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5509</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.185225,45.140297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">873</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">873</SimpleData>
+		<SimpleData name="unico">5510</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Villa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5510</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">2205</SimpleData>
+		<SimpleData name="comune">Gabiano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.190109,45.147583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">874</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">874</SimpleData>
+		<SimpleData name="unico">5514</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5514</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.230934084655701,45.106912395994982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">875</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">875</SimpleData>
+		<SimpleData name="unico">5515</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Palazzo</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5515</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.230916635581934,45.106735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">876</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">876</SimpleData>
+		<SimpleData name="unico">5517</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5517</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.266498,45.087753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">884</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">884</SimpleData>
+		<SimpleData name="unico">5486</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5486</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281701,45.130836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">885</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">885</SimpleData>
+		<SimpleData name="unico">5488</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Castello</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5488</SimpleData>
+		<SimpleData name="tipo">edstorico</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/ed_storico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.282315,45.131302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">886</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">886</SimpleData>
+		<SimpleData name="unico">5489</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Casina Fornacetta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5489</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.297102,45.115849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">887</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">887</SimpleData>
+		<SimpleData name="unico">5493</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Cascina Gambarello</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5493</SimpleData>
+		<SimpleData name="tipo">ed_civile</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/edificio-civile.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.27881,45.113846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">913</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">913</SimpleData>
+		<SimpleData name="unico">5358</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesetta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5358</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesetta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.205221,45.155231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">914</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">914</SimpleData>
+		<SimpleData name="unico">5359</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di Santi Rocco e Stefano</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5359</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa di Santi Rocco e Stefano</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.278249,45.169388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">915</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">915</SimpleData>
+		<SimpleData name="unico">5360</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesetta di S. Pietro Apostolo</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5360</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesetta di S. Pietro Apostolo</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.268046,45.157997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">916</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">916</SimpleData>
+		<SimpleData name="unico">5361</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5361</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.261165,45.156975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">917</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">917</SimpleData>
+		<SimpleData name="unico">5362</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5362</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.252519,45.168308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">918</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">918</SimpleData>
+		<SimpleData name="unico">5363</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5363</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.247649,45.169216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">929</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">929</SimpleData>
+		<SimpleData name="unico">5340</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa della Madonna del Carmine (XVII secolo)</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5340</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.237270055225395,45.135113078699142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">930</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">930</SimpleData>
+		<SimpleData name="unico">5341</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di San Bononio (XVII secolo)</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5341</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.238413445438368,45.13795953454558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">931</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">931</SimpleData>
+		<SimpleData name="unico">5342</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesetta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5342</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesetta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.232716,45.153522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">932</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">932</SimpleData>
+		<SimpleData name="unico">5343</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5343</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.226517,45.159801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">933</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">933</SimpleData>
+		<SimpleData name="unico">5344</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesetta di Sant&amp;#8217;Aurelio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5344</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesetta di Sant&amp;#8217;Aurelio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.205221,45.155231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">937</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">937</SimpleData>
+		<SimpleData name="unico">5354</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesetta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5354</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesetta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.232716,45.153522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">938</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">938</SimpleData>
+		<SimpleData name="unico">5355</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5355</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.292285,45.158989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">939</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">939</SimpleData>
+		<SimpleData name="unico">5357</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di San Carpoforo</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5357</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa di San Carpoforo</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.226517,45.159801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">940</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">940</SimpleData>
+		<SimpleData name="unico">5326</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa Sant&amp;#8217;Antonio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5326</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.283608583991963,45.085493230716303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">941</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">941</SimpleData>
+		<SimpleData name="unico">5327</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di S. Eusebio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5327</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa di S. Eusebio</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.188666,45.133434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">942</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">942</SimpleData>
+		<SimpleData name="unico">5328</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5328</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.196318,45.124458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">943</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">943</SimpleData>
+		<SimpleData name="unico">5329</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di San Sebastiano</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5329</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6124</SimpleData>
+		<SimpleData name="comune">Serralunga  di Crea</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281891991401608,45.100436438752922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">944</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">944</SimpleData>
+		<SimpleData name="unico">5330</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa dei Santi Fabiano e Eusebio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5330</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.289141944774656,45.138969056054179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">945</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">945</SimpleData>
+		<SimpleData name="unico">5331</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di San Grato</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5331</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.267303588954974,45.140941809659552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">946</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">946</SimpleData>
+		<SimpleData name="unico">5332</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di Sant&amp;#8217;Anna</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5332</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.254200889549224,45.139764395451721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">947</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">947</SimpleData>
+		<SimpleData name="unico">5333</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5333</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.253543,45.137394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">948</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">948</SimpleData>
+		<SimpleData name="unico">5335</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di Sant&amp;#8217;Antonio Abate</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5335</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.212103,45.101601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">949</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">949</SimpleData>
+		<SimpleData name="unico">5336</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa parrocchiale di San Giovanni Battista</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5336</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6116</SimpleData>
+		<SimpleData name="comune">Ponzano Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.260911,45.084915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">950</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">950</SimpleData>
+		<SimpleData name="unico">5337</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesetta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5337</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesetta</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.261721,45.085468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">951</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">951</SimpleData>
+		<SimpleData name="unico">5338</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5338</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6081</SimpleData>
+		<SimpleData name="comune">Castelletto Merli</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.241279982803349,45.075102705820846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">952</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">952</SimpleData>
+		<SimpleData name="unico">5339</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Santuario di San Gottardo (XVIII-XIX secolo)</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5339</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.239768,45.128105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">969</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">969</SimpleData>
+		<SimpleData name="unico">5325</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa di Sant&amp;#8217;Andrea</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5325</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune">6126</SimpleData>
+		<SimpleData name="comune">Solonghello</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.281459504299164,45.131030491727941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">972</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">972</SimpleData>
+		<SimpleData name="unico">5300</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Parcheggio</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5300</SimpleData>
+		<SimpleData name="tipo">parcheggio</SimpleData>
+		<SimpleData name="wpid_comune">6083</SimpleData>
+		<SimpleData name="comune">Cerrina Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/parcheggio.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.230907,45.10688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">973</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">973</SimpleData>
+		<SimpleData name="unico">5301</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Chiesa Parrocchiale San Lorenzo Martire</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5301</SimpleData>
+		<SimpleData name="tipo">edreligioso</SimpleData>
+		<SimpleData name="wpid_comune"></SimpleData>
+		<SimpleData name="comune">Chiesa Parrocchiale San Lorenzo Martire</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/chiesa.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.290933,45.161205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#poi_percorso1971">
+		<SimpleData name="id">974</SimpleData>
+		<SimpleData name="colour">#ffffff</SimpleData>
+		<SimpleData name="progressiv">974</SimpleData>
+		<SimpleData name="unico">5304</SimpleData>
+		<SimpleData name="picture">noimage</SimpleData>
+		<SimpleData name="titolo">Punto di veduta</SimpleData>
+		<SimpleData name="url_post">http://www.monferratopaesaggi.org/?p=5304</SimpleData>
+		<SimpleData name="tipo">puntooss</SimpleData>
+		<SimpleData name="wpid_comune">6091</SimpleData>
+		<SimpleData name="comune">Mombello Monferrato</SimpleData>
+		<SimpleData name="imageurl">http://www.monferratopaesaggi.org/wp-content/uploads/punto_panoramico.png</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.252132830688424,45.133781490450033</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
